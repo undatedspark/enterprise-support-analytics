@@ -1,0 +1,1001 @@
+﻿ID_Chamado,Usuario,Departamento,Data_Abertura,Data_Fechamento,Categoria,Subcategoria,Canal_Atendimento,Prioridade,Status,Tecnico,Tempo_Resolucao_Horas,Dentro_SLA,Nota_CSAT
+CH00001,João Guilherme da Cruz,Operações,2026-03-28 16:52:19,2026-03-29 06:28:19,Redes,Lentidão na VPN,WhatsApp,Baixa,Resolvido,Daniela Lima,13.6,Sim,5.0
+CH00002,Cauã Rocha,Operações,2026-04-08 13:34:14,,Hardware,Teclado com defeito,WhatsApp,Baixa,Em andamento,Bruno Costa,,Pendente,
+CH00003,Otávio Andrade,Financeiro,2026-05-09 20:14:53,2026-05-10 16:38:53,Software/ERP,Erro ao emitir nota,Telefone,Média,Fechado,Carlos Souza,20.4,Sim,5.0
+CH00004,Henrique da Conceição,Comercial,2026-03-20 18:53:04,2026-03-22 07:41:04,Acessos,Reset de senha AD,Portal de TI,Baixa,Resolvido,Carlos Souza,36.8,Não,5.0
+CH00005,Amanda Novais,Operações,2026-05-05 23:00:54,2026-05-07 01:00:54,Acessos,Reset de senha AD,Portal de TI,Média,Fechado,Carlos Souza,26.0,Não,1.0
+CH00006,Dra. Ísis Leão,Financeiro,2026-04-06 04:46:38,2026-04-06 07:28:38,Software/ERP,Erro ao emitir nota,WhatsApp,Média,Resolvido,Daniela Lima,2.7,Sim,5.0
+CH00007,Lara Abreu,Comercial,2026-04-08 07:06:56,2026-04-09 00:54:56,Hardware,Teclado com defeito,WhatsApp,Média,Resolvido,Bruno Costa,17.8,Sim,5.0
+CH00008,Sra. Manuela da Mota,Comercial,2026-04-02 09:29:06,2026-04-03 07:59:06,Hardware,Teclado com defeito,WhatsApp,Baixa,Resolvido,Bruno Costa,22.5,Sim,5.0
+CH00009,Lucca Caldeira,Logística,2026-04-01 23:44:43,2026-04-02 19:20:43,Software/ERP,Erro ao emitir nota,Telefone,Alta,Fechado,Daniela Lima,19.6,Não,5.0
+CH00010,Aylla Fogaça,Operações,2026-03-26 21:33:55,,Software/ERP,Instalação de software,Telefone,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00011,Julia Aparecida,Financeiro,2026-04-20 06:55:36,2026-04-20 14:01:36,Redes,Wi-Fi instável,E-mail,Crítica,Resolvido,Daniela Lima,7.1,Não,5.0
+CH00012,Camila Garcia,RH,2026-05-01 11:59:22,2026-05-02 16:47:22,Software/ERP,Instalação de software,WhatsApp,Baixa,Resolvido,Carlos Souza,28.8,Não,5.0
+CH00013,Laís Pires,Comercial,2026-03-25 13:04:10,2026-03-26 03:28:10,Redes,Lentidão na VPN,E-mail,Baixa,Fechado,Ana Silva,14.4,Sim,5.0
+CH00014,Evelyn Santos,Financeiro,2026-04-22 00:07:21,2026-04-23 07:01:21,Hardware,Impressora travada,WhatsApp,Baixa,Fechado,Carlos Souza,30.9,Não,4.0
+CH00015,Ian Vargas,RH,2026-03-24 15:31:37,2026-03-25 09:13:37,Software/ERP,Erro ao emitir nota,E-mail,Baixa,Resolvido,Ana Silva,17.7,Sim,1.0
+CH00016,Igor Brito,Financeiro,2026-04-14 23:46:29,,Redes,Lentidão na VPN,E-mail,Média,Em andamento,Daniela Lima,,Pendente,
+CH00017,Rafael Porto,Financeiro,2026-04-23 19:12:36,2026-04-24 20:48:36,Hardware,Teclado com defeito,Portal de TI,Baixa,Fechado,Daniela Lima,25.6,Não,4.0
+CH00018,Léo Fogaça,Financeiro,2026-04-22 07:34:21,2026-04-23 04:52:21,Redes,Wi-Fi instável,WhatsApp,Média,Reaberto,Carlos Souza,21.3,Sim,5.0
+CH00019,Juliana Sampaio,RH,2026-04-07 05:38:19,,Hardware,Computador não liga,WhatsApp,Média,Em andamento,Bruno Costa,,Pendente,
+CH00020,Eloá Nascimento,Operações,2026-03-24 19:49:54,,Software/ERP,Erro ao emitir nota,E-mail,Baixa,Em andamento,Carlos Souza,,Pendente,
+CH00021,Ravi Garcia,Logística,2026-04-10 15:54:09,2026-04-10 22:42:09,Acessos,Reset de senha AD,Telefone,Baixa,Resolvido,Bruno Costa,6.8,Sim,2.0
+CH00022,Hellena Rodrigues,Logística,2026-04-13 02:28:33,,Software/ERP,Acesso negado no sistema,Telefone,Média,Em andamento,Ana Silva,,Pendente,
+CH00023,Ian Andrade,Financeiro,2026-04-18 09:05:07,2026-04-18 14:17:07,Software/ERP,Erro ao emitir nota,E-mail,Crítica,Resolvido,Bruno Costa,5.2,Não,5.0
+CH00024,Juliana Azevedo,Operações,2026-04-17 12:30:38,2026-04-17 21:42:38,Redes,Cabo de rede desconectado,WhatsApp,Baixa,Resolvido,Ana Silva,9.2,Sim,5.0
+CH00025,Luara Cunha,Logística,2026-04-07 09:04:39,2026-04-07 10:16:39,Hardware,Computador não liga,Telefone,Média,Resolvido,Daniela Lima,1.2,Sim,5.0
+CH00026,Natália Casa Grande,Logística,2026-05-05 08:44:42,2026-05-05 12:02:42,Acessos,Permissão de pasta em rede,Portal de TI,Média,Resolvido,Daniela Lima,3.3,Sim,5.0
+CH00027,Josué Souza,Financeiro,2026-04-12 14:40:02,2026-04-14 04:22:02,Acessos,Reset de senha AD,Portal de TI,Média,Resolvido,Bruno Costa,37.7,Não,4.0
+CH00028,Julia Souza,Operações,2026-05-11 09:32:04,2026-05-12 11:50:04,Redes,Wi-Fi instável,Telefone,Média,Reaberto,Bruno Costa,26.3,Não,4.0
+CH00029,Maria Liz Fonseca,Operações,2026-05-13 15:38:09,,Hardware,Computador não liga,WhatsApp,Média,Em andamento,Bruno Costa,,Pendente,
+CH00030,Thomas Monteiro,RH,2026-04-08 04:30:22,2026-04-09 08:06:22,Redes,Lentidão na VPN,Telefone,Alta,Resolvido,Carlos Souza,27.6,Não,5.0
+CH00031,Daniel Cassiano,Comercial,2026-03-26 17:17:10,2026-03-28 03:47:10,Acessos,Reset de senha AD,Telefone,Baixa,Fechado,Carlos Souza,34.5,Não,5.0
+CH00032,Mariana Peixoto,Operações,2026-04-02 10:14:13,2026-04-02 11:08:13,Redes,Wi-Fi instável,E-mail,Alta,Fechado,Carlos Souza,0.9,Sim,4.0
+CH00033,Maria Helena Peixoto,Comercial,2026-03-24 01:28:56,,Redes,Wi-Fi instável,Portal de TI,Baixa,Em andamento,Bruno Costa,,Pendente,
+CH00034,Isis Novaes,Operações,2026-05-02 08:05:14,2026-05-02 22:59:14,Redes,Lentidão na VPN,Portal de TI,Média,Resolvido,Ana Silva,14.9,Sim,1.0
+CH00035,Bruna Rodrigues,Comercial,2026-03-19 00:12:16,2026-03-19 06:12:16,Hardware,Impressora travada,E-mail,Baixa,Fechado,Carlos Souza,6.0,Sim,5.0
+CH00036,Luigi Camargo,Logística,2026-05-09 00:41:00,2026-05-09 13:41:00,Redes,Wi-Fi instável,Portal de TI,Média,Resolvido,Ana Silva,13.0,Sim,5.0
+CH00037,Eduarda Marques,Logística,2026-04-15 09:21:24,,Software/ERP,Erro ao emitir nota,Telefone,Média,Em andamento,Ana Silva,,Pendente,
+CH00038,Dra. Julia Montenegro,RH,2026-03-18 05:00:50,,Hardware,Teclado com defeito,Portal de TI,Alta,Em andamento,Bruno Costa,,Pendente,
+CH00039,Bianca Pires,Financeiro,2026-04-04 05:44:27,2026-04-04 23:32:27,Redes,Cabo de rede desconectado,E-mail,Baixa,Resolvido,Ana Silva,17.8,Sim,2.0
+CH00040,Sofia Pereira,Financeiro,2026-04-15 20:52:43,2026-04-17 14:52:43,Hardware,Computador não liga,E-mail,Média,Resolvido,Daniela Lima,42.0,Não,1.0
+CH00041,Marcelo Teixeira,Financeiro,2026-04-06 04:56:54,,Software/ERP,Acesso negado no sistema,Portal de TI,Média,Em andamento,Bruno Costa,,Pendente,
+CH00042,Vitória Abreu,Logística,2026-04-02 13:53:18,2026-04-04 07:47:18,Hardware,Computador não liga,Portal de TI,Baixa,Fechado,Carlos Souza,41.9,Não,3.0
+CH00043,Dr. Antony Camargo,Comercial,2026-05-15 01:05:38,2026-05-15 12:11:38,Acessos,Permissão de pasta em rede,WhatsApp,Alta,Fechado,Carlos Souza,11.1,Não,4.0
+CH00044,Isaque Araújo,RH,2026-04-22 03:15:30,2026-04-23 12:03:30,Software/ERP,Erro ao emitir nota,Portal de TI,Média,Resolvido,Bruno Costa,32.8,Não,4.0
+CH00045,Anna Liz Barros,Comercial,2026-04-10 06:43:24,2026-04-10 09:01:24,Software/ERP,Instalação de software,Telefone,Crítica,Resolvido,Ana Silva,2.3,Sim,5.0
+CH00046,Vitor Vargas,Operações,2026-05-04 01:53:30,2026-05-04 14:29:30,Redes,Lentidão na VPN,E-mail,Média,Resolvido,Carlos Souza,12.6,Sim,4.0
+CH00047,Renan Novaes,Comercial,2026-03-30 02:29:42,2026-03-31 22:41:42,Redes,Lentidão na VPN,Portal de TI,Alta,Resolvido,Daniela Lima,44.2,Não,4.0
+CH00048,Vinícius Pereira,Financeiro,2026-04-02 22:13:32,2026-04-04 01:01:32,Acessos,Criar novo usuário,Portal de TI,Média,Resolvido,Daniela Lima,26.8,Não,5.0
+CH00049,Vitor Hugo Sá,Logística,2026-04-27 23:26:05,2026-04-28 13:32:05,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Resolvido,Bruno Costa,14.1,Sim,5.0
+CH00050,Sra. Maria Liz Rios,Operações,2026-04-06 10:10:04,2026-04-08 08:16:04,Redes,Cabo de rede desconectado,Portal de TI,Média,Resolvido,Ana Silva,46.1,Não,4.0
+CH00051,Stella Machado,RH,2026-04-23 03:35:05,2026-04-24 12:05:05,Hardware,Computador não liga,WhatsApp,Média,Fechado,Bruno Costa,32.5,Não,5.0
+CH00052,Henry Gabriel Azevedo,Logística,2026-03-29 15:24:43,2026-03-31 04:24:43,Hardware,Teclado com defeito,Telefone,Média,Reaberto,Daniela Lima,37.0,Não,5.0
+CH00053,Yuri da Conceição,Financeiro,2026-04-19 17:14:54,2026-04-19 18:02:54,Redes,Cabo de rede desconectado,E-mail,Média,Resolvido,Daniela Lima,0.8,Sim,4.0
+CH00054,André Barbosa,Financeiro,2026-05-14 00:37:00,,Redes,Cabo de rede desconectado,Telefone,Baixa,Em andamento,Carlos Souza,,Pendente,
+CH00055,Bernardo Andrade,Logística,2026-03-23 14:38:15,2026-03-24 20:14:15,Acessos,Criar novo usuário,E-mail,Alta,Reaberto,Daniela Lima,29.6,Não,4.0
+CH00056,Théo da Costa,Financeiro,2026-04-18 23:24:22,2026-04-20 15:48:22,Acessos,Criar novo usuário,Portal de TI,Média,Resolvido,Daniela Lima,40.4,Não,5.0
+CH00057,Raquel Cunha,Comercial,2026-04-13 22:21:03,,Software/ERP,Acesso negado no sistema,WhatsApp,Baixa,Em andamento,Bruno Costa,,Pendente,
+CH00058,Renan da Cruz,Comercial,2026-05-09 05:57:29,2026-05-09 13:45:29,Acessos,Permissão de pasta em rede,Telefone,Baixa,Resolvido,Daniela Lima,7.8,Sim,5.0
+CH00059,Esther Brito,RH,2026-05-02 19:33:31,,Acessos,Criar novo usuário,Telefone,Alta,Em andamento,Daniela Lima,,Pendente,
+CH00060,Marina Fogaça,Operações,2026-03-27 07:19:01,,Acessos,Permissão de pasta em rede,E-mail,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00061,Nina Siqueira,Financeiro,2026-04-28 00:27:42,2026-04-28 02:21:42,Acessos,Criar novo usuário,Telefone,Média,Resolvido,Bruno Costa,1.9,Sim,5.0
+CH00062,Beatriz Araújo,Logística,2026-03-23 03:40:47,2026-03-24 23:16:47,Redes,Wi-Fi instável,E-mail,Média,Reaberto,Daniela Lima,43.6,Não,5.0
+CH00063,Sra. Bianca da Cruz,Comercial,2026-04-25 23:37:39,2026-04-26 15:37:39,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Resolvido,Carlos Souza,16.0,Sim,5.0
+CH00064,Vitor Gabriel Machado,RH,2026-04-05 11:53:21,2026-04-06 23:59:21,Software/ERP,Erro ao emitir nota,WhatsApp,Média,Fechado,Ana Silva,36.1,Não,5.0
+CH00065,Emilly da Mota,RH,2026-03-31 12:06:01,2026-03-31 13:36:01,Hardware,Impressora travada,E-mail,Baixa,Fechado,Daniela Lima,1.5,Sim,5.0
+CH00066,Breno Macedo,Comercial,2026-05-01 19:27:12,2026-05-02 03:57:12,Redes,Wi-Fi instável,WhatsApp,Média,Resolvido,Ana Silva,8.5,Sim,4.0
+CH00067,Benicio Rezende,Operações,2026-05-10 07:48:10,2026-05-12 03:24:10,Hardware,Computador não liga,E-mail,Média,Fechado,Ana Silva,43.6,Não,5.0
+CH00068,Caleb Sá,Operações,2026-05-09 09:06:47,2026-05-10 18:06:47,Redes,Cabo de rede desconectado,Telefone,Baixa,Resolvido,Carlos Souza,33.0,Não,4.0
+CH00069,Nicolas Mendonça,Logística,2026-04-09 20:15:21,,Redes,Cabo de rede desconectado,WhatsApp,Média,Em andamento,Daniela Lima,,Pendente,
+CH00070,Murilo Araújo,Operações,2026-05-03 15:05:54,2026-05-05 06:59:54,Acessos,Reset de senha AD,Portal de TI,Média,Reaberto,Daniela Lima,39.9,Não,4.0
+CH00071,Agatha Gomes,Comercial,2026-04-02 21:05:03,2026-04-04 01:41:03,Hardware,Computador não liga,Telefone,Alta,Resolvido,Bruno Costa,28.6,Não,5.0
+CH00072,Laura Lima,Financeiro,2026-04-12 15:25:11,2026-04-13 23:37:11,Acessos,Permissão de pasta em rede,Telefone,Média,Fechado,Bruno Costa,32.2,Não,5.0
+CH00073,Raquel Cassiano,RH,2026-05-10 20:29:09,2026-05-11 10:17:09,Software/ERP,Instalação de software,E-mail,Baixa,Resolvido,Ana Silva,13.8,Sim,5.0
+CH00074,Henrique Araújo,Logística,2026-04-05 07:56:45,2026-04-06 10:50:45,Acessos,Criar novo usuário,Telefone,Média,Resolvido,Ana Silva,26.9,Não,5.0
+CH00075,Dra. Ana Liz Souza,Operações,2026-05-13 03:02:23,,Hardware,Impressora travada,Portal de TI,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00076,Benicio Pacheco,Logística,2026-04-17 08:12:14,2026-04-19 08:00:14,Software/ERP,Instalação de software,Portal de TI,Baixa,Resolvido,Carlos Souza,47.8,Não,5.0
+CH00077,Vitória Castro,Financeiro,2026-05-03 04:26:58,2026-05-03 14:02:58,Hardware,Computador não liga,Telefone,Baixa,Resolvido,Carlos Souza,9.6,Sim,5.0
+CH00078,Anna Liz Cirino,Comercial,2026-03-23 09:59:27,2026-03-24 11:23:27,Redes,Wi-Fi instável,E-mail,Crítica,Fechado,Carlos Souza,25.4,Não,5.0
+CH00079,Ana Lívia Rocha,Comercial,2026-03-24 13:07:05,2026-03-25 15:01:05,Redes,Lentidão na VPN,E-mail,Baixa,Resolvido,Daniela Lima,25.9,Não,5.0
+CH00080,Bárbara Nunes,Logística,2026-04-09 17:31:00,,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Em andamento,Carlos Souza,,Pendente,
+CH00081,Ana Cecília Pinto,Logística,2026-04-10 19:10:31,2026-04-12 16:22:31,Redes,Cabo de rede desconectado,WhatsApp,Baixa,Resolvido,Ana Silva,45.2,Não,5.0
+CH00082,Stephany Dias,Operações,2026-03-25 20:29:13,2026-03-27 18:05:13,Hardware,Computador não liga,Telefone,Alta,Resolvido,Bruno Costa,45.6,Não,5.0
+CH00083,Levi da Costa,Operações,2026-04-12 05:04:48,2026-04-14 00:46:48,Acessos,Permissão de pasta em rede,WhatsApp,Baixa,Fechado,Ana Silva,43.7,Não,5.0
+CH00084,Caroline Rios,Financeiro,2026-04-12 16:22:43,2026-04-13 02:52:43,Hardware,Computador não liga,WhatsApp,Baixa,Fechado,Bruno Costa,10.5,Sim,4.0
+CH00085,Luara Sá,RH,2026-04-16 00:29:44,,Acessos,Permissão de pasta em rede,E-mail,Média,Em andamento,Carlos Souza,,Pendente,
+CH00086,Raul Pinto,Operações,2026-03-24 22:29:22,2026-03-25 20:35:22,Software/ERP,Instalação de software,E-mail,Média,Fechado,Daniela Lima,22.1,Sim,4.0
+CH00087,Brayan Nascimento,Financeiro,2026-05-11 13:19:19,,Hardware,Impressora travada,WhatsApp,Baixa,Em andamento,Ana Silva,,Pendente,
+CH00088,Julia Cardoso,RH,2026-04-07 14:08:14,2026-04-09 02:14:14,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Resolvido,Carlos Souza,36.1,Não,5.0
+CH00089,Joaquim Freitas,RH,2026-04-20 18:42:05,2026-04-21 19:00:05,Redes,Lentidão na VPN,Telefone,Alta,Resolvido,Carlos Souza,24.3,Não,5.0
+CH00090,Pedro Lucas Nogueira,Comercial,2026-04-14 13:31:14,2026-04-15 00:55:14,Redes,Lentidão na VPN,WhatsApp,Baixa,Resolvido,Bruno Costa,11.4,Sim,4.0
+CH00091,Vitória Albuquerque,Logística,2026-04-16 06:22:04,2026-04-18 02:22:04,Acessos,Criar novo usuário,WhatsApp,Média,Resolvido,Daniela Lima,44.0,Não,5.0
+CH00092,Cauã Carvalho,Logística,2026-05-10 17:46:08,2026-05-12 02:04:08,Software/ERP,Acesso negado no sistema,Portal de TI,Baixa,Resolvido,Daniela Lima,32.3,Não,3.0
+CH00093,Cauê Souza,Logística,2026-04-12 13:42:07,2026-04-13 11:48:07,Software/ERP,Erro ao emitir nota,WhatsApp,Média,Fechado,Daniela Lima,22.1,Sim,5.0
+CH00094,João Gabriel da Paz,Financeiro,2026-05-10 14:33:23,2026-05-11 08:15:23,Acessos,Reset de senha AD,Portal de TI,Baixa,Resolvido,Bruno Costa,17.7,Sim,4.0
+CH00095,Luigi Costela,Financeiro,2026-05-15 14:48:27,2026-05-17 00:30:27,Hardware,Teclado com defeito,Portal de TI,Média,Fechado,Ana Silva,33.7,Não,5.0
+CH00096,Rebeca da Cunha,Financeiro,2026-04-12 12:34:44,2026-04-14 12:10:44,Acessos,Reset de senha AD,Telefone,Baixa,Resolvido,Carlos Souza,47.6,Não,3.0
+CH00097,Otávio da Mota,Operações,2026-03-22 19:49:19,2026-03-24 11:55:19,Hardware,Impressora travada,E-mail,Baixa,Resolvido,Daniela Lima,40.1,Não,1.0
+CH00098,Lucas Gabriel Vargas,Logística,2026-03-22 04:10:53,2026-03-23 16:04:53,Redes,Cabo de rede desconectado,Portal de TI,Média,Resolvido,Carlos Souza,35.9,Não,5.0
+CH00099,Julia Castro,Logística,2026-03-30 14:17:01,2026-03-31 04:59:01,Acessos,Reset de senha AD,Telefone,Baixa,Fechado,Carlos Souza,14.7,Sim,5.0
+CH00100,Mariane Novais,Financeiro,2026-04-29 19:00:11,2026-04-30 13:24:11,Hardware,Teclado com defeito,Telefone,Média,Resolvido,Bruno Costa,18.4,Sim,2.0
+CH00101,Breno Sales,Financeiro,2026-03-18 19:59:02,2026-03-19 11:35:02,Acessos,Permissão de pasta em rede,Telefone,Média,Fechado,Ana Silva,15.6,Sim,5.0
+CH00102,Ana Carolina Freitas,Logística,2026-04-01 08:46:24,,Software/ERP,Erro ao emitir nota,WhatsApp,Crítica,Em andamento,Daniela Lima,,Pendente,
+CH00103,Clara Lopes,Logística,2026-05-13 10:47:51,,Hardware,Computador não liga,Portal de TI,Baixa,Em andamento,Carlos Souza,,Pendente,
+CH00104,Leandro Fonseca,Logística,2026-03-30 06:25:17,2026-03-30 10:43:17,Acessos,Permissão de pasta em rede,WhatsApp,Baixa,Resolvido,Ana Silva,4.3,Sim,5.0
+CH00105,Sr. Josué Rios,RH,2026-03-21 18:24:49,2026-03-22 08:36:49,Redes,Cabo de rede desconectado,WhatsApp,Média,Resolvido,Daniela Lima,14.2,Sim,5.0
+CH00106,Dr. Eduardo da Costa,Comercial,2026-03-27 20:58:42,2026-03-27 22:52:42,Redes,Cabo de rede desconectado,Portal de TI,Baixa,Resolvido,Daniela Lima,1.9,Sim,5.0
+CH00107,Noah Alves,Financeiro,2026-04-02 16:06:30,,Hardware,Computador não liga,WhatsApp,Média,Em andamento,Daniela Lima,,Pendente,
+CH00108,Sra. Maria Sophia Rios,Comercial,2026-04-04 07:23:33,2026-04-06 03:17:33,Acessos,Criar novo usuário,Telefone,Baixa,Resolvido,Carlos Souza,43.9,Não,5.0
+CH00109,Emanuel Viana,Logística,2026-04-10 23:43:24,2026-04-11 22:19:24,Hardware,Computador não liga,Portal de TI,Alta,Resolvido,Carlos Souza,22.6,Não,5.0
+CH00110,Ana Carolina Melo,Logística,2026-03-28 09:19:58,2026-03-28 21:43:58,Hardware,Impressora travada,WhatsApp,Média,Resolvido,Bruno Costa,12.4,Sim,4.0
+CH00111,Raul Ferreira,Logística,2026-04-08 11:45:36,2026-04-09 02:21:36,Redes,Lentidão na VPN,Portal de TI,Baixa,Resolvido,Ana Silva,14.6,Sim,4.0
+CH00112,Henry Gabriel Alves,Financeiro,2026-04-16 12:35:53,2026-04-18 00:29:53,Acessos,Permissão de pasta em rede,Portal de TI,Média,Resolvido,Bruno Costa,35.9,Não,5.0
+CH00113,Luísa da Mota,RH,2026-04-05 15:28:37,2026-04-07 00:10:37,Hardware,Teclado com defeito,WhatsApp,Média,Resolvido,Carlos Souza,32.7,Não,4.0
+CH00114,Luiz Fernando Ramos,Logística,2026-03-24 15:12:50,2026-03-25 09:00:50,Software/ERP,Acesso negado no sistema,E-mail,Baixa,Fechado,Bruno Costa,17.8,Sim,5.0
+CH00115,Zoe Farias,Operações,2026-05-06 08:27:11,,Software/ERP,Instalação de software,Portal de TI,Média,Em andamento,Bruno Costa,,Pendente,
+CH00116,José Pedro Cavalcanti,Logística,2026-03-20 13:45:57,2026-03-21 13:09:57,Software/ERP,Erro ao emitir nota,WhatsApp,Alta,Resolvido,Bruno Costa,23.4,Não,4.0
+CH00117,Arthur Miguel Caldeira,Comercial,2026-05-13 06:19:26,2026-05-14 14:55:26,Acessos,Criar novo usuário,WhatsApp,Baixa,Fechado,Daniela Lima,32.6,Não,4.0
+CH00118,Manuella Siqueira,Comercial,2026-05-14 19:33:49,,Acessos,Permissão de pasta em rede,Telefone,Média,Em andamento,Carlos Souza,,Pendente,
+CH00119,Sophia Camargo,Operações,2026-04-17 08:22:23,,Redes,Lentidão na VPN,Portal de TI,Baixa,Em andamento,Bruno Costa,,Pendente,
+CH00120,Esther da Cunha,Financeiro,2026-04-24 07:01:20,2026-04-25 05:37:20,Acessos,Reset de senha AD,WhatsApp,Média,Resolvido,Ana Silva,22.6,Sim,4.0
+CH00121,Sra. Agatha Moreira,Logística,2026-03-22 04:52:48,2026-03-22 09:58:48,Hardware,Impressora travada,Portal de TI,Média,Resolvido,Daniela Lima,5.1,Sim,3.0
+CH00122,Fernanda Fonseca,Logística,2026-05-09 04:08:09,2026-05-10 22:44:09,Acessos,Criar novo usuário,Portal de TI,Média,Resolvido,Ana Silva,42.6,Não,4.0
+CH00123,Lucas Pinto,Comercial,2026-04-28 18:26:51,2026-04-29 16:02:51,Software/ERP,Erro ao emitir nota,Portal de TI,Baixa,Resolvido,Ana Silva,21.6,Sim,5.0
+CH00124,Camila Silveira,Financeiro,2026-04-17 08:55:42,2026-04-17 15:13:42,Acessos,Reset de senha AD,WhatsApp,Baixa,Resolvido,Ana Silva,6.3,Sim,4.0
+CH00125,Luana Rios,Financeiro,2026-04-16 01:15:12,2026-04-16 07:45:12,Redes,Lentidão na VPN,E-mail,Baixa,Fechado,Bruno Costa,6.5,Sim,5.0
+CH00126,Dr. Juan Novaes,Operações,2026-04-26 13:04:35,2026-04-28 08:22:35,Hardware,Computador não liga,Portal de TI,Baixa,Resolvido,Bruno Costa,43.3,Não,5.0
+CH00127,Otto Rios,Comercial,2026-03-30 06:03:14,,Hardware,Computador não liga,E-mail,Alta,Em andamento,Carlos Souza,,Pendente,
+CH00128,Emanuella Pimenta,Logística,2026-04-23 16:55:28,,Hardware,Teclado com defeito,WhatsApp,Baixa,Em andamento,Ana Silva,,Pendente,
+CH00129,Nathan Novaes,RH,2026-05-12 03:33:47,2026-05-13 04:27:47,Hardware,Teclado com defeito,Portal de TI,Média,Resolvido,Daniela Lima,24.9,Não,5.0
+CH00130,João Pedro Costela,RH,2026-03-17 22:23:52,2026-03-19 22:17:52,Acessos,Criar novo usuário,Telefone,Baixa,Resolvido,Daniela Lima,47.9,Não,4.0
+CH00131,Luna Martins,Financeiro,2026-04-28 15:09:50,,Hardware,Computador não liga,Portal de TI,Baixa,Em andamento,Carlos Souza,,Pendente,
+CH00132,Hadassa Moraes,RH,2026-04-29 18:53:16,2026-04-30 09:23:16,Acessos,Reset de senha AD,E-mail,Média,Resolvido,Daniela Lima,14.5,Sim,5.0
+CH00133,Srta. Antonella da Paz,RH,2026-05-02 20:03:20,2026-05-03 12:39:20,Acessos,Criar novo usuário,Portal de TI,Baixa,Resolvido,Daniela Lima,16.6,Sim,5.0
+CH00134,Lívia Borges,RH,2026-05-06 22:32:31,2026-05-08 20:20:31,Acessos,Reset de senha AD,WhatsApp,Baixa,Resolvido,Ana Silva,45.8,Não,4.0
+CH00135,Luana Câmara,Operações,2026-04-09 16:44:07,2026-04-10 10:56:07,Redes,Lentidão na VPN,Portal de TI,Média,Resolvido,Ana Silva,18.2,Sim,5.0
+CH00136,Apollo Aparecida,Operações,2026-04-06 05:27:29,2026-04-08 02:39:29,Redes,Cabo de rede desconectado,Portal de TI,Alta,Resolvido,Carlos Souza,45.2,Não,5.0
+CH00137,Ana Sophia Marques,Logística,2026-04-10 15:58:35,,Hardware,Teclado com defeito,E-mail,Média,Em andamento,Ana Silva,,Pendente,
+CH00138,Evelyn Silva,Operações,2026-04-27 03:10:10,2026-04-27 09:10:10,Hardware,Impressora travada,WhatsApp,Média,Resolvido,Carlos Souza,6.0,Sim,5.0
+CH00139,Maria Liz da Cruz,Comercial,2026-04-24 04:11:11,,Software/ERP,Acesso negado no sistema,WhatsApp,Baixa,Em andamento,Bruno Costa,,Pendente,
+CH00140,Alana Sá,Operações,2026-04-01 05:19:05,2026-04-02 00:49:05,Redes,Wi-Fi instável,E-mail,Média,Fechado,Daniela Lima,19.5,Sim,5.0
+CH00141,Hellena Cavalcanti,Financeiro,2026-03-28 05:49:06,2026-03-28 23:55:06,Redes,Wi-Fi instável,E-mail,Baixa,Resolvido,Ana Silva,18.1,Sim,4.0
+CH00142,Ana Julia Novais,Comercial,2026-05-07 04:22:51,2026-05-08 12:16:51,Acessos,Permissão de pasta em rede,E-mail,Baixa,Resolvido,Ana Silva,31.9,Não,5.0
+CH00143,Rafael Carvalho,Financeiro,2026-04-11 02:07:33,2026-04-12 10:49:33,Software/ERP,Erro ao emitir nota,Telefone,Baixa,Resolvido,Ana Silva,32.7,Não,5.0
+CH00144,Vitória Novais,Comercial,2026-05-02 00:08:56,,Hardware,Computador não liga,Portal de TI,Baixa,Em andamento,Carlos Souza,,Pendente,
+CH00145,Dr. Thiago Lima,Financeiro,2026-05-14 16:57:23,,Acessos,Reset de senha AD,Telefone,Média,Em andamento,Bruno Costa,,Pendente,
+CH00146,Eduarda Souza,RH,2026-05-10 02:05:10,2026-05-11 16:53:10,Redes,Cabo de rede desconectado,Telefone,Alta,Resolvido,Ana Silva,38.8,Não,5.0
+CH00147,Joana Sá,RH,2026-05-02 23:31:24,2026-05-04 03:13:24,Acessos,Permissão de pasta em rede,Telefone,Média,Fechado,Ana Silva,27.7,Não,4.0
+CH00148,Kamilly Vargas,Logística,2026-04-10 21:33:44,2026-04-12 19:03:44,Software/ERP,Erro ao emitir nota,WhatsApp,Baixa,Reaberto,Bruno Costa,45.5,Não,5.0
+CH00149,Isabella da Mota,Comercial,2026-05-07 12:10:06,2026-05-07 16:22:06,Software/ERP,Erro ao emitir nota,E-mail,Média,Resolvido,Ana Silva,4.2,Sim,3.0
+CH00150,João Pedro da Costa,Financeiro,2026-04-29 14:25:45,2026-04-30 15:07:45,Software/ERP,Acesso negado no sistema,E-mail,Baixa,Resolvido,Ana Silva,24.7,Não,3.0
+CH00151,Dr. Vitor Hugo Barros,RH,2026-04-13 06:35:38,,Hardware,Teclado com defeito,E-mail,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00152,Igor Gomes,Comercial,2026-03-31 07:53:12,2026-04-01 11:53:12,Software/ERP,Instalação de software,E-mail,Média,Resolvido,Daniela Lima,28.0,Não,4.0
+CH00153,Srta. Ana Luiza Leão,Operações,2026-04-01 17:30:50,,Software/ERP,Acesso negado no sistema,WhatsApp,Média,Em andamento,Carlos Souza,,Pendente,
+CH00154,Dr. Oliver Araújo,RH,2026-04-26 11:13:38,2026-04-27 09:13:38,Software/ERP,Erro ao emitir nota,Telefone,Baixa,Resolvido,Daniela Lima,22.0,Sim,5.0
+CH00155,Maria Julia Vargas,Operações,2026-04-06 23:24:39,2026-04-08 11:00:39,Hardware,Impressora travada,Telefone,Crítica,Resolvido,Bruno Costa,35.6,Não,5.0
+CH00156,Srta. Maria Helena Mendes,Financeiro,2026-05-13 14:27:20,2026-05-15 05:27:20,Redes,Lentidão na VPN,WhatsApp,Média,Reaberto,Bruno Costa,39.0,Não,4.0
+CH00157,Dr. Mathias Leão,Comercial,2026-03-18 11:11:26,2026-03-19 12:35:26,Software/ERP,Acesso negado no sistema,Telefone,Crítica,Fechado,Daniela Lima,25.4,Não,4.0
+CH00158,Dra. Ísis Pereira,Comercial,2026-05-09 03:35:48,2026-05-09 06:35:48,Software/ERP,Erro ao emitir nota,WhatsApp,Média,Fechado,Daniela Lima,3.0,Sim,4.0
+CH00159,Hellena da Mata,RH,2026-04-08 07:20:39,2026-04-09 15:02:39,Hardware,Impressora travada,E-mail,Média,Resolvido,Carlos Souza,31.7,Não,3.0
+CH00160,Ana Gomes,Operações,2026-04-29 05:01:24,2026-04-30 13:01:24,Redes,Cabo de rede desconectado,Telefone,Média,Resolvido,Carlos Souza,32.0,Não,5.0
+CH00161,Maria Luiza Silveira,Logística,2026-04-19 12:41:25,2026-04-21 04:35:25,Redes,Lentidão na VPN,Portal de TI,Média,Fechado,Ana Silva,39.9,Não,4.0
+CH00162,Carolina Pinto,Financeiro,2026-04-02 22:02:02,2026-04-03 08:44:02,Acessos,Reset de senha AD,E-mail,Baixa,Resolvido,Bruno Costa,10.7,Sim,2.0
+CH00163,Matteo Pastor,Operações,2026-05-08 18:03:00,,Redes,Lentidão na VPN,WhatsApp,Alta,Em andamento,Carlos Souza,,Pendente,
+CH00164,Amanda Barros,Operações,2026-05-11 16:34:50,2026-05-12 21:28:50,Hardware,Teclado com defeito,E-mail,Média,Fechado,Daniela Lima,28.9,Não,5.0
+CH00165,Ravi Cirino,Operações,2026-04-28 12:11:31,,Hardware,Impressora travada,Portal de TI,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00166,Mateus Duarte,Operações,2026-03-22 18:37:25,2026-03-24 17:01:25,Hardware,Impressora travada,Telefone,Baixa,Resolvido,Daniela Lima,46.4,Não,4.0
+CH00167,Lunna Fernandes,Operações,2026-04-07 10:39:22,2026-04-08 11:03:22,Hardware,Computador não liga,E-mail,Média,Fechado,Carlos Souza,24.4,Não,5.0
+CH00168,Otto da Cunha,RH,2026-04-23 16:52:48,,Software/ERP,Instalação de software,WhatsApp,Média,Em andamento,Carlos Souza,,Pendente,
+CH00169,Allana Souza,Financeiro,2026-03-25 20:18:26,,Acessos,Criar novo usuário,Telefone,Baixa,Em andamento,Ana Silva,,Pendente,
+CH00170,Luiz Fernando Câmara,RH,2026-05-09 06:23:21,2026-05-10 04:17:21,Redes,Cabo de rede desconectado,Telefone,Baixa,Fechado,Carlos Souza,21.9,Sim,5.0
+CH00171,Ana Cecília Sá,Comercial,2026-03-24 13:20:39,2026-03-25 07:38:39,Redes,Lentidão na VPN,E-mail,Crítica,Resolvido,Bruno Costa,18.3,Não,5.0
+CH00172,Guilherme Almeida,Financeiro,2026-03-20 21:45:25,,Acessos,Criar novo usuário,Telefone,Alta,Em andamento,Daniela Lima,,Pendente,
+CH00173,Davi Lucas Melo,Operações,2026-04-01 16:31:42,2026-04-01 17:55:42,Hardware,Teclado com defeito,Telefone,Alta,Resolvido,Ana Silva,1.4,Sim,5.0
+CH00174,Helena Martins,RH,2026-03-28 23:59:55,2026-03-29 06:17:55,Acessos,Reset de senha AD,Telefone,Baixa,Fechado,Ana Silva,6.3,Sim,5.0
+CH00175,Sr. Danilo Vasconcelos,Comercial,2026-04-11 18:32:34,2026-04-13 05:08:34,Redes,Lentidão na VPN,E-mail,Média,Resolvido,Daniela Lima,34.6,Não,5.0
+CH00176,Cauê Pacheco,Logística,2026-04-02 19:03:14,2026-04-03 20:27:14,Redes,Cabo de rede desconectado,WhatsApp,Média,Resolvido,Daniela Lima,25.4,Não,5.0
+CH00177,Marcos Vinicius Gonçalves,RH,2026-03-20 09:17:13,2026-03-20 10:35:13,Software/ERP,Erro ao emitir nota,Portal de TI,Baixa,Reaberto,Bruno Costa,1.3,Sim,4.0
+CH00178,Joaquim Caldeira,Logística,2026-04-06 03:35:37,,Hardware,Teclado com defeito,Telefone,Média,Em andamento,Bruno Costa,,Pendente,
+CH00179,Bárbara Vieira,RH,2026-04-16 04:11:25,2026-04-17 17:35:25,Software/ERP,Erro ao emitir nota,E-mail,Baixa,Fechado,Ana Silva,37.4,Não,5.0
+CH00180,Luiz Felipe Nascimento,RH,2026-05-11 20:10:13,2026-05-12 15:34:13,Acessos,Permissão de pasta em rede,E-mail,Baixa,Resolvido,Carlos Souza,19.4,Sim,4.0
+CH00181,Maria Eduarda Azevedo,Logística,2026-04-28 11:38:42,2026-04-30 05:14:42,Redes,Cabo de rede desconectado,Telefone,Média,Resolvido,Daniela Lima,41.6,Não,5.0
+CH00182,Manuela Albuquerque,Operações,2026-05-06 00:25:33,2026-05-07 23:13:33,Acessos,Permissão de pasta em rede,Portal de TI,Baixa,Fechado,Ana Silva,46.8,Não,5.0
+CH00183,Bianca Lopes,RH,2026-04-27 16:15:35,2026-04-28 21:21:35,Software/ERP,Acesso negado no sistema,WhatsApp,Baixa,Fechado,Carlos Souza,29.1,Não,4.0
+CH00184,Natália Santos,Logística,2026-04-22 01:24:40,2026-04-23 06:30:40,Acessos,Permissão de pasta em rede,WhatsApp,Baixa,Resolvido,Carlos Souza,29.1,Não,5.0
+CH00185,Emanuelly Siqueira,Logística,2026-04-01 17:56:49,2026-04-03 00:50:49,Redes,Wi-Fi instável,Portal de TI,Média,Resolvido,Bruno Costa,30.9,Não,4.0
+CH00186,Júlia Pimenta,RH,2026-05-07 13:12:35,2026-05-08 18:36:35,Redes,Wi-Fi instável,E-mail,Baixa,Reaberto,Carlos Souza,29.4,Não,4.0
+CH00187,Nina Lopes,Comercial,2026-05-09 03:29:08,2026-05-09 05:29:08,Acessos,Permissão de pasta em rede,Telefone,Alta,Resolvido,Ana Silva,2.0,Sim,5.0
+CH00188,Lorenzo da Cruz,RH,2026-05-14 10:01:04,2026-05-15 05:25:04,Hardware,Computador não liga,E-mail,Média,Resolvido,Daniela Lima,19.4,Sim,4.0
+CH00189,Rael da Cruz,Operações,2026-03-26 07:23:28,2026-03-26 13:29:28,Acessos,Reset de senha AD,Portal de TI,Alta,Resolvido,Daniela Lima,6.1,Não,4.0
+CH00190,Maria Helena Fernandes,Comercial,2026-05-02 00:18:04,2026-05-02 04:18:04,Acessos,Reset de senha AD,Portal de TI,Baixa,Resolvido,Ana Silva,4.0,Sim,5.0
+CH00191,Lunna Cirino,Operações,2026-03-20 16:19:40,2026-03-21 07:01:40,Hardware,Impressora travada,E-mail,Baixa,Resolvido,Ana Silva,14.7,Sim,5.0
+CH00192,Luiz Gustavo da Luz,Operações,2026-05-04 05:31:32,2026-05-04 17:13:32,Software/ERP,Instalação de software,Portal de TI,Média,Reaberto,Daniela Lima,11.7,Sim,5.0
+CH00193,João Guilherme Novais,Logística,2026-04-19 22:29:56,2026-04-21 04:05:56,Software/ERP,Acesso negado no sistema,Telefone,Média,Fechado,Daniela Lima,29.6,Não,5.0
+CH00194,Esther Barros,Operações,2026-03-18 21:06:20,2026-03-20 19:48:20,Acessos,Permissão de pasta em rede,Portal de TI,Baixa,Fechado,Bruno Costa,46.7,Não,4.0
+CH00195,Sra. Rebeca Novais,Operações,2026-04-10 07:51:08,2026-04-11 14:45:08,Hardware,Impressora travada,WhatsApp,Média,Fechado,Ana Silva,30.9,Não,5.0
+CH00196,Sra. Rebeca Machado,Operações,2026-04-10 05:26:50,2026-04-10 13:38:50,Hardware,Impressora travada,Portal de TI,Baixa,Resolvido,Ana Silva,8.2,Sim,2.0
+CH00197,Juan Câmara,Operações,2026-03-19 13:37:53,2026-03-20 16:19:53,Software/ERP,Instalação de software,WhatsApp,Média,Resolvido,Bruno Costa,26.7,Não,5.0
+CH00198,Srta. Lorena Ribeiro,RH,2026-04-26 03:46:29,2026-04-26 12:22:29,Software/ERP,Instalação de software,WhatsApp,Média,Resolvido,Ana Silva,8.6,Sim,4.0
+CH00199,Dr. Yuri Moura,Financeiro,2026-05-13 08:34:28,,Software/ERP,Instalação de software,Telefone,Média,Em andamento,Ana Silva,,Pendente,
+CH00200,Luísa Fogaça,Logística,2026-04-20 06:27:53,2026-04-20 20:45:53,Acessos,Reset de senha AD,Portal de TI,Média,Resolvido,Daniela Lima,14.3,Sim,2.0
+CH00201,Leandro da Cunha,Logística,2026-04-30 22:45:18,,Acessos,Permissão de pasta em rede,Telefone,Baixa,Em andamento,Bruno Costa,,Pendente,
+CH00202,Gael Dias,Financeiro,2026-04-09 06:38:40,2026-04-11 00:02:40,Software/ERP,Acesso negado no sistema,Portal de TI,Baixa,Resolvido,Ana Silva,41.4,Não,5.0
+CH00203,Dra. Ester Correia,Comercial,2026-03-29 12:02:04,2026-03-30 01:14:04,Redes,Wi-Fi instável,Telefone,Média,Resolvido,Daniela Lima,13.2,Sim,5.0
+CH00204,Sra. Kamilly Silveira,Financeiro,2026-04-07 21:39:52,2026-04-08 05:45:52,Software/ERP,Erro ao emitir nota,Telefone,Alta,Resolvido,Daniela Lima,8.1,Não,5.0
+CH00205,Larissa Brito,Financeiro,2026-05-14 03:17:20,2026-05-14 04:53:20,Acessos,Reset de senha AD,Portal de TI,Baixa,Resolvido,Ana Silva,1.6,Sim,2.0
+CH00206,Ian Fonseca,Operações,2026-04-05 17:46:43,,Acessos,Permissão de pasta em rede,WhatsApp,Média,Em andamento,Ana Silva,,Pendente,
+CH00207,Anthony Gabriel Santos,Logística,2026-04-04 07:34:51,2026-04-05 18:40:51,Software/ERP,Erro ao emitir nota,WhatsApp,Alta,Resolvido,Bruno Costa,35.1,Não,4.0
+CH00208,João Guilherme Aparecida,Operações,2026-05-08 18:04:36,2026-05-09 12:58:36,Software/ERP,Instalação de software,WhatsApp,Baixa,Resolvido,Bruno Costa,18.9,Sim,5.0
+CH00209,Lavínia Sampaio,Financeiro,2026-03-23 04:30:24,2026-03-24 18:48:24,Software/ERP,Erro ao emitir nota,Telefone,Baixa,Reaberto,Ana Silva,38.3,Não,5.0
+CH00210,Rebeca Caldeira,Operações,2026-03-30 03:42:16,,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Em andamento,Bruno Costa,,Pendente,
+CH00211,Larissa Melo,Operações,2026-03-19 02:01:56,2026-03-19 18:07:56,Hardware,Impressora travada,Portal de TI,Média,Resolvido,Carlos Souza,16.1,Sim,4.0
+CH00212,Manuela Cirino,Comercial,2026-05-03 08:56:12,2026-05-04 08:44:12,Acessos,Reset de senha AD,Portal de TI,Média,Resolvido,Ana Silva,23.8,Sim,5.0
+CH00213,Rhavi Camargo,Logística,2026-03-22 21:10:06,2026-03-24 11:28:06,Redes,Lentidão na VPN,Portal de TI,Média,Reaberto,Bruno Costa,38.3,Não,4.0
+CH00214,Rebeca Barbosa,Financeiro,2026-03-24 05:42:47,2026-03-24 14:18:47,Acessos,Reset de senha AD,WhatsApp,Média,Fechado,Ana Silva,8.6,Sim,4.0
+CH00215,Ana Júlia Cassiano,Operações,2026-05-12 22:00:31,2026-05-13 18:24:31,Hardware,Impressora travada,Telefone,Média,Resolvido,Ana Silva,20.4,Sim,5.0
+CH00216,Liz Barros,Logística,2026-04-01 09:06:27,2026-04-02 12:12:27,Acessos,Criar novo usuário,Portal de TI,Média,Fechado,Bruno Costa,27.1,Não,1.0
+CH00217,Oliver Pereira,Logística,2026-04-10 23:46:43,2026-04-12 02:10:43,Software/ERP,Instalação de software,E-mail,Média,Resolvido,Bruno Costa,26.4,Não,4.0
+CH00218,Heloisa Vasconcelos,Financeiro,2026-05-14 18:31:41,2026-05-16 15:43:41,Software/ERP,Instalação de software,Telefone,Baixa,Resolvido,Carlos Souza,45.2,Não,1.0
+CH00219,Milena Macedo,Operações,2026-05-07 15:08:03,2026-05-09 12:02:03,Software/ERP,Erro ao emitir nota,Telefone,Média,Resolvido,Daniela Lima,44.9,Não,4.0
+CH00220,Mariane das Neves,RH,2026-04-15 18:20:05,2026-04-17 09:02:05,Software/ERP,Instalação de software,Portal de TI,Crítica,Fechado,Daniela Lima,38.7,Não,5.0
+CH00221,Ana Liz Pimenta,Comercial,2026-05-12 02:27:16,2026-05-12 13:09:16,Software/ERP,Instalação de software,E-mail,Média,Resolvido,Ana Silva,10.7,Sim,4.0
+CH00222,Heitor da Luz,Financeiro,2026-03-27 12:40:58,2026-03-28 00:40:58,Hardware,Teclado com defeito,WhatsApp,Média,Resolvido,Ana Silva,12.0,Sim,4.0
+CH00223,Isaque Cavalcanti,Financeiro,2026-03-25 18:37:56,2026-03-25 23:55:56,Redes,Lentidão na VPN,Telefone,Média,Resolvido,Daniela Lima,5.3,Sim,4.0
+CH00224,Emanuel Abreu,Operações,2026-05-10 11:41:13,2026-05-12 09:59:13,Redes,Wi-Fi instável,E-mail,Baixa,Resolvido,Ana Silva,46.3,Não,5.0
+CH00225,Olivia da Rocha,Logística,2026-04-26 13:22:00,2026-04-28 07:46:00,Redes,Cabo de rede desconectado,E-mail,Baixa,Fechado,Carlos Souza,42.4,Não,5.0
+CH00226,João Pedro Santos,Logística,2026-03-21 01:30:29,2026-03-22 05:00:29,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Fechado,Bruno Costa,27.5,Não,5.0
+CH00227,Sra. Ana Sophia Rodrigues,Logística,2026-04-14 08:14:00,2026-04-14 17:56:00,Hardware,Teclado com defeito,Portal de TI,Média,Fechado,Bruno Costa,9.7,Sim,5.0
+CH00228,Gael Henrique Lima,Financeiro,2026-04-09 13:22:07,,Software/ERP,Instalação de software,E-mail,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00229,Heloisa Ramos,Logística,2026-03-29 00:54:00,2026-03-29 05:30:00,Hardware,Computador não liga,Portal de TI,Média,Fechado,Bruno Costa,4.6,Sim,4.0
+CH00230,Diego Barbosa,Comercial,2026-04-01 08:37:20,,Acessos,Permissão de pasta em rede,Portal de TI,Baixa,Em andamento,Ana Silva,,Pendente,
+CH00231,Leandro Peixoto,Financeiro,2026-03-23 16:25:07,2026-03-24 04:07:07,Acessos,Permissão de pasta em rede,Telefone,Baixa,Resolvido,Carlos Souza,11.7,Sim,4.0
+CH00232,Pedro Lucas Campos,Financeiro,2026-05-12 03:48:01,2026-05-14 01:00:01,Hardware,Computador não liga,Telefone,Média,Resolvido,Bruno Costa,45.2,Não,5.0
+CH00233,Sra. Maria Luiza da Mata,Financeiro,2026-05-02 09:35:50,2026-05-03 03:47:50,Acessos,Criar novo usuário,E-mail,Crítica,Resolvido,Ana Silva,18.2,Não,4.0
+CH00234,Sabrina Macedo,Operações,2026-05-05 11:38:11,2026-05-06 05:20:11,Redes,Wi-Fi instável,E-mail,Média,Resolvido,Bruno Costa,17.7,Sim,3.0
+CH00235,Ana Cecília Lopes,Operações,2026-03-25 16:53:42,2026-03-26 14:23:42,Acessos,Reset de senha AD,Telefone,Alta,Resolvido,Ana Silva,21.5,Não,4.0
+CH00236,Isis Alves,Comercial,2026-04-18 04:30:56,2026-04-19 02:42:56,Acessos,Criar novo usuário,WhatsApp,Média,Resolvido,Daniela Lima,22.2,Sim,5.0
+CH00237,Antônio Teixeira,RH,2026-03-26 18:15:32,2026-03-27 05:09:32,Acessos,Permissão de pasta em rede,WhatsApp,Baixa,Resolvido,Ana Silva,10.9,Sim,5.0
+CH00238,Ana Cecília Teixeira,Logística,2026-04-13 01:27:29,2026-04-13 15:33:29,Hardware,Teclado com defeito,Portal de TI,Média,Reaberto,Daniela Lima,14.1,Sim,5.0
+CH00239,Stella Rezende,Comercial,2026-04-03 21:40:33,2026-04-04 16:04:33,Hardware,Teclado com defeito,WhatsApp,Alta,Resolvido,Bruno Costa,18.4,Não,5.0
+CH00240,Fernando Pacheco,Comercial,2026-04-29 19:55:16,2026-04-30 02:25:16,Redes,Wi-Fi instável,Telefone,Baixa,Reaberto,Daniela Lima,6.5,Sim,1.0
+CH00241,Rebeca Borges,RH,2026-04-29 05:08:15,2026-04-29 17:26:15,Software/ERP,Erro ao emitir nota,WhatsApp,Alta,Resolvido,Daniela Lima,12.3,Não,5.0
+CH00242,Dr. Lucas Gabriel Duarte,Operações,2026-05-02 12:39:19,2026-05-04 07:21:19,Redes,Wi-Fi instável,WhatsApp,Alta,Resolvido,Daniela Lima,42.7,Não,5.0
+CH00243,Lucas Jesus,Financeiro,2026-03-28 01:11:14,2026-03-28 03:59:14,Acessos,Permissão de pasta em rede,E-mail,Média,Resolvido,Ana Silva,2.8,Sim,4.0
+CH00244,Murilo Teixeira,Operações,2026-05-04 23:58:42,,Hardware,Teclado com defeito,Portal de TI,Crítica,Em andamento,Carlos Souza,,Pendente,
+CH00245,Rafael Borges,Comercial,2026-05-10 07:16:11,2026-05-12 06:34:11,Acessos,Permissão de pasta em rede,WhatsApp,Alta,Resolvido,Bruno Costa,47.3,Não,5.0
+CH00246,Lorenzo Camargo,Comercial,2026-04-17 10:19:48,2026-04-18 10:19:48,Acessos,Criar novo usuário,Telefone,Média,Resolvido,Daniela Lima,24.0,Sim,1.0
+CH00247,Agatha Ribeiro,Financeiro,2026-04-26 03:14:53,,Acessos,Reset de senha AD,Portal de TI,Baixa,Em andamento,Bruno Costa,,Pendente,
+CH00248,Maria Sophia Aragão,Financeiro,2026-05-09 13:47:11,2026-05-10 16:59:11,Hardware,Impressora travada,Portal de TI,Alta,Fechado,Bruno Costa,27.2,Não,2.0
+CH00249,Maria Cecília Pinto,Comercial,2026-04-05 02:33:03,2026-04-06 00:27:03,Hardware,Computador não liga,Telefone,Baixa,Resolvido,Ana Silva,21.9,Sim,5.0
+CH00250,Melina Teixeira,Financeiro,2026-05-05 07:01:30,2026-05-06 19:43:30,Hardware,Impressora travada,Portal de TI,Baixa,Fechado,Carlos Souza,36.7,Não,4.0
+CH00251,João Felipe Novaes,Logística,2026-03-22 21:42:57,2026-03-24 18:42:57,Redes,Lentidão na VPN,E-mail,Baixa,Reaberto,Bruno Costa,45.0,Não,2.0
+CH00252,Pedro Lucas Sampaio,Comercial,2026-03-30 14:44:05,2026-03-31 06:32:05,Acessos,Criar novo usuário,Portal de TI,Baixa,Resolvido,Carlos Souza,15.8,Sim,5.0
+CH00253,Arthur Pires,Financeiro,2026-05-03 22:54:44,2026-05-04 21:30:44,Acessos,Permissão de pasta em rede,Portal de TI,Alta,Resolvido,Carlos Souza,22.6,Não,4.0
+CH00254,Emanuel das Neves,Operações,2026-05-16 00:13:32,2026-05-16 11:13:32,Software/ERP,Instalação de software,Telefone,Média,Resolvido,Carlos Souza,11.0,Sim,5.0
+CH00255,Yuri Jesus,Comercial,2026-05-10 08:59:59,2026-05-11 03:29:59,Acessos,Criar novo usuário,Portal de TI,Baixa,Resolvido,Daniela Lima,18.5,Sim,4.0
+CH00256,Danilo Martins,Financeiro,2026-03-26 22:38:42,2026-03-27 22:26:42,Software/ERP,Erro ao emitir nota,Telefone,Média,Reaberto,Bruno Costa,23.8,Sim,5.0
+CH00257,Daniela Monteiro,RH,2026-03-29 07:10:04,2026-03-30 14:10:04,Redes,Wi-Fi instável,WhatsApp,Média,Fechado,Daniela Lima,31.0,Não,5.0
+CH00258,Júlia Leão,Financeiro,2026-04-15 05:32:19,,Redes,Lentidão na VPN,WhatsApp,Média,Em andamento,Bruno Costa,,Pendente,
+CH00259,Isabelly Marques,Logística,2026-05-03 17:45:26,2026-05-04 23:33:26,Acessos,Criar novo usuário,WhatsApp,Baixa,Resolvido,Ana Silva,29.8,Não,4.0
+CH00260,Matheus Correia,Operações,2026-05-10 09:59:33,2026-05-10 11:17:33,Software/ERP,Erro ao emitir nota,Telefone,Média,Resolvido,Bruno Costa,1.3,Sim,4.0
+CH00261,Catarina Azevedo,Financeiro,2026-05-15 02:06:10,,Hardware,Computador não liga,Portal de TI,Baixa,Em andamento,Carlos Souza,,Pendente,
+CH00262,Manuela Viana,Financeiro,2026-04-13 17:09:18,2026-04-14 11:21:18,Hardware,Teclado com defeito,Portal de TI,Baixa,Resolvido,Ana Silva,18.2,Sim,5.0
+CH00263,Alexandre da Paz,Operações,2026-05-06 04:33:59,2026-05-07 17:09:59,Acessos,Permissão de pasta em rede,Telefone,Alta,Resolvido,Ana Silva,36.6,Não,5.0
+CH00264,Rebeca Cassiano,RH,2026-04-15 21:08:14,2026-04-16 01:32:14,Software/ERP,Instalação de software,WhatsApp,Média,Resolvido,Bruno Costa,4.4,Sim,4.0
+CH00265,Rafaela Ferreira,Comercial,2026-04-30 05:58:58,2026-05-02 00:40:58,Redes,Wi-Fi instável,WhatsApp,Alta,Resolvido,Bruno Costa,42.7,Não,5.0
+CH00266,Ísis Garcia,Comercial,2026-04-19 04:05:35,2026-04-21 02:17:35,Acessos,Reset de senha AD,E-mail,Baixa,Fechado,Bruno Costa,46.2,Não,5.0
+CH00267,Sr. Isaque Oliveira,Financeiro,2026-05-01 02:28:54,2026-05-02 11:10:54,Acessos,Criar novo usuário,WhatsApp,Alta,Resolvido,Carlos Souza,32.7,Não,5.0
+CH00268,Noah Aparecida,Operações,2026-04-24 01:50:19,,Redes,Cabo de rede desconectado,Telefone,Média,Em andamento,Carlos Souza,,Pendente,
+CH00269,Sra. Maria Helena Gomes,Financeiro,2026-04-17 18:51:23,,Acessos,Permissão de pasta em rede,Portal de TI,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00270,Ana Carolina Cardoso,RH,2026-04-01 15:52:58,2026-04-02 23:46:58,Software/ERP,Erro ao emitir nota,WhatsApp,Média,Resolvido,Carlos Souza,31.9,Não,5.0
+CH00271,Luísa Brito,RH,2026-05-05 15:52:30,2026-05-06 22:28:30,Software/ERP,Acesso negado no sistema,WhatsApp,Média,Resolvido,Ana Silva,30.6,Não,4.0
+CH00272,Vinicius Marques,Logística,2026-04-29 15:26:23,2026-05-01 04:08:23,Redes,Wi-Fi instável,Telefone,Média,Fechado,Daniela Lima,36.7,Não,5.0
+CH00273,Srta. Maria Luísa Rezende,Operações,2026-03-19 09:12:51,,Redes,Lentidão na VPN,Portal de TI,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00274,Ravy Viana,Operações,2026-04-01 21:08:22,,Redes,Lentidão na VPN,E-mail,Média,Em andamento,Bruno Costa,,Pendente,
+CH00275,Dr. Bruno Farias,Financeiro,2026-04-12 14:59:59,2026-04-13 04:17:59,Hardware,Computador não liga,Telefone,Baixa,Resolvido,Carlos Souza,13.3,Sim,5.0
+CH00276,Luiza Pires,Logística,2026-05-08 16:52:55,2026-05-08 21:04:55,Hardware,Teclado com defeito,E-mail,Média,Resolvido,Daniela Lima,4.2,Sim,5.0
+CH00277,Ana Carolina Pinto,Operações,2026-05-04 06:27:07,,Acessos,Permissão de pasta em rede,Telefone,Baixa,Em andamento,Carlos Souza,,Pendente,
+CH00278,João Pedro da Conceição,Comercial,2026-03-24 12:53:01,2026-03-26 04:29:01,Hardware,Impressora travada,E-mail,Média,Resolvido,Daniela Lima,39.6,Não,4.0
+CH00279,Beatriz Teixeira,Financeiro,2026-03-26 16:03:03,2026-03-28 14:33:03,Acessos,Criar novo usuário,Portal de TI,Crítica,Resolvido,Daniela Lima,46.5,Não,5.0
+CH00280,Eloah Sales,Operações,2026-03-27 15:39:02,2026-03-28 09:27:02,Hardware,Teclado com defeito,E-mail,Média,Resolvido,Ana Silva,17.8,Sim,2.0
+CH00281,Augusto Duarte,RH,2026-04-15 23:15:30,2026-04-17 09:21:30,Software/ERP,Instalação de software,Telefone,Média,Reaberto,Daniela Lima,34.1,Não,5.0
+CH00282,Luiz Henrique Freitas,Financeiro,2026-03-23 08:13:09,,Software/ERP,Instalação de software,Telefone,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00283,Joaquim Moura,Logística,2026-04-28 17:01:29,,Acessos,Criar novo usuário,Telefone,Crítica,Em andamento,Ana Silva,,Pendente,
+CH00284,Emilly Cavalcante,Financeiro,2026-04-26 21:36:07,2026-04-28 16:36:07,Redes,Wi-Fi instável,Portal de TI,Baixa,Fechado,Bruno Costa,43.0,Não,5.0
+CH00285,Mateus Pinto,Logística,2026-04-03 21:23:35,2026-04-05 20:35:35,Acessos,Permissão de pasta em rede,WhatsApp,Baixa,Resolvido,Ana Silva,47.2,Não,4.0
+CH00286,Cecília da Conceição,Comercial,2026-04-10 06:37:33,,Hardware,Impressora travada,Telefone,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00287,Jade Marques,RH,2026-05-01 16:00:32,2026-05-02 16:18:32,Redes,Cabo de rede desconectado,Portal de TI,Média,Fechado,Daniela Lima,24.3,Não,5.0
+CH00288,Alexia Martins,Comercial,2026-04-11 16:24:22,2026-04-13 08:24:22,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Fechado,Bruno Costa,40.0,Não,4.0
+CH00289,Ísis Castro,RH,2026-04-14 19:40:56,2026-04-15 00:46:56,Acessos,Permissão de pasta em rede,Portal de TI,Baixa,Resolvido,Ana Silva,5.1,Sim,4.0
+CH00290,Manuella Pastor,Financeiro,2026-03-25 01:33:45,2026-03-26 18:21:45,Hardware,Teclado com defeito,E-mail,Baixa,Fechado,Bruno Costa,40.8,Não,4.0
+CH00291,Mariana Sales,Logística,2026-04-15 22:31:54,2026-04-16 20:55:54,Hardware,Computador não liga,Telefone,Média,Resolvido,Ana Silva,22.4,Sim,4.0
+CH00292,Liz Costa,Financeiro,2026-04-11 04:13:22,2026-04-12 02:07:22,Redes,Lentidão na VPN,E-mail,Alta,Fechado,Carlos Souza,21.9,Não,5.0
+CH00293,Bianca da Costa,Comercial,2026-04-24 05:51:07,2026-04-24 09:21:07,Hardware,Impressora travada,E-mail,Alta,Fechado,Daniela Lima,3.5,Sim,5.0
+CH00294,Maria Alice Oliveira,Comercial,2026-04-23 22:05:42,,Acessos,Criar novo usuário,Telefone,Média,Em andamento,Daniela Lima,,Pendente,
+CH00295,Sra. Alícia Ribeiro,Operações,2026-04-15 14:53:04,2026-04-17 07:35:04,Software/ERP,Instalação de software,WhatsApp,Baixa,Resolvido,Bruno Costa,40.7,Não,4.0
+CH00296,Anthony Nunes,Logística,2026-04-25 07:44:46,2026-04-25 13:50:46,Hardware,Teclado com defeito,Telefone,Baixa,Resolvido,Bruno Costa,6.1,Sim,5.0
+CH00297,Sara da Paz,Financeiro,2026-03-22 15:43:59,2026-03-23 15:19:59,Hardware,Teclado com defeito,Telefone,Média,Resolvido,Carlos Souza,23.6,Sim,5.0
+CH00298,Maria Câmara,RH,2026-04-09 05:39:59,,Acessos,Criar novo usuário,Portal de TI,Baixa,Em andamento,Ana Silva,,Pendente,
+CH00299,Isis Rocha,Logística,2026-04-05 08:29:29,2026-04-06 03:11:29,Acessos,Permissão de pasta em rede,Telefone,Baixa,Resolvido,Daniela Lima,18.7,Sim,5.0
+CH00300,Aylla Pires,Comercial,2026-03-31 04:10:14,2026-03-31 06:10:14,Software/ERP,Erro ao emitir nota,E-mail,Baixa,Resolvido,Carlos Souza,2.0,Sim,4.0
+CH00301,Pedro Lucas Andrade,RH,2026-03-21 17:18:47,2026-03-23 05:06:47,Redes,Lentidão na VPN,Portal de TI,Média,Resolvido,Carlos Souza,35.8,Não,4.0
+CH00302,Sr. Caleb da Rocha,RH,2026-05-13 03:57:24,2026-05-14 16:33:24,Hardware,Impressora travada,E-mail,Média,Resolvido,Carlos Souza,36.6,Não,5.0
+CH00303,Sra. Emanuella Costa,RH,2026-04-18 14:45:45,2026-04-19 03:45:45,Redes,Cabo de rede desconectado,E-mail,Baixa,Fechado,Bruno Costa,13.0,Sim,3.0
+CH00304,Maria Clara Moura,Operações,2026-03-30 17:24:23,2026-03-31 10:36:23,Acessos,Reset de senha AD,E-mail,Média,Fechado,Bruno Costa,17.2,Sim,4.0
+CH00305,Enzo da Cunha,Comercial,2026-05-05 14:43:06,2026-05-06 18:19:06,Hardware,Impressora travada,Portal de TI,Alta,Fechado,Carlos Souza,27.6,Não,5.0
+CH00306,Lucca Camargo,RH,2026-05-03 16:14:19,2026-05-05 11:32:19,Hardware,Impressora travada,Portal de TI,Média,Reaberto,Bruno Costa,43.3,Não,4.0
+CH00307,Diego Sá,Logística,2026-05-02 08:44:35,2026-05-02 16:08:35,Hardware,Teclado com defeito,Telefone,Baixa,Fechado,Bruno Costa,7.4,Sim,5.0
+CH00308,Maria Laura Novais,Operações,2026-04-08 19:10:20,2026-04-09 15:22:20,Redes,Cabo de rede desconectado,Portal de TI,Baixa,Resolvido,Carlos Souza,20.2,Sim,5.0
+CH00309,Miguel Albuquerque,Logística,2026-04-22 09:46:10,2026-04-23 13:52:10,Redes,Lentidão na VPN,Portal de TI,Média,Resolvido,Ana Silva,28.1,Não,3.0
+CH00310,Camila Marques,Comercial,2026-04-12 13:41:06,2026-04-14 12:11:06,Acessos,Permissão de pasta em rede,Portal de TI,Baixa,Fechado,Carlos Souza,46.5,Não,4.0
+CH00311,Julia Pacheco,RH,2026-04-22 16:19:07,2026-04-24 09:19:07,Redes,Wi-Fi instável,Telefone,Baixa,Resolvido,Ana Silva,41.0,Não,4.0
+CH00312,Maria Fernanda Caldeira,RH,2026-04-23 21:18:20,,Acessos,Permissão de pasta em rede,Telefone,Alta,Em andamento,Bruno Costa,,Pendente,
+CH00313,Amanda Pinto,Comercial,2026-04-09 14:17:47,2026-04-11 08:41:47,Software/ERP,Erro ao emitir nota,Portal de TI,Alta,Reaberto,Ana Silva,42.4,Não,5.0
+CH00314,Sr. Benício Porto,Financeiro,2026-05-11 09:37:33,2026-05-11 18:01:33,Software/ERP,Instalação de software,Telefone,Alta,Resolvido,Ana Silva,8.4,Não,5.0
+CH00315,Sra. Maria Luísa Camargo,Logística,2026-05-01 23:16:25,2026-05-02 22:22:25,Hardware,Teclado com defeito,WhatsApp,Baixa,Fechado,Ana Silva,23.1,Sim,5.0
+CH00316,Arthur Miguel da Rosa,RH,2026-03-31 11:09:21,2026-04-02 10:33:21,Hardware,Impressora travada,E-mail,Alta,Resolvido,Daniela Lima,47.4,Não,5.0
+CH00317,Calebe da Costa,Comercial,2026-05-04 17:21:01,,Redes,Cabo de rede desconectado,Portal de TI,Alta,Em andamento,Bruno Costa,,Pendente,
+CH00318,Mathias Marques,Operações,2026-05-09 02:01:34,2026-05-10 20:01:34,Hardware,Computador não liga,WhatsApp,Alta,Resolvido,Bruno Costa,42.0,Não,4.0
+CH00319,Ágatha Leão,Logística,2026-04-22 21:58:17,2026-04-24 04:16:17,Acessos,Criar novo usuário,E-mail,Média,Resolvido,Ana Silva,30.3,Não,5.0
+CH00320,Dra. Daniela Leão,Comercial,2026-05-13 22:03:14,2026-05-14 04:21:14,Software/ERP,Acesso negado no sistema,E-mail,Baixa,Fechado,Bruno Costa,6.3,Sim,4.0
+CH00321,Maria Luísa da Mota,RH,2026-03-27 12:11:20,2026-03-28 14:59:20,Software/ERP,Instalação de software,Portal de TI,Baixa,Resolvido,Bruno Costa,26.8,Não,4.0
+CH00322,Sra. Helena Macedo,Logística,2026-03-21 01:41:11,2026-03-22 13:41:11,Redes,Wi-Fi instável,Telefone,Média,Resolvido,Ana Silva,36.0,Não,5.0
+CH00323,Luiz Miguel Brito,Comercial,2026-04-30 01:40:06,2026-04-30 05:34:06,Redes,Cabo de rede desconectado,E-mail,Média,Resolvido,Daniela Lima,3.9,Sim,3.0
+CH00324,Maria Alice Araújo,RH,2026-04-22 13:24:15,2026-04-23 07:18:15,Acessos,Reset de senha AD,WhatsApp,Média,Fechado,Ana Silva,17.9,Sim,4.0
+CH00325,Gabriel Campos,Operações,2026-04-25 13:11:04,2026-04-25 16:35:04,Software/ERP,Instalação de software,Telefone,Baixa,Resolvido,Daniela Lima,3.4,Sim,4.0
+CH00326,Heitor Ramos,Comercial,2026-05-01 01:01:12,2026-05-02 03:01:12,Software/ERP,Erro ao emitir nota,WhatsApp,Baixa,Fechado,Bruno Costa,26.0,Não,4.0
+CH00327,Benicio Viana,Logística,2026-05-14 20:54:10,2026-05-15 12:54:10,Redes,Cabo de rede desconectado,E-mail,Baixa,Reaberto,Ana Silva,16.0,Sim,5.0
+CH00328,Davi Lucas Viana,Financeiro,2026-04-19 06:35:04,2026-04-19 12:35:04,Redes,Cabo de rede desconectado,WhatsApp,Alta,Resolvido,Ana Silva,6.0,Não,4.0
+CH00329,Bernardo Teixeira,Comercial,2026-05-11 17:00:50,2026-05-12 01:18:50,Software/ERP,Erro ao emitir nota,E-mail,Média,Fechado,Carlos Souza,8.3,Sim,2.0
+CH00330,Henrique da Conceição,Operações,2026-05-10 16:50:58,2026-05-12 12:02:58,Acessos,Permissão de pasta em rede,WhatsApp,Baixa,Fechado,Carlos Souza,43.2,Não,5.0
+CH00331,Alexandre da Mota,Logística,2026-04-18 19:03:04,2026-04-18 23:15:04,Software/ERP,Erro ao emitir nota,E-mail,Média,Fechado,Carlos Souza,4.2,Sim,5.0
+CH00332,Vitor Hugo da Cunha,Operações,2026-03-31 22:35:57,2026-04-02 17:35:57,Redes,Wi-Fi instável,WhatsApp,Média,Resolvido,Ana Silva,43.0,Não,4.0
+CH00333,Apollo Cardoso,RH,2026-04-03 20:03:34,2026-04-03 22:45:34,Hardware,Computador não liga,Telefone,Baixa,Fechado,Bruno Costa,2.7,Sim,5.0
+CH00334,Sr. Lorenzo Almeida,Comercial,2026-03-19 08:04:44,2026-03-20 18:46:44,Redes,Lentidão na VPN,WhatsApp,Média,Resolvido,Ana Silva,34.7,Não,5.0
+CH00335,Benjamim Cardoso,Comercial,2026-04-03 19:28:30,2026-04-05 18:34:30,Redes,Cabo de rede desconectado,Portal de TI,Alta,Resolvido,Carlos Souza,47.1,Não,2.0
+CH00336,Bruna Souza,Comercial,2026-04-27 18:21:40,,Software/ERP,Erro ao emitir nota,Portal de TI,Média,Em andamento,Bruno Costa,,Pendente,
+CH00337,Melissa Vasconcelos,Operações,2026-03-24 01:33:10,2026-03-25 01:27:10,Hardware,Teclado com defeito,E-mail,Média,Resolvido,Bruno Costa,23.9,Sim,4.0
+CH00338,Bianca Machado,Comercial,2026-04-22 01:03:50,,Hardware,Teclado com defeito,WhatsApp,Média,Em andamento,Carlos Souza,,Pendente,
+CH00339,Augusto Siqueira,Financeiro,2026-05-05 19:28:52,,Software/ERP,Erro ao emitir nota,E-mail,Média,Em andamento,Daniela Lima,,Pendente,
+CH00340,Raul Ramos,Financeiro,2026-05-07 12:31:16,2026-05-09 12:25:16,Redes,Wi-Fi instável,Telefone,Baixa,Resolvido,Carlos Souza,47.9,Não,4.0
+CH00341,Rhavi Guerra,Operações,2026-03-20 22:02:17,2026-03-22 02:08:17,Acessos,Reset de senha AD,WhatsApp,Média,Resolvido,Daniela Lima,28.1,Não,5.0
+CH00342,Bianca Mendonça,Comercial,2026-04-28 06:44:29,2026-04-28 21:08:29,Acessos,Criar novo usuário,Portal de TI,Baixa,Resolvido,Daniela Lima,14.4,Sim,3.0
+CH00343,Bruno Duarte,RH,2026-04-29 23:01:37,2026-04-30 09:07:37,Redes,Wi-Fi instável,E-mail,Baixa,Resolvido,Daniela Lima,10.1,Sim,4.0
+CH00344,Benício Cardoso,Comercial,2026-05-15 22:53:15,2026-05-17 00:53:15,Hardware,Impressora travada,Telefone,Média,Resolvido,Carlos Souza,26.0,Não,2.0
+CH00345,Lunna Garcia,Comercial,2026-04-13 14:17:08,2026-04-15 05:11:08,Redes,Wi-Fi instável,E-mail,Baixa,Fechado,Ana Silva,38.9,Não,5.0
+CH00346,Laís Marques,Financeiro,2026-05-14 21:28:33,2026-05-15 16:46:33,Software/ERP,Acesso negado no sistema,WhatsApp,Crítica,Fechado,Daniela Lima,19.3,Não,5.0
+CH00347,Marina Brito,RH,2026-05-05 23:28:16,2026-05-07 02:04:16,Redes,Wi-Fi instável,WhatsApp,Média,Fechado,Ana Silva,26.6,Não,5.0
+CH00348,Helena Lopes,RH,2026-03-29 00:03:21,2026-03-29 06:45:21,Software/ERP,Instalação de software,Portal de TI,Crítica,Fechado,Ana Silva,6.7,Não,4.0
+CH00349,Noah Fernandes,RH,2026-04-30 17:39:04,,Acessos,Reset de senha AD,Portal de TI,Baixa,Em andamento,Ana Silva,,Pendente,
+CH00350,Maria Vitória Siqueira,Logística,2026-04-30 22:10:51,,Hardware,Teclado com defeito,Telefone,Média,Em andamento,Daniela Lima,,Pendente,
+CH00351,Dr. Levi Rios,Financeiro,2026-03-27 03:01:04,,Hardware,Impressora travada,E-mail,Média,Em andamento,Carlos Souza,,Pendente,
+CH00352,Sr. Renan Azevedo,Comercial,2026-04-11 15:23:17,2026-04-11 17:29:17,Hardware,Teclado com defeito,Telefone,Alta,Resolvido,Daniela Lima,2.1,Sim,4.0
+CH00353,Caleb Lopes,Operações,2026-03-26 18:01:15,2026-03-26 22:43:15,Acessos,Reset de senha AD,E-mail,Média,Fechado,Ana Silva,4.7,Sim,5.0
+CH00354,Dra. Maria Fernanda Cardoso,Operações,2026-03-27 06:27:48,2026-03-28 00:03:48,Acessos,Permissão de pasta em rede,Portal de TI,Média,Reaberto,Daniela Lima,17.6,Sim,5.0
+CH00355,Lucas Rios,Logística,2026-05-10 21:53:23,2026-05-12 02:47:23,Software/ERP,Erro ao emitir nota,Portal de TI,Baixa,Resolvido,Bruno Costa,28.9,Não,5.0
+CH00356,Maria Rios,Operações,2026-03-29 18:16:17,2026-03-31 01:58:17,Redes,Wi-Fi instável,Telefone,Baixa,Reaberto,Carlos Souza,31.7,Não,5.0
+CH00357,Srta. Laura Peixoto,Comercial,2026-04-27 22:57:58,2026-04-28 07:45:58,Software/ERP,Instalação de software,WhatsApp,Crítica,Fechado,Carlos Souza,8.8,Não,5.0
+CH00358,Sr. Thiago Cunha,Comercial,2026-04-17 05:30:38,2026-04-18 08:42:38,Acessos,Criar novo usuário,E-mail,Média,Fechado,Daniela Lima,27.2,Não,5.0
+CH00359,Rafaela Câmara,Operações,2026-04-01 21:59:57,,Hardware,Computador não liga,Telefone,Baixa,Em andamento,Ana Silva,,Pendente,
+CH00360,Dr. Danilo Teixeira,RH,2026-03-28 09:37:08,2026-03-30 00:25:08,Hardware,Impressora travada,WhatsApp,Média,Resolvido,Bruno Costa,38.8,Não,5.0
+CH00361,Heloisa Lima,Comercial,2026-04-13 22:33:46,2026-04-15 11:51:46,Software/ERP,Erro ao emitir nota,Telefone,Alta,Resolvido,Ana Silva,37.3,Não,4.0
+CH00362,Amanda Pereira,Logística,2026-05-11 08:35:48,2026-05-13 07:29:48,Acessos,Criar novo usuário,Portal de TI,Baixa,Resolvido,Bruno Costa,46.9,Não,4.0
+CH00363,Fernando da Mata,Operações,2026-04-12 20:39:01,2026-04-14 15:27:01,Software/ERP,Erro ao emitir nota,E-mail,Média,Fechado,Daniela Lima,42.8,Não,4.0
+CH00364,Dr. André Cirino,RH,2026-04-16 21:26:18,2026-04-17 03:56:18,Acessos,Criar novo usuário,E-mail,Média,Resolvido,Carlos Souza,6.5,Sim,4.0
+CH00365,Maria Liz Azevedo,Comercial,2026-03-31 19:15:07,2026-04-01 06:15:07,Acessos,Reset de senha AD,WhatsApp,Crítica,Fechado,Bruno Costa,11.0,Não,5.0
+CH00366,Dra. Ana Borges,RH,2026-03-31 16:02:37,2026-04-01 22:44:37,Software/ERP,Acesso negado no sistema,Portal de TI,Baixa,Resolvido,Bruno Costa,30.7,Não,2.0
+CH00367,Marcos Vinicius Leão,Logística,2026-05-08 09:33:58,2026-05-08 22:15:58,Redes,Wi-Fi instável,Telefone,Baixa,Resolvido,Daniela Lima,12.7,Sim,5.0
+CH00368,Sr. Léo das Neves,Logística,2026-04-30 22:31:23,2026-05-01 22:25:23,Acessos,Reset de senha AD,E-mail,Alta,Reaberto,Bruno Costa,23.9,Não,5.0
+CH00369,Antonella Aragão,RH,2026-04-18 09:19:07,2026-04-18 11:25:07,Software/ERP,Erro ao emitir nota,Portal de TI,Média,Resolvido,Bruno Costa,2.1,Sim,5.0
+CH00370,Benicio Rocha,Operações,2026-04-01 23:58:45,2026-04-02 04:04:45,Redes,Cabo de rede desconectado,Telefone,Baixa,Fechado,Ana Silva,4.1,Sim,2.0
+CH00371,Pedro Miguel Ribeiro,Comercial,2026-03-25 19:33:02,2026-03-27 00:51:02,Redes,Wi-Fi instável,E-mail,Média,Resolvido,Bruno Costa,29.3,Não,5.0
+CH00372,Melina Leão,Financeiro,2026-04-28 01:28:40,2026-04-29 21:58:40,Software/ERP,Acesso negado no sistema,WhatsApp,Média,Resolvido,Ana Silva,44.5,Não,5.0
+CH00373,Théo Camargo,RH,2026-04-13 09:58:36,2026-04-14 09:46:36,Redes,Cabo de rede desconectado,Portal de TI,Média,Resolvido,Daniela Lima,23.8,Sim,5.0
+CH00374,Brenda da Paz,RH,2026-04-20 09:45:46,2026-04-20 18:21:46,Redes,Cabo de rede desconectado,Portal de TI,Baixa,Resolvido,Daniela Lima,8.6,Sim,5.0
+CH00375,Valentina Rios,Comercial,2026-05-14 11:33:17,2026-05-15 00:39:17,Acessos,Reset de senha AD,Telefone,Alta,Resolvido,Carlos Souza,13.1,Não,4.0
+CH00376,Henry Gonçalves,RH,2026-04-16 20:07:16,2026-04-17 17:31:16,Software/ERP,Instalação de software,E-mail,Baixa,Resolvido,Ana Silva,21.4,Sim,5.0
+CH00377,André Costela,Financeiro,2026-05-15 01:58:49,,Acessos,Criar novo usuário,WhatsApp,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00378,Davi Miguel Teixeira,Financeiro,2026-04-16 03:48:35,2026-04-17 05:42:35,Acessos,Criar novo usuário,Telefone,Média,Fechado,Carlos Souza,25.9,Não,3.0
+CH00379,Luan Campos,Operações,2026-04-11 16:51:19,,Redes,Lentidão na VPN,E-mail,Alta,Em andamento,Ana Silva,,Pendente,
+CH00380,Marina Cavalcanti,Financeiro,2026-03-18 15:27:50,2026-03-20 13:03:50,Hardware,Computador não liga,WhatsApp,Média,Fechado,Daniela Lima,45.6,Não,5.0
+CH00381,Yasmin Santos,Financeiro,2026-03-30 10:28:35,,Hardware,Teclado com defeito,Portal de TI,Média,Em andamento,Carlos Souza,,Pendente,
+CH00382,Maria Barbosa,Comercial,2026-04-09 05:38:55,2026-04-09 09:20:55,Acessos,Criar novo usuário,Portal de TI,Alta,Fechado,Daniela Lima,3.7,Sim,5.0
+CH00383,Srta. Maya Almeida,Logística,2026-04-25 10:41:41,2026-04-26 20:29:41,Acessos,Reset de senha AD,E-mail,Baixa,Fechado,Bruno Costa,33.8,Não,5.0
+CH00384,Levi Oliveira,RH,2026-05-01 12:45:25,2026-05-03 11:03:25,Redes,Lentidão na VPN,Portal de TI,Média,Resolvido,Carlos Souza,46.3,Não,5.0
+CH00385,Maria Luiza Santos,Financeiro,2026-04-28 13:45:24,2026-04-29 21:21:24,Acessos,Reset de senha AD,Portal de TI,Baixa,Fechado,Daniela Lima,31.6,Não,5.0
+CH00386,Danilo Guerra,Logística,2026-04-27 10:44:57,,Acessos,Reset de senha AD,Portal de TI,Média,Em andamento,Bruno Costa,,Pendente,
+CH00387,Sr. Raul Sales,RH,2026-03-19 22:03:04,,Software/ERP,Acesso negado no sistema,Portal de TI,Média,Em andamento,Carlos Souza,,Pendente,
+CH00388,Pedro Henrique Caldeira,Comercial,2026-04-22 00:37:47,2026-04-23 17:55:47,Hardware,Computador não liga,Telefone,Alta,Resolvido,Carlos Souza,41.3,Não,4.0
+CH00389,Maria Liz Moura,Logística,2026-04-10 12:25:13,2026-04-11 19:37:13,Hardware,Impressora travada,Portal de TI,Média,Resolvido,Ana Silva,31.2,Não,5.0
+CH00390,Luana Souza,Operações,2026-03-25 12:42:46,2026-03-26 04:00:46,Hardware,Teclado com defeito,WhatsApp,Baixa,Resolvido,Bruno Costa,15.3,Sim,5.0
+CH00391,Lucas Gabriel Vasconcelos,Comercial,2026-04-19 20:34:30,2026-04-21 12:52:30,Acessos,Reset de senha AD,E-mail,Alta,Resolvido,Carlos Souza,40.3,Não,5.0
+CH00392,Thomas Porto,Comercial,2026-04-03 05:13:46,2026-04-04 00:37:46,Redes,Wi-Fi instável,Telefone,Média,Resolvido,Daniela Lima,19.4,Sim,3.0
+CH00393,Sophia Correia,RH,2026-03-28 23:09:11,2026-03-30 03:33:11,Hardware,Impressora travada,Portal de TI,Alta,Resolvido,Ana Silva,28.4,Não,5.0
+CH00394,Sr. Isaac Caldeira,Financeiro,2026-04-20 19:33:19,2026-04-21 23:15:19,Hardware,Teclado com defeito,E-mail,Baixa,Resolvido,Carlos Souza,27.7,Não,2.0
+CH00395,Gael Henrique Cavalcanti,Financeiro,2026-04-01 02:41:30,2026-04-02 20:17:30,Redes,Cabo de rede desconectado,E-mail,Média,Resolvido,Ana Silva,41.6,Não,2.0
+CH00396,Breno Cavalcanti,Logística,2026-05-15 09:08:35,2026-05-17 06:26:35,Software/ERP,Acesso negado no sistema,Portal de TI,Média,Resolvido,Daniela Lima,45.3,Não,4.0
+CH00397,Melissa Rodrigues,RH,2026-05-04 20:49:41,2026-05-06 05:31:41,Acessos,Criar novo usuário,WhatsApp,Média,Resolvido,Carlos Souza,32.7,Não,4.0
+CH00398,Luna Pires,Comercial,2026-05-11 16:48:47,2026-05-12 06:42:47,Acessos,Reset de senha AD,Portal de TI,Média,Resolvido,Carlos Souza,13.9,Sim,4.0
+CH00399,Pedro Lucas Azevedo,Financeiro,2026-04-17 14:06:32,2026-04-19 00:24:32,Software/ERP,Erro ao emitir nota,E-mail,Baixa,Fechado,Ana Silva,34.3,Não,3.0
+CH00400,Liz Vieira,RH,2026-05-02 10:07:02,2026-05-03 15:07:02,Hardware,Teclado com defeito,Telefone,Alta,Fechado,Carlos Souza,29.0,Não,4.0
+CH00401,Ana Laura Fogaça,Financeiro,2026-04-13 13:29:16,2026-04-14 08:23:16,Hardware,Impressora travada,Telefone,Média,Resolvido,Carlos Souza,18.9,Sim,5.0
+CH00402,Leonardo Martins,RH,2026-05-06 03:37:57,2026-05-07 20:01:57,Hardware,Impressora travada,Telefone,Alta,Resolvido,Bruno Costa,40.4,Não,3.0
+CH00403,Benjamin Freitas,RH,2026-04-30 18:29:15,2026-05-01 21:35:15,Software/ERP,Instalação de software,E-mail,Média,Fechado,Carlos Souza,27.1,Não,3.0
+CH00404,Caleb Pimenta,Operações,2026-04-14 18:23:23,2026-04-15 14:53:23,Software/ERP,Acesso negado no sistema,Portal de TI,Alta,Resolvido,Daniela Lima,20.5,Não,3.0
+CH00405,Maria Isis Martins,Financeiro,2026-05-14 13:45:29,2026-05-16 07:27:29,Redes,Cabo de rede desconectado,WhatsApp,Média,Fechado,Daniela Lima,41.7,Não,5.0
+CH00406,Ana Cecília Machado,Logística,2026-05-13 05:43:02,2026-05-14 23:37:02,Hardware,Impressora travada,Telefone,Média,Resolvido,Bruno Costa,41.9,Não,5.0
+CH00407,Esther Duarte,RH,2026-05-12 09:30:30,2026-05-13 23:00:30,Hardware,Impressora travada,WhatsApp,Média,Resolvido,Daniela Lima,37.5,Não,5.0
+CH00408,Sarah Cassiano,Financeiro,2026-05-15 15:13:03,2026-05-15 23:43:03,Acessos,Reset de senha AD,Telefone,Média,Resolvido,Daniela Lima,8.5,Sim,4.0
+CH00409,Bella Fernandes,Comercial,2026-03-23 21:37:41,2026-03-24 16:19:41,Hardware,Teclado com defeito,WhatsApp,Crítica,Resolvido,Carlos Souza,18.7,Não,5.0
+CH00410,Emanuella Aparecida,Comercial,2026-03-26 01:57:11,2026-03-26 03:21:11,Hardware,Computador não liga,Portal de TI,Média,Fechado,Bruno Costa,1.4,Sim,5.0
+CH00411,Sra. Maysa Moura,RH,2026-04-10 22:44:11,,Software/ERP,Erro ao emitir nota,WhatsApp,Média,Em andamento,Carlos Souza,,Pendente,
+CH00412,Eduarda Fonseca,Financeiro,2026-05-07 15:32:35,2026-05-08 16:44:35,Acessos,Criar novo usuário,Portal de TI,Média,Fechado,Daniela Lima,25.2,Não,5.0
+CH00413,Mathias Jesus,Financeiro,2026-04-23 02:15:36,2026-04-24 23:45:36,Acessos,Reset de senha AD,E-mail,Baixa,Resolvido,Bruno Costa,45.5,Não,3.0
+CH00414,Ana Júlia Vieira,Comercial,2026-04-19 17:54:16,2026-04-20 18:24:16,Redes,Cabo de rede desconectado,WhatsApp,Baixa,Resolvido,Ana Silva,24.5,Não,5.0
+CH00415,Lucas Brito,Logística,2026-04-19 09:14:29,2026-04-19 10:38:29,Acessos,Permissão de pasta em rede,WhatsApp,Média,Resolvido,Carlos Souza,1.4,Sim,4.0
+CH00416,Maria Isis da Paz,RH,2026-05-11 01:36:01,2026-05-12 11:06:01,Software/ERP,Acesso negado no sistema,Portal de TI,Baixa,Resolvido,Bruno Costa,33.5,Não,4.0
+CH00417,Dra. Clarice Farias,RH,2026-04-11 08:38:40,2026-04-12 09:26:40,Software/ERP,Erro ao emitir nota,Telefone,Alta,Resolvido,Bruno Costa,24.8,Não,4.0
+CH00418,Cecília Ferreira,Logística,2026-03-25 19:21:55,2026-03-27 11:21:55,Software/ERP,Instalação de software,Portal de TI,Média,Resolvido,Bruno Costa,40.0,Não,1.0
+CH00419,Maria Júlia Cardoso,Logística,2026-04-17 00:20:39,,Hardware,Teclado com defeito,Portal de TI,Média,Em andamento,Bruno Costa,,Pendente,
+CH00420,Srta. Luana Novais,Logística,2026-05-14 15:59:54,,Redes,Lentidão na VPN,E-mail,Média,Em andamento,Ana Silva,,Pendente,
+CH00421,Luísa Cardoso,Comercial,2026-04-23 11:10:42,2026-04-24 22:04:42,Hardware,Impressora travada,Portal de TI,Baixa,Fechado,Daniela Lima,34.9,Não,3.0
+CH00422,Otávio Moraes,Comercial,2026-05-08 00:02:14,,Redes,Cabo de rede desconectado,Portal de TI,Alta,Em andamento,Daniela Lima,,Pendente,
+CH00423,Luiz Miguel das Neves,Financeiro,2026-04-22 00:34:21,2026-04-23 13:04:21,Hardware,Teclado com defeito,Portal de TI,Baixa,Fechado,Carlos Souza,36.5,Não,5.0
+CH00424,Luigi Vargas,Financeiro,2026-04-04 09:29:41,2026-04-04 22:41:41,Software/ERP,Acesso negado no sistema,WhatsApp,Crítica,Fechado,Daniela Lima,13.2,Não,4.0
+CH00425,Henry Gabriel Carvalho,Financeiro,2026-05-04 02:32:43,2026-05-05 18:44:43,Acessos,Permissão de pasta em rede,WhatsApp,Média,Resolvido,Bruno Costa,40.2,Não,4.0
+CH00426,Juan Viana,Logística,2026-04-01 22:30:01,2026-04-03 19:48:01,Acessos,Criar novo usuário,Telefone,Baixa,Resolvido,Bruno Costa,45.3,Não,5.0
+CH00427,Ágatha Sousa,Logística,2026-03-27 17:07:37,2026-03-28 22:37:37,Hardware,Impressora travada,WhatsApp,Média,Resolvido,Daniela Lima,29.5,Não,3.0
+CH00428,Lucca Vargas,Comercial,2026-05-08 00:21:34,2026-05-09 07:57:34,Hardware,Teclado com defeito,WhatsApp,Baixa,Resolvido,Daniela Lima,31.6,Não,5.0
+CH00429,Maria Flor Cassiano,Operações,2026-03-30 14:49:06,2026-03-31 07:43:06,Acessos,Reset de senha AD,WhatsApp,Baixa,Resolvido,Ana Silva,16.9,Sim,4.0
+CH00430,Enzo Silveira,Logística,2026-04-02 15:30:55,2026-04-04 08:18:55,Hardware,Computador não liga,Portal de TI,Baixa,Resolvido,Bruno Costa,40.8,Não,3.0
+CH00431,Noah Fonseca,Financeiro,2026-04-29 09:18:17,2026-04-30 09:54:17,Acessos,Permissão de pasta em rede,WhatsApp,Baixa,Resolvido,Daniela Lima,24.6,Não,5.0
+CH00432,Larissa Sá,Logística,2026-04-09 22:56:14,2026-04-10 03:38:14,Software/ERP,Erro ao emitir nota,WhatsApp,Média,Resolvido,Ana Silva,4.7,Sim,5.0
+CH00433,Vitor da Costa,Operações,2026-04-30 11:31:47,2026-05-01 14:07:47,Software/ERP,Instalação de software,E-mail,Baixa,Resolvido,Daniela Lima,26.6,Não,4.0
+CH00434,Evelyn Freitas,Operações,2026-04-16 22:33:51,2026-04-17 01:39:51,Acessos,Permissão de pasta em rede,Telefone,Baixa,Reaberto,Carlos Souza,3.1,Sim,5.0
+CH00435,Nicole Vargas,Comercial,2026-05-12 06:37:31,2026-05-13 19:13:31,Software/ERP,Acesso negado no sistema,Portal de TI,Baixa,Fechado,Ana Silva,36.6,Não,5.0
+CH00436,Sarah Moura,Logística,2026-04-14 06:01:39,,Hardware,Teclado com defeito,WhatsApp,Baixa,Em andamento,Carlos Souza,,Pendente,
+CH00437,Guilherme Pereira,Comercial,2026-04-27 13:00:08,2026-04-29 09:42:08,Acessos,Reset de senha AD,WhatsApp,Baixa,Resolvido,Daniela Lima,44.7,Não,5.0
+CH00438,Benjamim Ramos,Logística,2026-03-31 07:56:38,,Redes,Cabo de rede desconectado,E-mail,Média,Em andamento,Daniela Lima,,Pendente,
+CH00439,Sr. Valentim Campos,Logística,2026-05-03 13:18:33,,Acessos,Criar novo usuário,E-mail,Média,Em andamento,Bruno Costa,,Pendente,
+CH00440,Enrico da Mata,Logística,2026-04-14 13:41:48,2026-04-15 08:35:48,Software/ERP,Instalação de software,Telefone,Baixa,Fechado,Bruno Costa,18.9,Sim,4.0
+CH00441,Clara Lopes,Logística,2026-04-30 12:26:29,2026-05-02 11:02:29,Hardware,Computador não liga,Portal de TI,Crítica,Resolvido,Carlos Souza,46.6,Não,5.0
+CH00442,Rael Ferreira,Comercial,2026-03-26 19:09:36,2026-03-28 01:39:36,Software/ERP,Instalação de software,E-mail,Alta,Fechado,Bruno Costa,30.5,Não,5.0
+CH00443,Ana Júlia Gonçalves,Logística,2026-03-20 11:35:52,2026-03-21 03:23:52,Software/ERP,Instalação de software,Telefone,Média,Resolvido,Carlos Souza,15.8,Sim,5.0
+CH00444,Sr. Matheus Barros,RH,2026-05-05 15:12:47,2026-05-05 16:18:47,Acessos,Reset de senha AD,WhatsApp,Média,Fechado,Bruno Costa,1.1,Sim,5.0
+CH00445,Arthur Dias,Comercial,2026-04-23 07:03:42,2026-04-25 06:15:42,Hardware,Computador não liga,E-mail,Média,Resolvido,Ana Silva,47.2,Não,4.0
+CH00446,Dra. Lívia Vieira,Operações,2026-03-27 12:19:56,2026-03-28 18:07:56,Hardware,Teclado com defeito,Telefone,Média,Resolvido,Bruno Costa,29.8,Não,4.0
+CH00447,Arthur Miguel da Paz,Logística,2026-04-01 01:46:17,2026-04-02 11:22:17,Redes,Cabo de rede desconectado,Telefone,Média,Resolvido,Carlos Souza,33.6,Não,4.0
+CH00448,Srta. Olivia Machado,Comercial,2026-05-02 18:21:06,2026-05-04 06:09:06,Acessos,Reset de senha AD,E-mail,Baixa,Reaberto,Bruno Costa,35.8,Não,5.0
+CH00449,Bruno Almeida,Operações,2026-05-16 15:19:02,2026-05-18 00:13:02,Hardware,Teclado com defeito,WhatsApp,Baixa,Resolvido,Daniela Lima,32.9,Não,5.0
+CH00450,Dom Novaes,Financeiro,2026-04-11 17:47:52,,Software/ERP,Erro ao emitir nota,Portal de TI,Baixa,Em andamento,Ana Silva,,Pendente,
+CH00451,Mariana Camargo,RH,2026-05-16 00:14:43,2026-05-16 08:08:43,Software/ERP,Instalação de software,Portal de TI,Média,Resolvido,Daniela Lima,7.9,Sim,5.0
+CH00452,Kevin Campos,Operações,2026-04-14 20:46:38,2026-04-15 00:46:38,Hardware,Computador não liga,WhatsApp,Média,Fechado,Bruno Costa,4.0,Sim,4.0
+CH00453,Otto Porto,Comercial,2026-03-22 12:42:58,2026-03-22 17:36:58,Hardware,Teclado com defeito,Portal de TI,Média,Resolvido,Carlos Souza,4.9,Sim,5.0
+CH00454,Daniel Monteiro,Comercial,2026-05-01 06:36:13,2026-05-02 12:30:13,Redes,Wi-Fi instável,Telefone,Crítica,Resolvido,Bruno Costa,29.9,Não,5.0
+CH00455,Allana Pires,RH,2026-05-14 19:57:16,2026-05-16 01:57:16,Software/ERP,Acesso negado no sistema,Telefone,Média,Fechado,Carlos Souza,30.0,Não,2.0
+CH00456,Isabella Silva,Operações,2026-05-06 22:21:51,2026-05-08 18:09:51,Software/ERP,Instalação de software,Telefone,Baixa,Resolvido,Daniela Lima,43.8,Não,4.0
+CH00457,Paulo Abreu,Operações,2026-03-31 20:00:36,,Hardware,Impressora travada,WhatsApp,Alta,Em andamento,Ana Silva,,Pendente,
+CH00458,Sr. Oliver Cirino,Financeiro,2026-05-16 14:03:43,2026-05-17 16:09:43,Redes,Wi-Fi instável,Telefone,Crítica,Resolvido,Ana Silva,26.1,Não,5.0
+CH00459,Maria Cecília Azevedo,RH,2026-03-26 04:56:48,2026-03-27 23:08:48,Acessos,Criar novo usuário,E-mail,Alta,Resolvido,Ana Silva,42.2,Não,4.0
+CH00460,Sofia Viana,RH,2026-05-07 23:15:33,2026-05-08 03:57:33,Software/ERP,Instalação de software,E-mail,Baixa,Resolvido,Carlos Souza,4.7,Sim,5.0
+CH00461,Alícia Gomes,RH,2026-05-06 04:17:53,2026-05-06 23:59:53,Acessos,Criar novo usuário,WhatsApp,Média,Resolvido,Ana Silva,19.7,Sim,5.0
+CH00462,Mathias Freitas,Comercial,2026-05-02 12:56:45,2026-05-03 22:44:45,Redes,Cabo de rede desconectado,WhatsApp,Média,Fechado,Carlos Souza,33.8,Não,5.0
+CH00463,Srta. Maria Alice Viana,Operações,2026-04-11 12:29:59,2026-04-12 07:47:59,Acessos,Reset de senha AD,E-mail,Média,Fechado,Bruno Costa,19.3,Sim,4.0
+CH00464,Sr. Cauã Vargas,Comercial,2026-03-24 10:52:37,2026-03-26 03:40:37,Hardware,Impressora travada,WhatsApp,Média,Fechado,Bruno Costa,40.8,Não,5.0
+CH00465,Sra. Catarina Aparecida,Operações,2026-05-13 09:23:05,,Acessos,Criar novo usuário,WhatsApp,Baixa,Em andamento,Carlos Souza,,Pendente,
+CH00466,Maitê Ramos,Financeiro,2026-04-21 02:22:05,2026-04-22 13:22:05,Hardware,Computador não liga,E-mail,Média,Resolvido,Carlos Souza,35.0,Não,5.0
+CH00467,Nicole Sampaio,Operações,2026-04-03 21:26:21,2026-04-05 11:56:21,Acessos,Criar novo usuário,WhatsApp,Baixa,Resolvido,Carlos Souza,38.5,Não,3.0
+CH00468,Emilly Carvalho,Financeiro,2026-05-03 08:30:37,2026-05-03 18:24:37,Software/ERP,Acesso negado no sistema,E-mail,Baixa,Resolvido,Ana Silva,9.9,Sim,5.0
+CH00469,Sra. Ana Carolina da Rocha,Comercial,2026-03-24 00:29:12,2026-03-24 10:11:12,Software/ERP,Instalação de software,E-mail,Baixa,Resolvido,Carlos Souza,9.7,Sim,5.0
+CH00470,Guilherme Aparecida,Logística,2026-04-06 11:11:34,2026-04-06 19:41:34,Hardware,Teclado com defeito,Portal de TI,Crítica,Fechado,Carlos Souza,8.5,Não,5.0
+CH00471,Théo Gonçalves,Logística,2026-04-17 12:50:36,,Acessos,Permissão de pasta em rede,Portal de TI,Média,Em andamento,Carlos Souza,,Pendente,
+CH00472,Isis Andrade,Operações,2026-05-09 14:48:18,2026-05-10 22:00:18,Software/ERP,Erro ao emitir nota,E-mail,Baixa,Resolvido,Carlos Souza,31.2,Não,5.0
+CH00473,Luiz Henrique Vasconcelos,Operações,2026-04-05 10:45:18,2026-04-06 21:51:18,Redes,Lentidão na VPN,Telefone,Média,Fechado,Bruno Costa,35.1,Não,3.0
+CH00474,Luísa da Mata,Financeiro,2026-03-22 12:50:36,2026-03-23 15:08:36,Acessos,Criar novo usuário,Portal de TI,Média,Fechado,Daniela Lima,26.3,Não,1.0
+CH00475,Dr. Murilo Souza,Operações,2026-03-29 23:29:59,2026-03-31 10:47:59,Acessos,Criar novo usuário,WhatsApp,Média,Resolvido,Daniela Lima,35.3,Não,5.0
+CH00476,Maitê Cirino,Financeiro,2026-04-29 14:06:45,2026-04-30 01:54:45,Hardware,Teclado com defeito,Telefone,Baixa,Resolvido,Bruno Costa,11.8,Sim,2.0
+CH00477,Sra. Maria Eduarda Moreira,RH,2026-05-05 01:41:21,2026-05-06 09:29:21,Acessos,Permissão de pasta em rede,E-mail,Alta,Resolvido,Daniela Lima,31.8,Não,2.0
+CH00478,Otávio Barros,Logística,2026-04-12 18:57:22,2026-04-13 06:33:22,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Resolvido,Ana Silva,11.6,Sim,4.0
+CH00479,Emilly Nogueira,Operações,2026-04-28 16:50:21,,Redes,Lentidão na VPN,Portal de TI,Média,Em andamento,Carlos Souza,,Pendente,
+CH00480,Sr. Bruno Duarte,Comercial,2026-04-15 09:58:38,2026-04-16 04:22:38,Redes,Lentidão na VPN,Telefone,Média,Resolvido,Bruno Costa,18.4,Sim,5.0
+CH00481,Pietro Pereira,RH,2026-04-15 14:20:34,2026-04-17 08:02:34,Acessos,Criar novo usuário,E-mail,Baixa,Resolvido,Daniela Lima,41.7,Não,5.0
+CH00482,Pedro Miguel Ferreira,Comercial,2026-04-28 06:22:27,2026-04-29 13:28:27,Hardware,Computador não liga,WhatsApp,Baixa,Resolvido,Bruno Costa,31.1,Não,5.0
+CH00483,Luiz Gustavo Pimenta,Operações,2026-04-30 07:20:22,2026-04-30 13:14:22,Acessos,Reset de senha AD,E-mail,Baixa,Resolvido,Daniela Lima,5.9,Sim,4.0
+CH00484,Benjamin Barbosa,Operações,2026-04-29 02:56:12,,Hardware,Computador não liga,WhatsApp,Baixa,Em andamento,Bruno Costa,,Pendente,
+CH00485,Sr. Arthur Casa Grande,Logística,2026-04-26 07:59:25,,Hardware,Teclado com defeito,WhatsApp,Baixa,Em andamento,Carlos Souza,,Pendente,
+CH00486,Maysa Andrade,Financeiro,2026-05-15 21:11:57,2026-05-17 02:29:57,Acessos,Reset de senha AD,Telefone,Baixa,Fechado,Bruno Costa,29.3,Não,5.0
+CH00487,Isaac Vasconcelos,Comercial,2026-03-30 03:35:21,2026-03-30 12:41:21,Software/ERP,Erro ao emitir nota,Telefone,Alta,Fechado,Ana Silva,9.1,Não,4.0
+CH00488,Dr. Arthur Gabriel Pereira,Operações,2026-04-22 11:03:32,2026-04-22 16:45:32,Acessos,Reset de senha AD,WhatsApp,Baixa,Resolvido,Bruno Costa,5.7,Sim,5.0
+CH00489,Milena Freitas,Logística,2026-04-01 18:59:19,2026-04-01 21:23:19,Redes,Wi-Fi instável,E-mail,Média,Resolvido,Ana Silva,2.4,Sim,4.0
+CH00490,Ana Vitória Oliveira,Operações,2026-04-23 00:18:21,2026-04-24 07:36:21,Software/ERP,Erro ao emitir nota,Telefone,Média,Fechado,Bruno Costa,31.3,Não,5.0
+CH00491,Maria Clara Gonçalves,Financeiro,2026-03-31 06:18:17,2026-04-01 19:18:17,Redes,Cabo de rede desconectado,Portal de TI,Média,Fechado,Daniela Lima,37.0,Não,5.0
+CH00492,Lara da Cruz,Financeiro,2026-04-17 10:01:23,2026-04-17 14:31:23,Acessos,Permissão de pasta em rede,WhatsApp,Alta,Fechado,Ana Silva,4.5,Não,5.0
+CH00493,Francisco Monteiro,Comercial,2026-03-28 21:48:22,2026-03-28 22:36:22,Software/ERP,Acesso negado no sistema,WhatsApp,Baixa,Resolvido,Bruno Costa,0.8,Sim,4.0
+CH00494,Bárbara da Luz,Comercial,2026-05-07 03:53:09,2026-05-07 16:47:09,Software/ERP,Instalação de software,Telefone,Média,Resolvido,Bruno Costa,12.9,Sim,5.0
+CH00495,Sra. Hadassa Pimenta,Comercial,2026-04-12 03:58:15,2026-04-13 03:22:15,Acessos,Permissão de pasta em rede,Portal de TI,Média,Resolvido,Daniela Lima,23.4,Sim,5.0
+CH00496,Sra. Gabriela Campos,Financeiro,2026-04-14 14:53:39,2026-04-15 22:41:39,Acessos,Criar novo usuário,WhatsApp,Alta,Fechado,Bruno Costa,31.8,Não,4.0
+CH00497,Rael Cavalcanti,Logística,2026-03-31 01:43:19,2026-04-01 16:13:19,Redes,Wi-Fi instável,WhatsApp,Média,Resolvido,Ana Silva,38.5,Não,4.0
+CH00498,Liam Rios,Comercial,2026-04-30 02:38:10,2026-05-01 07:38:10,Software/ERP,Erro ao emitir nota,WhatsApp,Média,Fechado,Ana Silva,29.0,Não,5.0
+CH00499,Srta. Ágatha da Rocha,Operações,2026-04-20 15:00:41,2026-04-21 10:30:41,Software/ERP,Instalação de software,WhatsApp,Alta,Fechado,Bruno Costa,19.5,Não,4.0
+CH00500,Erick Vieira,RH,2026-04-16 00:24:05,2026-04-16 10:30:05,Software/ERP,Erro ao emitir nota,E-mail,Média,Resolvido,Bruno Costa,10.1,Sim,4.0
+CH00501,Heloisa Campos,Logística,2026-04-21 23:47:23,2026-04-23 07:23:23,Redes,Cabo de rede desconectado,Portal de TI,Baixa,Resolvido,Daniela Lima,31.6,Não,1.0
+CH00502,Isaac Vieira,Comercial,2026-04-06 09:46:12,2026-04-06 10:58:12,Redes,Lentidão na VPN,Portal de TI,Baixa,Resolvido,Carlos Souza,1.2,Sim,4.0
+CH00503,Luiz Miguel Novaes,RH,2026-05-04 20:36:23,2026-05-06 01:54:23,Acessos,Criar novo usuário,Portal de TI,Baixa,Reaberto,Bruno Costa,29.3,Não,5.0
+CH00504,Dr. Yuri Cardoso,Comercial,2026-05-12 10:57:17,2026-05-12 14:51:17,Redes,Lentidão na VPN,Portal de TI,Baixa,Resolvido,Daniela Lima,3.9,Sim,5.0
+CH00505,Benício das Neves,Logística,2026-05-16 07:23:41,2026-05-17 20:29:41,Acessos,Criar novo usuário,WhatsApp,Média,Reaberto,Daniela Lima,37.1,Não,4.0
+CH00506,Dra. Pietra Moura,Financeiro,2026-04-25 13:13:54,,Hardware,Teclado com defeito,Portal de TI,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00507,Ana Sophia Cardoso,RH,2026-04-26 18:40:26,2026-04-26 19:40:26,Hardware,Impressora travada,Telefone,Média,Reaberto,Carlos Souza,1.0,Sim,4.0
+CH00508,Ana Sophia Machado,Comercial,2026-04-17 16:10:47,,Acessos,Permissão de pasta em rede,E-mail,Alta,Em andamento,Carlos Souza,,Pendente,
+CH00509,Stella Ferreira,Financeiro,2026-05-02 02:55:19,2026-05-03 23:37:19,Hardware,Computador não liga,Portal de TI,Média,Resolvido,Bruno Costa,44.7,Não,5.0
+CH00510,Emilly Vargas,RH,2026-03-30 08:29:35,2026-04-01 00:41:35,Redes,Wi-Fi instável,Telefone,Alta,Resolvido,Ana Silva,40.2,Não,5.0
+CH00511,Sarah Araújo,Operações,2026-03-30 10:07:13,2026-03-30 12:37:13,Software/ERP,Acesso negado no sistema,Portal de TI,Média,Fechado,Daniela Lima,2.5,Sim,5.0
+CH00512,Daniela da Rosa,Operações,2026-03-29 22:46:05,2026-03-30 23:34:05,Hardware,Computador não liga,Telefone,Média,Resolvido,Daniela Lima,24.8,Não,5.0
+CH00513,Lorenzo Santos,RH,2026-04-02 21:07:50,2026-04-03 14:07:50,Hardware,Impressora travada,Telefone,Baixa,Fechado,Carlos Souza,17.0,Sim,3.0
+CH00514,Dr. Bruno da Cunha,Operações,2026-04-08 18:50:08,2026-04-09 05:20:08,Software/ERP,Acesso negado no sistema,Portal de TI,Baixa,Resolvido,Bruno Costa,10.5,Sim,5.0
+CH00515,Kamilly Cardoso,Logística,2026-04-05 22:52:06,2026-04-06 21:46:06,Software/ERP,Erro ao emitir nota,Telefone,Baixa,Resolvido,Bruno Costa,22.9,Sim,4.0
+CH00516,Yasmin Borges,Operações,2026-04-16 07:05:03,2026-04-17 00:53:03,Acessos,Reset de senha AD,E-mail,Média,Resolvido,Bruno Costa,17.8,Sim,5.0
+CH00517,Eloá Pastor,Financeiro,2026-05-05 16:31:56,2026-05-07 07:13:56,Acessos,Reset de senha AD,E-mail,Média,Fechado,Daniela Lima,38.7,Não,5.0
+CH00518,Enzo Gabriel Ribeiro,Comercial,2026-05-13 06:27:22,2026-05-14 06:39:22,Software/ERP,Acesso negado no sistema,Portal de TI,Baixa,Fechado,Ana Silva,24.2,Não,1.0
+CH00519,Sr. Arthur Barros,RH,2026-05-15 15:31:40,2026-05-15 18:55:40,Acessos,Criar novo usuário,Telefone,Média,Resolvido,Carlos Souza,3.4,Sim,4.0
+CH00520,Julia Rezende,Logística,2026-03-22 07:23:08,2026-03-23 10:23:08,Software/ERP,Erro ao emitir nota,WhatsApp,Baixa,Resolvido,Carlos Souza,27.0,Não,4.0
+CH00521,Maria Vitória Pinto,Comercial,2026-04-07 08:40:15,2026-04-07 18:40:15,Hardware,Impressora travada,Portal de TI,Crítica,Fechado,Daniela Lima,10.0,Não,5.0
+CH00522,Ísis da Rocha,Financeiro,2026-03-20 20:01:23,2026-03-21 00:13:23,Acessos,Criar novo usuário,E-mail,Média,Fechado,Carlos Souza,4.2,Sim,4.0
+CH00523,Isabelly Rodrigues,Comercial,2026-04-16 05:22:56,2026-04-17 01:04:56,Redes,Wi-Fi instável,E-mail,Média,Resolvido,Carlos Souza,19.7,Sim,3.0
+CH00524,Rafael Barbosa,Comercial,2026-04-26 07:42:58,2026-04-26 20:54:58,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Resolvido,Daniela Lima,13.2,Sim,4.0
+CH00525,Pedro Lucas Leão,RH,2026-03-23 17:03:33,2026-03-23 23:27:33,Software/ERP,Instalação de software,E-mail,Alta,Resolvido,Bruno Costa,6.4,Não,5.0
+CH00526,Gabrielly Fernandes,Logística,2026-05-03 21:50:19,2026-05-05 18:50:19,Redes,Wi-Fi instável,WhatsApp,Baixa,Resolvido,Ana Silva,45.0,Não,5.0
+CH00527,Levi Silva,Financeiro,2026-05-15 19:04:22,2026-05-17 02:40:22,Software/ERP,Erro ao emitir nota,Portal de TI,Baixa,Resolvido,Daniela Lima,31.6,Não,3.0
+CH00528,Sra. Maria Liz Cardoso,Logística,2026-04-17 21:30:47,2026-04-19 13:48:47,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Resolvido,Carlos Souza,40.3,Não,5.0
+CH00529,Bianca Dias,Operações,2026-04-22 20:52:23,2026-04-24 18:28:23,Acessos,Criar novo usuário,Telefone,Baixa,Resolvido,Carlos Souza,45.6,Não,5.0
+CH00530,Camila da Mata,Logística,2026-04-10 08:44:31,2026-04-10 20:02:31,Software/ERP,Acesso negado no sistema,Portal de TI,Média,Fechado,Bruno Costa,11.3,Sim,5.0
+CH00531,Diego Brito,Logística,2026-04-30 13:05:11,2026-05-02 04:17:11,Software/ERP,Acesso negado no sistema,WhatsApp,Baixa,Resolvido,Daniela Lima,39.2,Não,4.0
+CH00532,Matheus Pimenta,Financeiro,2026-03-22 19:22:14,2026-03-22 20:16:14,Software/ERP,Instalação de software,WhatsApp,Média,Fechado,Carlos Souza,0.9,Sim,5.0
+CH00533,Emanuel Duarte,Financeiro,2026-04-27 11:46:35,2026-04-28 09:04:35,Acessos,Permissão de pasta em rede,Portal de TI,Alta,Resolvido,Ana Silva,21.3,Não,5.0
+CH00534,Sra. Esther Teixeira,Operações,2026-05-12 23:33:37,2026-05-14 12:21:37,Software/ERP,Acesso negado no sistema,Portal de TI,Baixa,Resolvido,Daniela Lima,36.8,Não,3.0
+CH00535,Sophie Martins,Logística,2026-04-02 08:44:48,2026-04-02 15:44:48,Acessos,Criar novo usuário,Portal de TI,Baixa,Resolvido,Daniela Lima,7.0,Sim,5.0
+CH00536,Theo Almeida,Comercial,2026-05-05 07:38:46,2026-05-05 10:32:46,Hardware,Computador não liga,Portal de TI,Baixa,Resolvido,Bruno Costa,2.9,Sim,5.0
+CH00537,Sofia Marques,Comercial,2026-03-26 15:16:53,2026-03-27 02:52:53,Acessos,Reset de senha AD,Telefone,Média,Fechado,Carlos Souza,11.6,Sim,5.0
+CH00538,Luiz Gustavo Aragão,RH,2026-04-10 06:23:25,2026-04-11 00:29:25,Redes,Cabo de rede desconectado,E-mail,Média,Fechado,Ana Silva,18.1,Sim,4.0
+CH00539,Thales Peixoto,RH,2026-03-22 19:13:10,2026-03-23 21:31:10,Software/ERP,Acesso negado no sistema,WhatsApp,Baixa,Resolvido,Bruno Costa,26.3,Não,5.0
+CH00540,Vitor Gabriel Albuquerque,RH,2026-05-02 13:59:55,2026-05-03 02:11:55,Hardware,Impressora travada,E-mail,Crítica,Resolvido,Daniela Lima,12.2,Não,1.0
+CH00541,Catarina da Luz,Operações,2026-03-28 07:56:17,2026-03-30 04:56:17,Redes,Lentidão na VPN,WhatsApp,Crítica,Resolvido,Carlos Souza,45.0,Não,5.0
+CH00542,Maria Clara Aparecida,Financeiro,2026-04-22 09:46:32,2026-04-23 03:22:32,Hardware,Computador não liga,Telefone,Baixa,Resolvido,Carlos Souza,17.6,Sim,5.0
+CH00543,Gael Fonseca,Financeiro,2026-04-25 18:52:29,,Redes,Cabo de rede desconectado,WhatsApp,Média,Em andamento,Ana Silva,,Pendente,
+CH00544,Brayan Gomes,Financeiro,2026-05-10 14:33:17,2026-05-11 23:45:17,Redes,Wi-Fi instável,Telefone,Média,Resolvido,Ana Silva,33.2,Não,5.0
+CH00545,Lara Pinto,Comercial,2026-05-05 20:27:08,2026-05-07 19:03:08,Redes,Wi-Fi instável,E-mail,Baixa,Resolvido,Ana Silva,46.6,Não,4.0
+CH00546,Davi Lucas Brito,Financeiro,2026-05-16 05:17:08,,Software/ERP,Acesso negado no sistema,WhatsApp,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00547,Dr. Luiz Otávio Sá,Comercial,2026-04-25 03:18:50,2026-04-26 22:30:50,Acessos,Criar novo usuário,Telefone,Baixa,Resolvido,Bruno Costa,43.2,Não,5.0
+CH00548,Thomas Guerra,Operações,2026-03-31 21:37:09,2026-04-01 13:31:09,Hardware,Computador não liga,E-mail,Média,Resolvido,Daniela Lima,15.9,Sim,5.0
+CH00549,Augusto Andrade,Financeiro,2026-05-05 10:43:04,2026-05-06 04:37:04,Acessos,Criar novo usuário,WhatsApp,Baixa,Resolvido,Carlos Souza,17.9,Sim,5.0
+CH00550,Sra. Olívia Moreira,Operações,2026-03-31 04:46:11,2026-04-01 15:28:11,Acessos,Reset de senha AD,Telefone,Baixa,Fechado,Bruno Costa,34.7,Não,4.0
+CH00551,Théo Carvalho,Financeiro,2026-05-01 06:18:44,2026-05-02 13:12:44,Redes,Wi-Fi instável,E-mail,Baixa,Resolvido,Ana Silva,30.9,Não,5.0
+CH00552,Luiza Castro,Logística,2026-04-18 17:40:03,2026-04-18 22:52:03,Acessos,Criar novo usuário,Portal de TI,Média,Resolvido,Ana Silva,5.2,Sim,5.0
+CH00553,Letícia Pastor,Logística,2026-04-25 01:06:08,2026-04-25 05:00:08,Hardware,Teclado com defeito,WhatsApp,Média,Resolvido,Daniela Lima,3.9,Sim,2.0
+CH00554,Sophia Nascimento,RH,2026-04-19 13:15:32,2026-04-20 16:15:32,Acessos,Permissão de pasta em rede,Portal de TI,Baixa,Fechado,Ana Silva,27.0,Não,2.0
+CH00555,Dra. Letícia Melo,Financeiro,2026-05-04 10:52:38,2026-05-04 15:04:38,Redes,Wi-Fi instável,Telefone,Alta,Fechado,Bruno Costa,4.2,Não,5.0
+CH00556,Dr. Daniel Leão,RH,2026-03-19 12:13:07,2026-03-20 15:49:07,Acessos,Criar novo usuário,Portal de TI,Média,Resolvido,Daniela Lima,27.6,Não,2.0
+CH00557,Apollo Peixoto,Comercial,2026-05-13 13:34:35,2026-05-13 18:58:35,Acessos,Criar novo usuário,E-mail,Média,Fechado,Daniela Lima,5.4,Sim,4.0
+CH00558,Ian Silveira,Logística,2026-05-02 23:19:38,2026-05-04 01:55:38,Software/ERP,Acesso negado no sistema,Portal de TI,Alta,Fechado,Bruno Costa,26.6,Não,1.0
+CH00559,Pietra Cavalcante,Logística,2026-03-22 21:07:05,2026-03-24 10:01:05,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Resolvido,Daniela Lima,36.9,Não,3.0
+CH00560,Maria Helena Casa Grande,RH,2026-05-07 19:00:06,,Software/ERP,Instalação de software,E-mail,Baixa,Em andamento,Carlos Souza,,Pendente,
+CH00561,Daniel Correia,RH,2026-04-10 09:48:39,,Hardware,Impressora travada,Portal de TI,Crítica,Em andamento,Bruno Costa,,Pendente,
+CH00562,Luara Leão,Comercial,2026-03-19 17:34:45,,Hardware,Computador não liga,Portal de TI,Média,Em andamento,Bruno Costa,,Pendente,
+CH00563,Gabrielly Jesus,RH,2026-04-01 14:18:44,2026-04-01 19:12:44,Hardware,Teclado com defeito,Portal de TI,Alta,Resolvido,Daniela Lima,4.9,Não,5.0
+CH00564,Olivia Sousa,Comercial,2026-05-05 14:46:34,2026-05-07 00:04:34,Redes,Lentidão na VPN,WhatsApp,Alta,Resolvido,Daniela Lima,33.3,Não,5.0
+CH00565,Srta. Stella Costela,Logística,2026-03-23 22:34:40,,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Em andamento,Ana Silva,,Pendente,
+CH00566,Dr. Vinicius Garcia,Logística,2026-05-11 08:24:46,2026-05-12 15:54:46,Redes,Lentidão na VPN,WhatsApp,Baixa,Fechado,Carlos Souza,31.5,Não,4.0
+CH00567,Raul Nascimento,RH,2026-04-17 08:32:54,2026-04-18 11:50:54,Hardware,Computador não liga,Telefone,Baixa,Resolvido,Daniela Lima,27.3,Não,5.0
+CH00568,Maria Rocha,Financeiro,2026-04-20 03:07:54,2026-04-20 07:55:54,Acessos,Reset de senha AD,Portal de TI,Média,Fechado,Ana Silva,4.8,Sim,5.0
+CH00569,Rafaela Correia,Logística,2026-04-12 13:27:37,2026-04-13 15:57:37,Acessos,Criar novo usuário,E-mail,Média,Resolvido,Bruno Costa,26.5,Não,5.0
+CH00570,Kaique Câmara,RH,2026-04-10 19:52:59,2026-04-11 15:10:59,Hardware,Computador não liga,Portal de TI,Baixa,Resolvido,Daniela Lima,19.3,Sim,5.0
+CH00571,Gustavo Henrique Sales,Comercial,2026-04-15 18:56:38,2026-04-15 23:44:38,Acessos,Permissão de pasta em rede,E-mail,Alta,Resolvido,Carlos Souza,4.8,Não,4.0
+CH00572,Dr. Luiz Fernando Novais,Logística,2026-05-04 08:54:42,2026-05-05 22:00:42,Software/ERP,Instalação de software,E-mail,Média,Resolvido,Daniela Lima,37.1,Não,5.0
+CH00573,Davi Oliveira,Comercial,2026-04-13 10:39:15,,Hardware,Teclado com defeito,E-mail,Alta,Em andamento,Ana Silva,,Pendente,
+CH00574,Maria Laura Ferreira,RH,2026-05-09 15:10:42,,Hardware,Impressora travada,Portal de TI,Baixa,Em andamento,Ana Silva,,Pendente,
+CH00575,Asafe da Paz,Operações,2026-04-01 02:45:57,2026-04-01 19:03:57,Hardware,Computador não liga,Portal de TI,Média,Resolvido,Daniela Lima,16.3,Sim,4.0
+CH00576,Dr. José Miguel Souza,Operações,2026-03-25 13:36:13,2026-03-26 23:06:13,Acessos,Criar novo usuário,WhatsApp,Crítica,Resolvido,Carlos Souza,33.5,Não,4.0
+CH00577,Guilherme Nascimento,RH,2026-05-03 09:47:15,2026-05-04 23:47:15,Redes,Cabo de rede desconectado,WhatsApp,Baixa,Resolvido,Daniela Lima,38.0,Não,4.0
+CH00578,Júlia Carvalho,Comercial,2026-04-13 05:14:13,2026-04-15 01:08:13,Redes,Wi-Fi instável,Telefone,Média,Resolvido,Bruno Costa,43.9,Não,5.0
+CH00579,Isabella da Cruz,Operações,2026-03-28 11:58:05,2026-03-29 22:10:05,Acessos,Criar novo usuário,WhatsApp,Média,Reaberto,Bruno Costa,34.2,Não,3.0
+CH00580,Vitória Câmara,Operações,2026-03-22 19:44:38,2026-03-23 22:50:38,Redes,Wi-Fi instável,Portal de TI,Crítica,Resolvido,Carlos Souza,27.1,Não,4.0
+CH00581,Carlos Eduardo Jesus,Comercial,2026-04-09 12:00:01,2026-04-09 13:24:01,Software/ERP,Instalação de software,E-mail,Média,Resolvido,Carlos Souza,1.4,Sim,4.0
+CH00582,Sra. Beatriz Rodrigues,Comercial,2026-04-18 23:05:30,2026-04-20 17:17:30,Redes,Lentidão na VPN,E-mail,Média,Fechado,Bruno Costa,42.2,Não,3.0
+CH00583,Yan Castro,Financeiro,2026-03-31 05:46:24,2026-03-31 12:46:24,Hardware,Impressora travada,E-mail,Baixa,Resolvido,Daniela Lima,7.0,Sim,4.0
+CH00584,Olívia Mendes,Financeiro,2026-04-26 09:36:54,2026-04-27 01:42:54,Hardware,Teclado com defeito,E-mail,Alta,Reaberto,Bruno Costa,16.1,Não,5.0
+CH00585,Lorenzo da Paz,Operações,2026-04-06 06:13:04,2026-04-07 07:37:04,Hardware,Teclado com defeito,E-mail,Média,Resolvido,Carlos Souza,25.4,Não,5.0
+CH00586,Igor Nascimento,Comercial,2026-03-23 15:18:38,,Redes,Wi-Fi instável,E-mail,Média,Em andamento,Ana Silva,,Pendente,
+CH00587,Oliver Cavalcanti,Comercial,2026-03-21 12:21:47,2026-03-22 08:33:47,Acessos,Criar novo usuário,E-mail,Alta,Fechado,Bruno Costa,20.2,Não,5.0
+CH00588,Sabrina Cirino,Operações,2026-03-21 10:07:47,,Software/ERP,Instalação de software,E-mail,Baixa,Em andamento,Bruno Costa,,Pendente,
+CH00589,Anthony da Rosa,Operações,2026-04-14 23:57:31,2026-04-15 04:15:31,Hardware,Teclado com defeito,Telefone,Baixa,Resolvido,Carlos Souza,4.3,Sim,4.0
+CH00590,Bianca Farias,Logística,2026-05-12 00:53:56,2026-05-12 23:53:56,Hardware,Computador não liga,WhatsApp,Baixa,Resolvido,Carlos Souza,23.0,Sim,5.0
+CH00591,Ísis Moura,Financeiro,2026-04-14 12:31:43,2026-04-15 20:55:43,Hardware,Computador não liga,Telefone,Baixa,Reaberto,Daniela Lima,32.4,Não,5.0
+CH00592,Thiago Martins,Logística,2026-05-04 20:21:04,2026-05-06 15:03:04,Redes,Lentidão na VPN,Portal de TI,Alta,Resolvido,Daniela Lima,42.7,Não,5.0
+CH00593,Daniel Farias,RH,2026-04-13 09:12:30,2026-04-14 13:54:30,Redes,Lentidão na VPN,Telefone,Média,Resolvido,Daniela Lima,28.7,Não,5.0
+CH00594,Sra. Jade Silva,RH,2026-04-02 16:05:27,2026-04-04 15:53:27,Acessos,Criar novo usuário,Telefone,Baixa,Fechado,Ana Silva,47.8,Não,5.0
+CH00595,Lucca Vieira,Financeiro,2026-04-04 23:19:38,2026-04-06 17:49:38,Software/ERP,Acesso negado no sistema,Telefone,Média,Resolvido,Carlos Souza,42.5,Não,4.0
+CH00596,Evelyn Cavalcanti,Operações,2026-04-15 12:54:29,2026-04-16 14:00:29,Acessos,Reset de senha AD,WhatsApp,Baixa,Resolvido,Bruno Costa,25.1,Não,5.0
+CH00597,Maria Luiza Lima,Logística,2026-05-16 05:04:44,2026-05-17 14:40:44,Acessos,Permissão de pasta em rede,WhatsApp,Alta,Fechado,Bruno Costa,33.6,Não,5.0
+CH00598,Sr. Murilo Rios,Comercial,2026-05-06 22:08:34,2026-05-08 17:14:34,Redes,Cabo de rede desconectado,E-mail,Alta,Resolvido,Ana Silva,43.1,Não,3.0
+CH00599,Davi Miguel Mendes,Operações,2026-03-27 03:42:55,,Software/ERP,Erro ao emitir nota,Telefone,Média,Em andamento,Bruno Costa,,Pendente,
+CH00600,André da Luz,Financeiro,2026-04-18 07:29:54,2026-04-19 20:29:54,Hardware,Computador não liga,E-mail,Baixa,Resolvido,Ana Silva,37.0,Não,3.0
+CH00601,Pietro Sá,Financeiro,2026-04-24 03:14:42,2026-04-25 16:14:42,Hardware,Computador não liga,E-mail,Baixa,Resolvido,Ana Silva,37.0,Não,5.0
+CH00602,Dr. Anthony da Luz,Logística,2026-04-12 19:35:37,2026-04-13 17:53:37,Redes,Lentidão na VPN,E-mail,Baixa,Resolvido,Bruno Costa,22.3,Sim,3.0
+CH00603,Srta. Ana Liz Rios,Operações,2026-04-21 19:16:08,2026-04-22 15:16:08,Redes,Wi-Fi instável,Portal de TI,Média,Resolvido,Bruno Costa,20.0,Sim,5.0
+CH00604,Lorena Castro,Financeiro,2026-03-29 08:56:08,,Software/ERP,Erro ao emitir nota,WhatsApp,Baixa,Em andamento,Carlos Souza,,Pendente,
+CH00605,Sarah Santos,Comercial,2026-04-26 06:08:28,2026-04-26 11:50:28,Hardware,Teclado com defeito,E-mail,Baixa,Resolvido,Daniela Lima,5.7,Sim,1.0
+CH00606,Srta. Laís Freitas,Logística,2026-04-17 02:04:59,2026-04-17 04:16:59,Software/ERP,Acesso negado no sistema,WhatsApp,Baixa,Fechado,Daniela Lima,2.2,Sim,4.0
+CH00607,Henry Carvalho,Operações,2026-05-16 13:37:58,2026-05-17 12:31:58,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Fechado,Bruno Costa,22.9,Sim,5.0
+CH00608,Rafael Souza,Operações,2026-05-03 07:41:47,2026-05-03 13:23:47,Redes,Cabo de rede desconectado,Portal de TI,Média,Resolvido,Daniela Lima,5.7,Sim,4.0
+CH00609,Dr. Yan Melo,Operações,2026-05-15 16:55:33,2026-05-16 18:25:33,Software/ERP,Erro ao emitir nota,Telefone,Baixa,Resolvido,Daniela Lima,25.5,Não,1.0
+CH00610,Helena Teixeira,RH,2026-05-09 01:57:32,2026-05-10 07:21:32,Hardware,Computador não liga,WhatsApp,Baixa,Resolvido,Daniela Lima,29.4,Não,4.0
+CH00611,Anna Liz Moura,RH,2026-04-10 22:05:17,2026-04-12 14:53:17,Acessos,Permissão de pasta em rede,Portal de TI,Baixa,Resolvido,Carlos Souza,40.8,Não,4.0
+CH00612,Maria Cecília Barbosa,RH,2026-04-30 06:27:00,2026-04-30 07:27:00,Software/ERP,Acesso negado no sistema,Portal de TI,Média,Resolvido,Carlos Souza,1.0,Sim,5.0
+CH00613,Bento Novaes,Operações,2026-05-11 16:03:37,2026-05-11 16:51:37,Software/ERP,Acesso negado no sistema,WhatsApp,Baixa,Resolvido,Bruno Costa,0.8,Sim,4.0
+CH00614,Vitor Gabriel Cassiano,Financeiro,2026-05-05 23:19:19,2026-05-07 19:37:19,Acessos,Reset de senha AD,Telefone,Alta,Resolvido,Bruno Costa,44.3,Não,5.0
+CH00615,Dr. Danilo Rodrigues,RH,2026-04-02 20:51:04,2026-04-03 22:51:04,Acessos,Criar novo usuário,Portal de TI,Alta,Resolvido,Carlos Souza,26.0,Não,5.0
+CH00616,Dra. Rebeca Borges,Financeiro,2026-04-06 20:04:19,2026-04-07 23:58:19,Software/ERP,Erro ao emitir nota,Portal de TI,Baixa,Resolvido,Ana Silva,27.9,Não,5.0
+CH00617,Ana Laura Marques,Operações,2026-05-06 10:42:45,2026-05-07 12:36:45,Acessos,Reset de senha AD,WhatsApp,Baixa,Resolvido,Carlos Souza,25.9,Não,5.0
+CH00618,Maria Vitória Marques,Comercial,2026-03-30 16:54:16,2026-03-30 18:54:16,Acessos,Reset de senha AD,Telefone,Baixa,Fechado,Carlos Souza,2.0,Sim,5.0
+CH00619,Ravi Rocha,Logística,2026-05-11 15:27:36,2026-05-11 21:15:36,Hardware,Computador não liga,WhatsApp,Baixa,Resolvido,Daniela Lima,5.8,Sim,4.0
+CH00620,Srta. Maria Laura da Cunha,Financeiro,2026-04-16 19:32:20,2026-04-17 12:14:20,Software/ERP,Acesso negado no sistema,WhatsApp,Baixa,Fechado,Bruno Costa,16.7,Sim,5.0
+CH00621,Srta. Ana Sophia Aparecida,Comercial,2026-03-18 04:28:42,2026-03-18 23:22:42,Redes,Wi-Fi instável,WhatsApp,Baixa,Resolvido,Ana Silva,18.9,Sim,3.0
+CH00622,Sr. Vitor Hugo Araújo,Operações,2026-04-28 00:44:18,2026-04-28 06:08:18,Software/ERP,Erro ao emitir nota,Portal de TI,Alta,Resolvido,Bruno Costa,5.4,Não,4.0
+CH00623,Ana Beatriz da Paz,RH,2026-03-24 14:16:41,2026-03-25 03:52:41,Acessos,Criar novo usuário,Portal de TI,Baixa,Resolvido,Bruno Costa,13.6,Sim,5.0
+CH00624,Davi Luiz Vargas,Operações,2026-04-26 14:10:51,2026-04-28 12:10:51,Redes,Wi-Fi instável,Portal de TI,Baixa,Resolvido,Carlos Souza,46.0,Não,5.0
+CH00625,Dr. Pietro Garcia,Comercial,2026-04-27 16:57:58,2026-04-29 07:39:58,Hardware,Computador não liga,Portal de TI,Alta,Resolvido,Daniela Lima,38.7,Não,5.0
+CH00626,Vitor Hugo Carvalho,Logística,2026-04-23 08:46:10,,Redes,Wi-Fi instável,WhatsApp,Baixa,Em andamento,Ana Silva,,Pendente,
+CH00627,Felipe Nascimento,Comercial,2026-04-20 15:48:52,2026-04-21 20:36:52,Acessos,Criar novo usuário,Portal de TI,Baixa,Resolvido,Carlos Souza,28.8,Não,5.0
+CH00628,Carolina Siqueira,Financeiro,2026-04-25 01:20:41,2026-04-26 09:44:41,Acessos,Criar novo usuário,WhatsApp,Média,Fechado,Daniela Lima,32.4,Não,5.0
+CH00629,Antônio da Rosa,Financeiro,2026-04-08 12:21:27,,Acessos,Permissão de pasta em rede,E-mail,Baixa,Em andamento,Bruno Costa,,Pendente,
+CH00630,Ísis Lima,Logística,2026-05-01 20:19:45,2026-05-03 16:13:45,Software/ERP,Acesso negado no sistema,Telefone,Média,Fechado,Ana Silva,43.9,Não,5.0
+CH00631,Heloísa da Cruz,Financeiro,2026-05-08 12:56:49,,Acessos,Permissão de pasta em rede,Portal de TI,Baixa,Em andamento,Carlos Souza,,Pendente,
+CH00632,Sr. João Guilherme Correia,Operações,2026-05-01 14:47:11,2026-05-01 20:11:11,Redes,Cabo de rede desconectado,WhatsApp,Baixa,Resolvido,Carlos Souza,5.4,Sim,4.0
+CH00633,Otto Pimenta,Logística,2026-03-28 20:23:56,2026-03-29 16:29:56,Hardware,Impressora travada,WhatsApp,Média,Resolvido,Carlos Souza,20.1,Sim,4.0
+CH00634,Gustavo Azevedo,Financeiro,2026-03-19 09:54:33,2026-03-20 06:54:33,Software/ERP,Instalação de software,E-mail,Média,Resolvido,Ana Silva,21.0,Sim,1.0
+CH00635,Ana Beatriz Machado,Operações,2026-03-27 16:33:29,2026-03-29 08:45:29,Acessos,Permissão de pasta em rede,WhatsApp,Média,Fechado,Daniela Lima,40.2,Não,5.0
+CH00636,Ana Julia da Cruz,Logística,2026-05-14 22:23:30,2026-05-15 02:11:30,Acessos,Permissão de pasta em rede,WhatsApp,Crítica,Resolvido,Ana Silva,3.8,Sim,5.0
+CH00637,Maysa da Conceição,Financeiro,2026-03-22 04:31:51,2026-03-23 08:37:51,Redes,Wi-Fi instável,Telefone,Baixa,Resolvido,Carlos Souza,28.1,Não,4.0
+CH00638,Benjamin Carvalho,Operações,2026-05-09 07:11:00,2026-05-09 16:59:00,Software/ERP,Acesso negado no sistema,Portal de TI,Média,Resolvido,Daniela Lima,9.8,Sim,4.0
+CH00639,Igor Siqueira,Comercial,2026-05-05 19:36:51,2026-05-07 19:06:51,Acessos,Reset de senha AD,WhatsApp,Alta,Fechado,Carlos Souza,47.5,Não,5.0
+CH00640,Dr. Isaac da Rosa,Comercial,2026-05-12 19:53:10,2026-05-12 20:23:10,Software/ERP,Erro ao emitir nota,WhatsApp,Crítica,Fechado,Bruno Costa,0.5,Sim,5.0
+CH00641,Stephany Câmara,Logística,2026-03-31 19:16:22,2026-04-02 01:28:22,Acessos,Permissão de pasta em rede,E-mail,Média,Resolvido,Bruno Costa,30.2,Não,4.0
+CH00642,João Guilherme Araújo,Comercial,2026-04-27 01:07:01,2026-04-27 19:55:01,Acessos,Reset de senha AD,E-mail,Baixa,Resolvido,Bruno Costa,18.8,Sim,3.0
+CH00643,Emanuella Pires,Logística,2026-05-10 22:41:57,,Hardware,Teclado com defeito,Telefone,Média,Em andamento,Bruno Costa,,Pendente,
+CH00644,Sabrina Aragão,Operações,2026-04-28 08:54:05,,Acessos,Permissão de pasta em rede,Telefone,Média,Em andamento,Bruno Costa,,Pendente,
+CH00645,Maria Helena Viana,Logística,2026-04-20 07:59:47,2026-04-21 23:29:47,Hardware,Computador não liga,WhatsApp,Média,Resolvido,Daniela Lima,39.5,Não,5.0
+CH00646,Dr. Nicolas Cassiano,RH,2026-05-07 19:32:22,2026-05-08 19:50:22,Software/ERP,Erro ao emitir nota,Telefone,Baixa,Fechado,Carlos Souza,24.3,Não,5.0
+CH00647,Ester Sá,Operações,2026-04-16 00:14:34,,Redes,Wi-Fi instável,Portal de TI,Média,Em andamento,Daniela Lima,,Pendente,
+CH00648,Isabella Câmara,Operações,2026-05-09 02:54:56,2026-05-10 08:24:56,Redes,Lentidão na VPN,Portal de TI,Média,Resolvido,Ana Silva,29.5,Não,5.0
+CH00649,Srta. Nicole Araújo,Comercial,2026-04-16 02:13:06,2026-04-16 03:13:06,Acessos,Criar novo usuário,Telefone,Média,Fechado,Carlos Souza,1.0,Sim,5.0
+CH00650,Maria Vitória Novais,Operações,2026-05-11 11:54:22,2026-05-12 02:06:22,Software/ERP,Instalação de software,Portal de TI,Média,Reaberto,Ana Silva,14.2,Sim,5.0
+CH00651,Mathias da Cruz,Operações,2026-05-08 08:25:20,2026-05-09 12:07:20,Software/ERP,Instalação de software,WhatsApp,Média,Resolvido,Carlos Souza,27.7,Não,4.0
+CH00652,Lucas Ramos,Operações,2026-04-11 15:38:05,2026-04-11 19:50:05,Software/ERP,Erro ao emitir nota,Portal de TI,Baixa,Resolvido,Carlos Souza,4.2,Sim,4.0
+CH00653,Maria Eduarda Borges,Logística,2026-03-25 13:41:57,2026-03-25 19:29:57,Hardware,Teclado com defeito,Portal de TI,Baixa,Fechado,Bruno Costa,5.8,Sim,5.0
+CH00654,Srta. Ana Júlia da Mata,RH,2026-05-08 21:34:23,2026-05-09 21:04:23,Redes,Cabo de rede desconectado,E-mail,Média,Resolvido,Bruno Costa,23.5,Sim,4.0
+CH00655,Ana Cecília Barbosa,Financeiro,2026-04-23 12:19:01,2026-04-24 08:25:01,Acessos,Criar novo usuário,E-mail,Média,Fechado,Carlos Souza,20.1,Sim,5.0
+CH00656,Helena Mendes,Financeiro,2026-04-05 03:54:15,,Redes,Wi-Fi instável,Telefone,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00657,Dr. Anthony Gabriel Cunha,Logística,2026-04-07 04:11:55,2026-04-09 01:41:55,Hardware,Impressora travada,Telefone,Média,Resolvido,Carlos Souza,45.5,Não,3.0
+CH00658,Srta. Pietra da Cruz,Logística,2026-04-05 08:14:21,,Redes,Cabo de rede desconectado,Telefone,Alta,Em andamento,Carlos Souza,,Pendente,
+CH00659,Srta. Maria Laura da Costa,Operações,2026-05-15 13:48:34,2026-05-15 16:12:34,Software/ERP,Acesso negado no sistema,Portal de TI,Média,Reaberto,Carlos Souza,2.4,Sim,3.0
+CH00660,Dr. Mateus Martins,Financeiro,2026-05-10 11:53:23,2026-05-11 00:29:23,Acessos,Criar novo usuário,E-mail,Alta,Resolvido,Carlos Souza,12.6,Não,5.0
+CH00661,Maria Alice das Neves,RH,2026-05-08 16:56:48,2026-05-09 08:20:48,Redes,Wi-Fi instável,Telefone,Crítica,Resolvido,Ana Silva,15.4,Não,5.0
+CH00662,Dr. Ravi Lucca Brito,RH,2026-04-12 06:56:04,2026-04-13 00:08:04,Software/ERP,Erro ao emitir nota,WhatsApp,Média,Resolvido,Ana Silva,17.2,Sim,4.0
+CH00663,Sr. Léo Dias,RH,2026-05-02 11:26:38,,Hardware,Teclado com defeito,WhatsApp,Média,Em andamento,Ana Silva,,Pendente,
+CH00664,Henry Sousa,Financeiro,2026-04-27 01:58:44,2026-04-28 09:40:44,Hardware,Computador não liga,Portal de TI,Baixa,Fechado,Carlos Souza,31.7,Não,3.0
+CH00665,José Pedro Novaes,Comercial,2026-04-01 01:28:35,2026-04-02 08:16:35,Software/ERP,Acesso negado no sistema,Portal de TI,Alta,Resolvido,Bruno Costa,30.8,Não,3.0
+CH00666,Maria Vitória da Rocha,Comercial,2026-05-13 14:20:41,2026-05-13 17:50:41,Redes,Cabo de rede desconectado,E-mail,Baixa,Fechado,Daniela Lima,3.5,Sim,5.0
+CH00667,Lucas da Conceição,Logística,2026-04-01 16:35:46,,Hardware,Teclado com defeito,E-mail,Crítica,Em andamento,Daniela Lima,,Pendente,
+CH00668,Isabelly Monteiro,Operações,2026-04-23 18:32:33,,Acessos,Reset de senha AD,WhatsApp,Média,Em andamento,Daniela Lima,,Pendente,
+CH00669,Maitê da Cunha,RH,2026-05-10 08:32:31,2026-05-10 12:32:31,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Fechado,Bruno Costa,4.0,Sim,5.0
+CH00670,Dra. Rebeca Marques,Comercial,2026-05-04 08:01:17,2026-05-04 10:19:17,Hardware,Teclado com defeito,Telefone,Baixa,Resolvido,Ana Silva,2.3,Sim,5.0
+CH00671,Sra. Eloá Carvalho,Financeiro,2026-04-03 05:27:53,2026-04-04 05:15:53,Redes,Lentidão na VPN,WhatsApp,Alta,Resolvido,Daniela Lima,23.8,Não,5.0
+CH00672,Ester Nogueira,Comercial,2026-05-09 22:59:49,2026-05-10 22:23:49,Software/ERP,Acesso negado no sistema,Telefone,Alta,Reaberto,Ana Silva,23.4,Não,5.0
+CH00673,Ana Beatriz Barbosa,Logística,2026-03-23 14:18:27,2026-03-23 19:06:27,Software/ERP,Erro ao emitir nota,Portal de TI,Crítica,Resolvido,Bruno Costa,4.8,Não,5.0
+CH00674,Noah Carvalho,Comercial,2026-03-22 14:29:55,2026-03-23 09:11:55,Acessos,Reset de senha AD,Telefone,Baixa,Resolvido,Ana Silva,18.7,Sim,5.0
+CH00675,Dom Albuquerque,Operações,2026-04-09 08:43:51,2026-04-09 18:13:51,Redes,Lentidão na VPN,E-mail,Média,Fechado,Daniela Lima,9.5,Sim,5.0
+CH00676,Mirella Freitas,RH,2026-04-08 03:06:20,2026-04-09 10:12:20,Acessos,Reset de senha AD,Portal de TI,Média,Resolvido,Ana Silva,31.1,Não,5.0
+CH00677,Rafaela Ribeiro,Operações,2026-03-23 18:18:39,2026-03-24 14:06:39,Acessos,Criar novo usuário,E-mail,Média,Resolvido,Bruno Costa,19.8,Sim,5.0
+CH00678,André Nascimento,RH,2026-05-04 06:14:06,2026-05-04 13:26:06,Acessos,Criar novo usuário,E-mail,Baixa,Fechado,Bruno Costa,7.2,Sim,4.0
+CH00679,Alice Almeida,Logística,2026-05-10 10:52:28,,Software/ERP,Erro ao emitir nota,E-mail,Média,Em andamento,Ana Silva,,Pendente,
+CH00680,Sra. Zoe da Paz,Financeiro,2026-05-08 07:05:04,2026-05-09 07:11:04,Hardware,Computador não liga,Telefone,Baixa,Fechado,Carlos Souza,24.1,Não,4.0
+CH00681,Marina Cavalcanti,Financeiro,2026-03-19 13:23:49,2026-03-20 22:05:49,Hardware,Impressora travada,WhatsApp,Crítica,Fechado,Bruno Costa,32.7,Não,5.0
+CH00682,Vinicius Cassiano,Financeiro,2026-03-28 06:49:05,2026-03-28 14:01:05,Software/ERP,Instalação de software,Telefone,Baixa,Resolvido,Bruno Costa,7.2,Sim,5.0
+CH00683,Vinicius da Cunha,RH,2026-04-10 06:57:00,2026-04-10 12:09:00,Acessos,Reset de senha AD,Telefone,Baixa,Fechado,Ana Silva,5.2,Sim,4.0
+CH00684,Miguel Barros,Operações,2026-04-21 07:21:34,,Redes,Lentidão na VPN,Portal de TI,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00685,Natália Nunes,Comercial,2026-04-23 02:43:30,2026-04-24 01:49:30,Hardware,Teclado com defeito,Telefone,Média,Resolvido,Daniela Lima,23.1,Sim,5.0
+CH00686,Srta. Letícia Rodrigues,RH,2026-04-10 12:10:02,2026-04-11 21:34:02,Acessos,Criar novo usuário,Portal de TI,Baixa,Resolvido,Carlos Souza,33.4,Não,5.0
+CH00687,Ana Beatriz Borges,Comercial,2026-03-25 17:18:10,2026-03-26 02:54:10,Redes,Lentidão na VPN,E-mail,Média,Resolvido,Daniela Lima,9.6,Sim,1.0
+CH00688,Maria Flor Novaes,Logística,2026-04-26 05:49:07,2026-04-26 19:25:07,Hardware,Teclado com defeito,Telefone,Média,Fechado,Bruno Costa,13.6,Sim,5.0
+CH00689,Anthony Sampaio,Comercial,2026-05-03 02:37:27,2026-05-03 05:43:27,Hardware,Impressora travada,Portal de TI,Alta,Resolvido,Daniela Lima,3.1,Sim,5.0
+CH00690,Theo Lopes,RH,2026-04-03 12:48:16,,Hardware,Computador não liga,Telefone,Média,Em andamento,Ana Silva,,Pendente,
+CH00691,Aylla Moura,Operações,2026-04-19 01:22:06,,Acessos,Criar novo usuário,Portal de TI,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00692,Heitor Sales,RH,2026-03-22 00:36:17,2026-03-22 16:36:17,Software/ERP,Erro ao emitir nota,E-mail,Média,Resolvido,Daniela Lima,16.0,Sim,4.0
+CH00693,Júlia Aparecida,Logística,2026-05-11 22:09:17,2026-05-12 09:09:17,Acessos,Reset de senha AD,E-mail,Baixa,Fechado,Bruno Costa,11.0,Sim,5.0
+CH00694,Lara Nogueira,Comercial,2026-03-25 02:41:43,2026-03-25 21:35:43,Hardware,Teclado com defeito,Portal de TI,Média,Fechado,Bruno Costa,18.9,Sim,5.0
+CH00695,Ana Beatriz Cavalcanti,Logística,2026-05-11 14:31:30,2026-05-12 18:01:30,Redes,Cabo de rede desconectado,Telefone,Baixa,Resolvido,Bruno Costa,27.5,Não,5.0
+CH00696,Gustavo Henrique Pastor,Operações,2026-04-17 10:15:15,2026-04-18 00:45:15,Hardware,Teclado com defeito,E-mail,Baixa,Fechado,Ana Silva,14.5,Sim,5.0
+CH00697,Sra. Ana Vitória da Rosa,Comercial,2026-03-31 21:26:33,2026-04-02 14:56:33,Acessos,Permissão de pasta em rede,WhatsApp,Média,Resolvido,Daniela Lima,41.5,Não,5.0
+CH00698,Isabella Nunes,RH,2026-04-02 15:59:18,2026-04-03 07:59:18,Hardware,Teclado com defeito,Telefone,Baixa,Fechado,Ana Silva,16.0,Sim,5.0
+CH00699,Ágatha Farias,Operações,2026-04-24 16:15:09,,Redes,Cabo de rede desconectado,Telefone,Média,Em andamento,Daniela Lima,,Pendente,
+CH00700,Srta. Anna Liz Montenegro,RH,2026-04-24 03:52:42,2026-04-24 09:04:42,Redes,Lentidão na VPN,Telefone,Média,Fechado,Bruno Costa,5.2,Sim,5.0
+CH00701,Carlos Eduardo Lopes,Logística,2026-04-20 11:21:46,,Redes,Wi-Fi instável,Portal de TI,Baixa,Em andamento,Bruno Costa,,Pendente,
+CH00702,Luigi Pereira,Financeiro,2026-04-09 10:23:12,2026-04-10 22:23:12,Acessos,Permissão de pasta em rede,Telefone,Alta,Fechado,Bruno Costa,36.0,Não,5.0
+CH00703,Maria Laura Vasconcelos,Comercial,2026-05-16 11:51:41,2026-05-17 10:27:41,Redes,Cabo de rede desconectado,WhatsApp,Baixa,Fechado,Carlos Souza,22.6,Sim,4.0
+CH00704,João Gabriel Viana,RH,2026-04-18 13:57:52,2026-04-20 11:21:52,Hardware,Teclado com defeito,Portal de TI,Baixa,Resolvido,Ana Silva,45.4,Não,5.0
+CH00705,Heloísa Fogaça,Logística,2026-04-30 15:18:35,2026-05-01 09:06:35,Acessos,Permissão de pasta em rede,WhatsApp,Alta,Resolvido,Carlos Souza,17.8,Não,5.0
+CH00706,Marina Cirino,Comercial,2026-05-10 14:07:23,2026-05-12 00:07:23,Hardware,Computador não liga,E-mail,Média,Resolvido,Ana Silva,34.0,Não,5.0
+CH00707,Maria Helena Barros,Financeiro,2026-05-13 18:38:23,2026-05-15 06:50:23,Hardware,Teclado com defeito,Portal de TI,Média,Resolvido,Carlos Souza,36.2,Não,3.0
+CH00708,Brayan Barros,Logística,2026-04-15 13:44:09,2026-04-16 10:20:09,Software/ERP,Acesso negado no sistema,Telefone,Média,Fechado,Ana Silva,20.6,Sim,5.0
+CH00709,Mateus Silva,Comercial,2026-04-12 21:52:19,2026-04-14 13:34:19,Acessos,Criar novo usuário,WhatsApp,Média,Resolvido,Bruno Costa,39.7,Não,3.0
+CH00710,Sra. Luiza Fonseca,RH,2026-04-01 20:56:35,2026-04-02 01:14:35,Software/ERP,Erro ao emitir nota,E-mail,Média,Fechado,Carlos Souza,4.3,Sim,3.0
+CH00711,André das Neves,Operações,2026-03-28 05:44:00,,Hardware,Computador não liga,WhatsApp,Baixa,Em andamento,Carlos Souza,,Pendente,
+CH00712,Dr. Cauã Cardoso,RH,2026-04-30 01:45:41,2026-05-01 22:33:41,Acessos,Permissão de pasta em rede,Portal de TI,Média,Resolvido,Bruno Costa,44.8,Não,5.0
+CH00713,Pedro Machado,Comercial,2026-03-26 08:52:09,,Hardware,Teclado com defeito,Telefone,Alta,Em andamento,Carlos Souza,,Pendente,
+CH00714,Sophie Jesus,Comercial,2026-05-10 23:19:16,2026-05-11 22:55:16,Acessos,Permissão de pasta em rede,E-mail,Média,Resolvido,Carlos Souza,23.6,Sim,4.0
+CH00715,Caio Fogaça,Comercial,2026-03-27 22:08:30,2026-03-28 21:38:30,Redes,Wi-Fi instável,Portal de TI,Baixa,Resolvido,Daniela Lima,23.5,Sim,1.0
+CH00716,Luan Gomes,Financeiro,2026-05-10 16:52:39,2026-05-11 00:58:39,Hardware,Computador não liga,E-mail,Média,Reaberto,Bruno Costa,8.1,Sim,5.0
+CH00717,Noah Gomes,Comercial,2026-03-19 02:12:27,,Hardware,Impressora travada,Portal de TI,Crítica,Em andamento,Bruno Costa,,Pendente,
+CH00718,Dra. Isabelly Oliveira,Logística,2026-03-26 02:48:58,2026-03-27 10:54:58,Hardware,Impressora travada,E-mail,Média,Resolvido,Carlos Souza,32.1,Não,1.0
+CH00719,Mateus Cavalcante,Logística,2026-05-07 11:42:48,,Acessos,Reset de senha AD,Portal de TI,Baixa,Em andamento,Bruno Costa,,Pendente,
+CH00720,Kevin da Mata,Comercial,2026-03-31 08:58:21,,Software/ERP,Instalação de software,Telefone,Média,Em andamento,Carlos Souza,,Pendente,
+CH00721,Benício Cavalcante,RH,2026-05-04 18:30:50,2026-05-06 18:12:50,Acessos,Permissão de pasta em rede,Telefone,Média,Reaberto,Ana Silva,47.7,Não,4.0
+CH00722,Otto da Rosa,Logística,2026-04-29 02:19:15,,Software/ERP,Erro ao emitir nota,E-mail,Média,Em andamento,Daniela Lima,,Pendente,
+CH00723,Luiz Miguel da Cunha,Financeiro,2026-05-03 21:47:33,2026-05-05 03:11:33,Hardware,Impressora travada,WhatsApp,Baixa,Resolvido,Ana Silva,29.4,Não,5.0
+CH00724,Dra. Sabrina Peixoto,Logística,2026-04-10 20:02:54,2026-04-12 04:26:54,Acessos,Reset de senha AD,Portal de TI,Média,Resolvido,Ana Silva,32.4,Não,5.0
+CH00725,Raul Caldeira,Comercial,2026-05-16 18:23:39,2026-05-17 01:53:39,Software/ERP,Acesso negado no sistema,WhatsApp,Baixa,Fechado,Carlos Souza,7.5,Sim,3.0
+CH00726,André Gonçalves,Logística,2026-03-31 01:09:55,2026-03-31 22:51:55,Hardware,Teclado com defeito,Telefone,Baixa,Resolvido,Daniela Lima,21.7,Sim,5.0
+CH00727,Maria Helena Farias,Operações,2026-04-19 03:34:26,2026-04-21 02:10:26,Acessos,Reset de senha AD,WhatsApp,Alta,Resolvido,Bruno Costa,46.6,Não,5.0
+CH00728,Dr. Davi Luiz da Rosa,Logística,2026-04-29 15:14:44,2026-05-01 08:56:44,Redes,Lentidão na VPN,WhatsApp,Média,Resolvido,Ana Silva,41.7,Não,1.0
+CH00729,Gabriela Mendes,Financeiro,2026-04-18 00:39:21,2026-04-18 20:51:21,Hardware,Computador não liga,Telefone,Alta,Resolvido,Carlos Souza,20.2,Não,5.0
+CH00730,Miguel Dias,Operações,2026-04-17 09:33:07,2026-04-19 01:15:07,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Resolvido,Bruno Costa,39.7,Não,4.0
+CH00731,Dra. Rebeca Oliveira,Logística,2026-04-15 04:34:31,,Software/ERP,Acesso negado no sistema,WhatsApp,Baixa,Em andamento,Carlos Souza,,Pendente,
+CH00732,Dr. João Lucas Viana,Logística,2026-04-10 10:20:29,2026-04-11 19:32:29,Redes,Cabo de rede desconectado,WhatsApp,Média,Resolvido,Carlos Souza,33.2,Não,5.0
+CH00733,Sr. Guilherme Pastor,RH,2026-04-25 01:03:25,2026-04-26 18:45:25,Acessos,Criar novo usuário,Portal de TI,Média,Resolvido,Ana Silva,41.7,Não,4.0
+CH00734,Yan Alves,Financeiro,2026-05-09 20:51:35,2026-05-10 00:09:35,Hardware,Impressora travada,WhatsApp,Baixa,Fechado,Carlos Souza,3.3,Sim,5.0
+CH00735,Srta. Maysa da Rocha,RH,2026-05-01 17:06:34,2026-05-03 15:00:34,Software/ERP,Instalação de software,E-mail,Média,Resolvido,Bruno Costa,45.9,Não,5.0
+CH00736,Sara Carvalho,Comercial,2026-03-24 14:36:11,2026-03-24 23:00:11,Software/ERP,Instalação de software,Portal de TI,Média,Fechado,Carlos Souza,8.4,Sim,5.0
+CH00737,José Ribeiro,Financeiro,2026-04-16 07:06:11,,Hardware,Computador não liga,Portal de TI,Média,Em andamento,Carlos Souza,,Pendente,
+CH00738,Sra. Maria Flor Barbosa,Operações,2026-04-01 20:37:54,2026-04-03 16:49:54,Hardware,Computador não liga,E-mail,Média,Fechado,Bruno Costa,44.2,Não,5.0
+CH00739,Pietra Pacheco,Logística,2026-04-30 11:51:11,2026-05-01 21:09:11,Redes,Cabo de rede desconectado,WhatsApp,Média,Fechado,Ana Silva,33.3,Não,2.0
+CH00740,Sofia Sales,Logística,2026-04-25 19:23:43,2026-04-26 18:41:43,Software/ERP,Erro ao emitir nota,Portal de TI,Alta,Fechado,Bruno Costa,23.3,Não,5.0
+CH00741,Ana Carolina Vieira,Financeiro,2026-04-27 12:09:47,2026-04-29 03:21:47,Hardware,Teclado com defeito,Portal de TI,Baixa,Fechado,Bruno Costa,39.2,Não,5.0
+CH00742,Dra. Antonella Caldeira,RH,2026-04-21 19:12:58,2026-04-22 15:54:58,Redes,Wi-Fi instável,Telefone,Crítica,Resolvido,Daniela Lima,20.7,Não,4.0
+CH00743,Maria Cavalcante,RH,2026-04-10 23:52:19,,Redes,Cabo de rede desconectado,Portal de TI,Baixa,Em andamento,Ana Silva,,Pendente,
+CH00744,Murilo Sá,Operações,2026-05-16 09:05:41,,Redes,Wi-Fi instável,E-mail,Média,Em andamento,Bruno Costa,,Pendente,
+CH00745,Bianca Albuquerque,Comercial,2026-04-19 02:07:41,2026-04-19 06:55:41,Software/ERP,Instalação de software,Portal de TI,Baixa,Resolvido,Bruno Costa,4.8,Sim,4.0
+CH00746,Henry Moraes,Operações,2026-03-27 11:13:18,2026-03-28 16:49:18,Redes,Wi-Fi instável,WhatsApp,Média,Fechado,Bruno Costa,29.6,Não,5.0
+CH00747,Hellena Machado,RH,2026-05-07 06:20:18,2026-05-07 15:02:18,Redes,Lentidão na VPN,E-mail,Crítica,Fechado,Daniela Lima,8.7,Não,4.0
+CH00748,Nicole Vargas,Logística,2026-04-23 05:12:49,2026-04-24 02:36:49,Hardware,Impressora travada,Telefone,Média,Resolvido,Bruno Costa,21.4,Sim,2.0
+CH00749,Dra. Clarice Ferreira,Operações,2026-05-14 00:57:57,2026-05-15 13:39:57,Acessos,Reset de senha AD,E-mail,Média,Resolvido,Daniela Lima,36.7,Não,5.0
+CH00750,Bella da Rocha,RH,2026-03-20 06:41:13,2026-03-21 09:41:13,Software/ERP,Acesso negado no sistema,Telefone,Média,Fechado,Carlos Souza,27.0,Não,5.0
+CH00751,Danilo Siqueira,Logística,2026-04-27 06:44:41,2026-04-28 15:50:41,Hardware,Teclado com defeito,Portal de TI,Média,Resolvido,Daniela Lima,33.1,Não,4.0
+CH00752,Dr. Luigi Marques,RH,2026-03-31 15:34:44,2026-04-02 08:04:44,Software/ERP,Erro ao emitir nota,Telefone,Baixa,Resolvido,Ana Silva,40.5,Não,5.0
+CH00753,Rafaela Ferreira,Operações,2026-04-06 23:29:15,2026-04-08 08:05:15,Acessos,Permissão de pasta em rede,WhatsApp,Média,Resolvido,Bruno Costa,32.6,Não,5.0
+CH00754,Pedro Lucas Silveira,Operações,2026-05-03 02:59:27,,Software/ERP,Erro ao emitir nota,Telefone,Crítica,Em andamento,Ana Silva,,Pendente,
+CH00755,Sr. Kaique Aparecida,Logística,2026-04-30 19:43:49,2026-05-01 19:55:49,Software/ERP,Instalação de software,Portal de TI,Média,Resolvido,Daniela Lima,24.2,Não,4.0
+CH00756,Luigi Ramos,RH,2026-03-29 01:37:12,2026-03-31 01:01:12,Hardware,Impressora travada,WhatsApp,Crítica,Resolvido,Carlos Souza,47.4,Não,5.0
+CH00757,Eloah Sousa,Logística,2026-03-28 12:17:07,2026-03-30 09:35:07,Redes,Wi-Fi instável,WhatsApp,Baixa,Resolvido,Bruno Costa,45.3,Não,5.0
+CH00758,Emanuella Novaes,Operações,2026-04-10 13:48:37,2026-04-10 21:36:37,Redes,Wi-Fi instável,Telefone,Média,Resolvido,Daniela Lima,7.8,Sim,4.0
+CH00759,Dr. Ravi da Conceição,Operações,2026-04-02 10:35:42,2026-04-03 10:23:42,Software/ERP,Instalação de software,WhatsApp,Média,Resolvido,Ana Silva,23.8,Sim,5.0
+CH00760,Ester Cirino,Logística,2026-04-26 05:16:51,2026-04-26 11:28:51,Acessos,Permissão de pasta em rede,WhatsApp,Alta,Reaberto,Ana Silva,6.2,Não,5.0
+CH00761,Ana Sousa,Logística,2026-04-28 20:23:53,2026-04-30 09:53:53,Hardware,Impressora travada,E-mail,Média,Resolvido,Carlos Souza,37.5,Não,3.0
+CH00762,Rael Pastor,Operações,2026-05-16 12:25:29,2026-05-16 18:07:29,Acessos,Permissão de pasta em rede,E-mail,Média,Fechado,Ana Silva,5.7,Sim,4.0
+CH00763,Alana Santos,Comercial,2026-04-28 14:22:57,2026-04-30 12:58:57,Software/ERP,Acesso negado no sistema,WhatsApp,Média,Resolvido,Ana Silva,46.6,Não,4.0
+CH00764,João Lucas Sá,Comercial,2026-04-07 17:57:47,2026-04-08 11:51:47,Redes,Lentidão na VPN,Telefone,Baixa,Resolvido,Ana Silva,17.9,Sim,4.0
+CH00765,Bella Nascimento,Financeiro,2026-03-23 23:14:09,2026-03-24 19:20:09,Hardware,Computador não liga,Portal de TI,Crítica,Resolvido,Ana Silva,20.1,Não,5.0
+CH00766,Dr. Gael Henrique Marques,Comercial,2026-04-05 01:05:59,2026-04-05 16:05:59,Redes,Lentidão na VPN,WhatsApp,Baixa,Fechado,Daniela Lima,15.0,Sim,5.0
+CH00767,Samuel Moura,Logística,2026-03-28 22:59:10,2026-03-29 23:59:10,Redes,Lentidão na VPN,WhatsApp,Média,Resolvido,Carlos Souza,25.0,Não,5.0
+CH00768,Maria Julia Pimenta,Financeiro,2026-04-17 07:44:11,2026-04-18 11:26:11,Redes,Lentidão na VPN,Portal de TI,Baixa,Resolvido,Daniela Lima,27.7,Não,4.0
+CH00769,Bruna Ferreira,Financeiro,2026-04-25 00:08:44,2026-04-25 16:44:44,Software/ERP,Acesso negado no sistema,Telefone,Média,Resolvido,Ana Silva,16.6,Sim,4.0
+CH00770,Emanuella Rocha,Operações,2026-04-21 01:38:10,2026-04-21 15:44:10,Acessos,Reset de senha AD,WhatsApp,Média,Fechado,Ana Silva,14.1,Sim,5.0
+CH00771,Antonella Rocha,Comercial,2026-04-15 18:32:55,2026-04-16 21:56:55,Acessos,Reset de senha AD,WhatsApp,Baixa,Resolvido,Carlos Souza,27.4,Não,5.0
+CH00772,Sr. Isaque das Neves,Comercial,2026-03-30 21:34:22,2026-04-01 05:34:22,Acessos,Permissão de pasta em rede,Telefone,Baixa,Resolvido,Bruno Costa,32.0,Não,5.0
+CH00773,Marcelo Sales,Logística,2026-03-29 05:57:45,2026-03-30 06:57:45,Acessos,Reset de senha AD,Portal de TI,Média,Fechado,Daniela Lima,25.0,Não,5.0
+CH00774,Maria Julia Leão,Financeiro,2026-03-31 14:50:28,2026-03-31 18:08:28,Acessos,Reset de senha AD,E-mail,Média,Fechado,Carlos Souza,3.3,Sim,5.0
+CH00775,Matheus Lima,Comercial,2026-05-14 19:13:29,2026-05-16 12:37:29,Hardware,Impressora travada,Portal de TI,Média,Fechado,Bruno Costa,41.4,Não,3.0
+CH00776,Zoe Sales,Financeiro,2026-04-04 22:17:21,2026-04-05 18:05:21,Hardware,Computador não liga,Portal de TI,Média,Resolvido,Daniela Lima,19.8,Sim,5.0
+CH00777,Eloah Mendonça,Comercial,2026-04-03 17:07:05,2026-04-04 13:37:05,Hardware,Computador não liga,E-mail,Crítica,Resolvido,Ana Silva,20.5,Não,3.0
+CH00778,Francisco Dias,Logística,2026-04-14 22:29:08,2026-04-16 06:17:08,Redes,Lentidão na VPN,WhatsApp,Alta,Resolvido,Ana Silva,31.8,Não,5.0
+CH00779,Ana Júlia Fogaça,RH,2026-04-30 16:21:37,2026-05-01 21:27:37,Acessos,Permissão de pasta em rede,Telefone,Baixa,Fechado,Bruno Costa,29.1,Não,3.0
+CH00780,Catarina Correia,RH,2026-03-18 19:46:58,2026-03-19 20:04:58,Software/ERP,Acesso negado no sistema,E-mail,Média,Resolvido,Ana Silva,24.3,Não,5.0
+CH00781,Sofia Rezende,Financeiro,2026-04-24 04:06:24,2026-04-25 20:06:24,Hardware,Impressora travada,E-mail,Baixa,Fechado,Ana Silva,40.0,Não,4.0
+CH00782,Rebeca Leão,Operações,2026-05-04 22:48:55,2026-05-05 20:12:55,Redes,Cabo de rede desconectado,Portal de TI,Crítica,Resolvido,Ana Silva,21.4,Não,5.0
+CH00783,Eloah Barros,Logística,2026-04-29 23:42:05,2026-05-01 08:36:05,Hardware,Impressora travada,Portal de TI,Média,Resolvido,Carlos Souza,32.9,Não,2.0
+CH00784,Henry da Rocha,RH,2026-05-11 18:55:27,,Redes,Lentidão na VPN,E-mail,Crítica,Em andamento,Carlos Souza,,Pendente,
+CH00785,Henry Gabriel Nascimento,Financeiro,2026-03-21 01:38:13,2026-03-22 23:38:13,Redes,Lentidão na VPN,Telefone,Baixa,Resolvido,Daniela Lima,46.0,Não,5.0
+CH00786,Raul Nunes,RH,2026-04-14 22:06:09,,Software/ERP,Acesso negado no sistema,E-mail,Crítica,Em andamento,Carlos Souza,,Pendente,
+CH00787,Sophia Camargo,Comercial,2026-05-04 23:36:56,2026-05-06 19:36:56,Acessos,Reset de senha AD,WhatsApp,Alta,Resolvido,Daniela Lima,44.0,Não,4.0
+CH00788,João Felipe Vasconcelos,Comercial,2026-05-12 11:58:20,2026-05-14 04:28:20,Redes,Wi-Fi instável,WhatsApp,Média,Resolvido,Carlos Souza,40.5,Não,4.0
+CH00789,Sr. Pedro Lucas Nogueira,Financeiro,2026-05-09 14:58:51,2026-05-10 17:28:51,Redes,Wi-Fi instável,Telefone,Média,Resolvido,Bruno Costa,26.5,Não,5.0
+CH00790,Bella Sousa,Operações,2026-04-08 02:41:29,,Software/ERP,Acesso negado no sistema,WhatsApp,Baixa,Em andamento,Ana Silva,,Pendente,
+CH00791,Arthur Gabriel Machado,Logística,2026-04-10 22:14:32,2026-04-12 20:50:32,Hardware,Teclado com defeito,Portal de TI,Média,Resolvido,Daniela Lima,46.6,Não,4.0
+CH00792,Sr. Pedro Lucas Campos,Financeiro,2026-04-12 09:51:20,2026-04-12 22:45:20,Software/ERP,Acesso negado no sistema,WhatsApp,Média,Resolvido,Daniela Lima,12.9,Sim,4.0
+CH00793,Luiz Fernando Santos,RH,2026-04-09 21:34:34,2026-04-10 15:58:34,Hardware,Computador não liga,E-mail,Baixa,Resolvido,Ana Silva,18.4,Sim,4.0
+CH00794,Mariane Cavalcante,Logística,2026-05-16 03:27:54,2026-05-17 13:15:54,Acessos,Criar novo usuário,Portal de TI,Baixa,Reaberto,Bruno Costa,33.8,Não,5.0
+CH00795,Gustavo Costela,Operações,2026-05-16 17:11:17,,Redes,Wi-Fi instável,Telefone,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00796,Marcela Nascimento,Logística,2026-03-23 15:45:56,2026-03-24 02:57:56,Software/ERP,Acesso negado no sistema,Telefone,Média,Fechado,Bruno Costa,11.2,Sim,5.0
+CH00797,Zoe Cavalcante,Financeiro,2026-04-14 04:25:39,2026-04-14 15:07:39,Hardware,Impressora travada,Telefone,Baixa,Resolvido,Bruno Costa,10.7,Sim,4.0
+CH00798,Sra. Lavínia Oliveira,Logística,2026-04-18 07:37:10,,Hardware,Teclado com defeito,E-mail,Crítica,Em andamento,Carlos Souza,,Pendente,
+CH00799,Aylla Carvalho,Logística,2026-04-12 20:24:23,2026-04-13 01:00:23,Software/ERP,Instalação de software,E-mail,Média,Resolvido,Daniela Lima,4.6,Sim,5.0
+CH00800,João Guilherme Rezende,Comercial,2026-04-26 20:32:26,2026-04-27 09:14:26,Redes,Wi-Fi instável,E-mail,Média,Fechado,Daniela Lima,12.7,Sim,5.0
+CH00801,Srta. Isadora Casa Grande,Comercial,2026-03-30 05:07:22,2026-04-01 02:13:22,Redes,Wi-Fi instável,Telefone,Crítica,Fechado,Carlos Souza,45.1,Não,2.0
+CH00802,Matteo Mendonça,Financeiro,2026-04-18 03:59:30,2026-04-18 10:47:30,Redes,Lentidão na VPN,Portal de TI,Média,Reaberto,Bruno Costa,6.8,Sim,3.0
+CH00803,Juliana Pires,Operações,2026-03-31 16:44:09,2026-04-02 10:56:09,Software/ERP,Instalação de software,Telefone,Alta,Resolvido,Bruno Costa,42.2,Não,5.0
+CH00804,Milena Barbosa,Comercial,2026-04-27 02:39:58,2026-04-29 01:39:58,Software/ERP,Instalação de software,Telefone,Baixa,Resolvido,Carlos Souza,47.0,Não,5.0
+CH00805,Sophie Souza,Financeiro,2026-03-26 22:22:42,2026-03-28 14:16:42,Software/ERP,Acesso negado no sistema,Portal de TI,Baixa,Fechado,Daniela Lima,39.9,Não,3.0
+CH00806,Sra. Mirella Mendonça,Financeiro,2026-04-13 21:45:53,2026-04-15 14:45:53,Acessos,Reset de senha AD,E-mail,Baixa,Fechado,Ana Silva,41.0,Não,4.0
+CH00807,Agatha Vasconcelos,Logística,2026-04-18 16:05:28,2026-04-19 04:59:28,Acessos,Reset de senha AD,WhatsApp,Baixa,Resolvido,Daniela Lima,12.9,Sim,4.0
+CH00808,Sra. Maria Alice Azevedo,Comercial,2026-03-26 22:29:15,2026-03-27 21:59:15,Hardware,Computador não liga,WhatsApp,Média,Resolvido,Bruno Costa,23.5,Sim,5.0
+CH00809,Helena Lima,Operações,2026-05-08 18:45:04,2026-05-09 03:15:04,Software/ERP,Instalação de software,E-mail,Baixa,Fechado,Ana Silva,8.5,Sim,5.0
+CH00810,Juliana Duarte,RH,2026-04-07 11:06:05,2026-04-08 07:24:05,Acessos,Criar novo usuário,Portal de TI,Média,Resolvido,Ana Silva,20.3,Sim,5.0
+CH00811,Sr. Ryan Viana,Financeiro,2026-04-14 10:16:18,2026-04-14 16:34:18,Redes,Cabo de rede desconectado,WhatsApp,Crítica,Resolvido,Ana Silva,6.3,Não,5.0
+CH00812,Ana Julia Aparecida,RH,2026-04-20 06:25:23,2026-04-21 05:43:23,Software/ERP,Instalação de software,Portal de TI,Média,Resolvido,Ana Silva,23.3,Sim,4.0
+CH00813,Natália Almeida,RH,2026-03-27 13:28:40,2026-03-28 05:22:40,Hardware,Computador não liga,Portal de TI,Crítica,Resolvido,Carlos Souza,15.9,Não,4.0
+CH00814,Pedro Lucas Marques,Comercial,2026-03-29 22:56:43,2026-03-31 01:26:43,Redes,Cabo de rede desconectado,E-mail,Média,Fechado,Bruno Costa,26.5,Não,4.0
+CH00815,Gabriela Sales,Logística,2026-03-17 23:01:37,2026-03-18 03:43:37,Hardware,Impressora travada,Portal de TI,Alta,Reaberto,Bruno Costa,4.7,Não,3.0
+CH00816,Liz Castro,Comercial,2026-03-30 16:49:54,,Acessos,Criar novo usuário,E-mail,Média,Em andamento,Carlos Souza,,Pendente,
+CH00817,Luiz Miguel da Cunha,Comercial,2026-04-13 11:57:48,2026-04-14 12:51:48,Acessos,Permissão de pasta em rede,Telefone,Alta,Resolvido,Ana Silva,24.9,Não,5.0
+CH00818,Sr. Benjamim Gonçalves,RH,2026-03-25 21:30:20,2026-03-27 03:12:20,Acessos,Reset de senha AD,Portal de TI,Alta,Fechado,Daniela Lima,29.7,Não,5.0
+CH00819,Dra. Isabel Lima,Logística,2026-04-16 13:20:24,2026-04-17 23:44:24,Redes,Cabo de rede desconectado,Telefone,Média,Resolvido,Ana Silva,34.4,Não,2.0
+CH00820,Srta. Agatha Cunha,Operações,2026-03-26 17:57:41,2026-03-27 01:33:41,Software/ERP,Erro ao emitir nota,Telefone,Média,Fechado,Carlos Souza,7.6,Sim,5.0
+CH00821,Davi Lucca Pastor,RH,2026-05-03 04:29:31,2026-05-05 00:35:31,Acessos,Permissão de pasta em rede,Telefone,Média,Resolvido,Carlos Souza,44.1,Não,5.0
+CH00822,Melina Albuquerque,Financeiro,2026-04-08 20:30:53,2026-04-10 09:30:53,Acessos,Reset de senha AD,Telefone,Média,Resolvido,Ana Silva,37.0,Não,5.0
+CH00823,Sra. Bárbara Lima,Operações,2026-03-18 16:14:20,,Software/ERP,Acesso negado no sistema,Telefone,Alta,Em andamento,Daniela Lima,,Pendente,
+CH00824,Ana Sophia da Conceição,Financeiro,2026-03-30 17:26:32,2026-04-01 15:50:32,Hardware,Computador não liga,WhatsApp,Baixa,Resolvido,Carlos Souza,46.4,Não,3.0
+CH00825,Cauã Caldeira,Financeiro,2026-04-24 02:04:10,2026-04-25 03:58:10,Redes,Wi-Fi instável,Telefone,Baixa,Fechado,Daniela Lima,25.9,Não,5.0
+CH00826,Dr. Davi Miguel Garcia,Operações,2026-04-17 07:36:49,2026-04-19 06:00:49,Acessos,Permissão de pasta em rede,Portal de TI,Alta,Resolvido,Daniela Lima,46.4,Não,4.0
+CH00827,Cecília Azevedo,Financeiro,2026-03-30 19:42:18,2026-03-31 02:36:18,Redes,Lentidão na VPN,WhatsApp,Baixa,Fechado,Bruno Costa,6.9,Sim,5.0
+CH00828,Alexia Pimenta,Comercial,2026-05-08 09:37:32,2026-05-08 21:37:32,Hardware,Computador não liga,Telefone,Baixa,Resolvido,Bruno Costa,12.0,Sim,4.0
+CH00829,Marcela Silveira,Logística,2026-04-02 19:52:16,2026-04-03 04:16:16,Acessos,Permissão de pasta em rede,WhatsApp,Baixa,Resolvido,Daniela Lima,8.4,Sim,5.0
+CH00830,Clarice Jesus,RH,2026-04-07 13:54:25,2026-04-08 17:24:25,Redes,Cabo de rede desconectado,WhatsApp,Baixa,Resolvido,Daniela Lima,27.5,Não,4.0
+CH00831,Melina Cunha,Logística,2026-05-16 17:00:47,2026-05-18 04:30:47,Software/ERP,Erro ao emitir nota,Telefone,Alta,Reaberto,Daniela Lima,35.5,Não,5.0
+CH00832,Davi Miguel Sá,RH,2026-03-26 07:26:58,2026-03-28 04:20:58,Acessos,Reset de senha AD,WhatsApp,Média,Resolvido,Daniela Lima,44.9,Não,3.0
+CH00833,Maria Isis Ferreira,Logística,2026-03-29 20:25:44,2026-03-30 09:37:44,Acessos,Reset de senha AD,Portal de TI,Média,Resolvido,Daniela Lima,13.2,Sim,4.0
+CH00834,Sr. Josué da Mota,Financeiro,2026-04-28 14:00:00,2026-04-29 04:12:00,Software/ERP,Acesso negado no sistema,E-mail,Baixa,Resolvido,Carlos Souza,14.2,Sim,5.0
+CH00835,Yuri Peixoto,Logística,2026-03-26 01:45:56,2026-03-27 12:15:56,Software/ERP,Instalação de software,Telefone,Alta,Fechado,Carlos Souza,34.5,Não,5.0
+CH00836,Dra. Larissa Vasconcelos,RH,2026-05-15 03:34:17,2026-05-16 20:10:17,Software/ERP,Instalação de software,Telefone,Média,Fechado,Bruno Costa,40.6,Não,4.0
+CH00837,Liz Costela,Financeiro,2026-03-20 11:57:26,2026-03-21 11:51:26,Acessos,Permissão de pasta em rede,E-mail,Baixa,Resolvido,Ana Silva,23.9,Sim,4.0
+CH00838,Sophia Correia,RH,2026-05-07 03:53:41,2026-05-07 16:47:41,Hardware,Teclado com defeito,WhatsApp,Baixa,Reaberto,Carlos Souza,12.9,Sim,4.0
+CH00839,Benjamim Viana,Comercial,2026-04-24 22:17:52,2026-04-25 04:29:52,Software/ERP,Acesso negado no sistema,WhatsApp,Média,Resolvido,Carlos Souza,6.2,Sim,5.0
+CH00840,Maria Isis Camargo,RH,2026-04-10 03:09:25,2026-04-11 21:09:25,Redes,Lentidão na VPN,Telefone,Alta,Fechado,Daniela Lima,42.0,Não,4.0
+CH00841,Ana Sophia Moura,RH,2026-04-10 07:12:47,2026-04-12 06:00:47,Redes,Lentidão na VPN,WhatsApp,Média,Reaberto,Bruno Costa,46.8,Não,4.0
+CH00842,Dr. Davi Lucca Gomes,Logística,2026-03-19 01:34:12,2026-03-20 21:22:12,Software/ERP,Instalação de software,Telefone,Alta,Resolvido,Ana Silva,43.8,Não,5.0
+CH00843,Maria Clara Nogueira,Logística,2026-05-12 01:52:27,2026-05-13 17:16:27,Hardware,Impressora travada,WhatsApp,Baixa,Resolvido,Bruno Costa,39.4,Não,5.0
+CH00844,Ana Sophia Almeida,Logística,2026-04-03 16:02:09,2026-04-04 06:08:09,Software/ERP,Acesso negado no sistema,Portal de TI,Média,Fechado,Bruno Costa,14.1,Sim,5.0
+CH00845,Anthony Gabriel da Luz,Logística,2026-05-13 22:06:29,2026-05-14 18:36:29,Acessos,Permissão de pasta em rede,Telefone,Média,Resolvido,Carlos Souza,20.5,Sim,5.0
+CH00846,Bento Vieira,Comercial,2026-04-07 20:10:09,2026-04-09 09:16:09,Redes,Wi-Fi instável,Portal de TI,Média,Fechado,Daniela Lima,37.1,Não,4.0
+CH00847,Laura Pires,RH,2026-04-25 12:48:03,2026-04-25 16:12:03,Hardware,Teclado com defeito,Portal de TI,Baixa,Reaberto,Daniela Lima,3.4,Sim,4.0
+CH00848,Mariana Sampaio,RH,2026-05-05 12:58:50,2026-05-06 15:46:50,Software/ERP,Acesso negado no sistema,Portal de TI,Média,Resolvido,Bruno Costa,26.8,Não,5.0
+CH00849,Vitor Gabriel Nascimento,Comercial,2026-04-25 22:49:34,2026-04-26 09:01:34,Acessos,Criar novo usuário,Telefone,Média,Fechado,Bruno Costa,10.2,Sim,5.0
+CH00850,João Lucas Barros,Operações,2026-05-16 16:56:44,2026-05-17 18:56:44,Hardware,Teclado com defeito,Portal de TI,Baixa,Fechado,Bruno Costa,26.0,Não,5.0
+CH00851,Thomas Costela,Financeiro,2026-04-16 23:35:14,,Software/ERP,Instalação de software,WhatsApp,Média,Em andamento,Ana Silva,,Pendente,
+CH00852,Lunna Gonçalves,Logística,2026-04-01 23:30:24,2026-04-02 12:18:24,Software/ERP,Instalação de software,WhatsApp,Média,Fechado,Ana Silva,12.8,Sim,4.0
+CH00853,Ana Luiza das Neves,Comercial,2026-05-13 19:56:58,2026-05-14 20:32:58,Redes,Cabo de rede desconectado,WhatsApp,Baixa,Fechado,Daniela Lima,24.6,Não,5.0
+CH00854,Srta. Ana Laura da Cruz,Comercial,2026-04-29 08:52:05,2026-04-30 20:46:05,Hardware,Impressora travada,Portal de TI,Baixa,Resolvido,Bruno Costa,35.9,Não,5.0
+CH00855,Bruna Marques,Logística,2026-03-26 06:20:32,2026-03-26 18:38:32,Hardware,Impressora travada,WhatsApp,Média,Fechado,Bruno Costa,12.3,Sim,5.0
+CH00856,Ana Laura das Neves,Financeiro,2026-05-16 08:12:24,2026-05-16 12:36:24,Hardware,Impressora travada,Telefone,Alta,Fechado,Ana Silva,4.4,Não,5.0
+CH00857,Anthony Gabriel Santos,Operações,2026-04-03 22:44:11,2026-04-05 03:08:11,Acessos,Permissão de pasta em rede,Telefone,Média,Resolvido,Daniela Lima,28.4,Não,5.0
+CH00858,Srta. Elisa Monteiro,Financeiro,2026-03-31 05:10:42,2026-04-02 02:40:42,Acessos,Reset de senha AD,E-mail,Média,Reaberto,Daniela Lima,45.5,Não,4.0
+CH00859,Stella Viana,Financeiro,2026-04-20 13:20:00,2026-04-21 23:20:00,Redes,Lentidão na VPN,Telefone,Baixa,Fechado,Daniela Lima,34.0,Não,3.0
+CH00860,Marcelo Cardoso,Operações,2026-04-12 01:32:28,,Software/ERP,Erro ao emitir nota,Telefone,Baixa,Em andamento,Ana Silva,,Pendente,
+CH00861,Srta. Ana Farias,Financeiro,2026-04-12 23:43:06,,Redes,Lentidão na VPN,WhatsApp,Média,Em andamento,Carlos Souza,,Pendente,
+CH00862,Vinicius Azevedo,Operações,2026-04-28 13:51:02,2026-04-29 04:21:02,Hardware,Computador não liga,Telefone,Baixa,Resolvido,Ana Silva,14.5,Sim,5.0
+CH00863,Dra. Ana Vitória Monteiro,RH,2026-04-12 10:10:08,2026-04-13 00:10:08,Acessos,Reset de senha AD,Portal de TI,Baixa,Fechado,Ana Silva,14.0,Sim,5.0
+CH00864,Maria Cecília Araújo,Logística,2026-05-01 02:08:22,2026-05-02 05:50:22,Software/ERP,Acesso negado no sistema,E-mail,Média,Fechado,Bruno Costa,27.7,Não,5.0
+CH00865,Eloah Freitas,Operações,2026-05-05 09:37:39,2026-05-06 07:31:39,Software/ERP,Erro ao emitir nota,Telefone,Média,Resolvido,Daniela Lima,21.9,Sim,5.0
+CH00866,Cauã Oliveira,Comercial,2026-04-02 04:00:38,2026-04-03 06:12:38,Acessos,Criar novo usuário,WhatsApp,Baixa,Resolvido,Bruno Costa,26.2,Não,2.0
+CH00867,Thomas Abreu,Operações,2026-03-29 02:11:55,2026-03-30 16:29:55,Redes,Lentidão na VPN,WhatsApp,Média,Fechado,Bruno Costa,38.3,Não,4.0
+CH00868,Joaquim Aparecida,Operações,2026-03-22 04:04:03,2026-03-23 16:34:03,Hardware,Impressora travada,WhatsApp,Média,Reaberto,Ana Silva,36.5,Não,2.0
+CH00869,Dr. Dom Cavalcanti,Operações,2026-05-02 16:44:35,2026-05-04 14:56:35,Hardware,Computador não liga,Telefone,Média,Resolvido,Ana Silva,46.2,Não,5.0
+CH00870,Mariah Câmara,Logística,2026-03-21 07:51:18,2026-03-22 03:27:18,Redes,Cabo de rede desconectado,E-mail,Média,Fechado,Daniela Lima,19.6,Sim,5.0
+CH00871,Oliver Silveira,RH,2026-04-18 03:18:17,,Acessos,Permissão de pasta em rede,WhatsApp,Média,Em andamento,Ana Silva,,Pendente,
+CH00872,Breno Oliveira,Logística,2026-04-17 22:57:17,2026-04-18 08:09:17,Hardware,Impressora travada,E-mail,Baixa,Resolvido,Ana Silva,9.2,Sim,4.0
+CH00873,Theodoro Rocha,Comercial,2026-04-23 02:09:28,2026-04-23 03:57:28,Acessos,Reset de senha AD,E-mail,Baixa,Resolvido,Daniela Lima,1.8,Sim,5.0
+CH00874,Henry Gabriel Moreira,Financeiro,2026-03-23 00:11:13,2026-03-24 21:23:13,Redes,Wi-Fi instável,E-mail,Baixa,Fechado,Daniela Lima,45.2,Não,3.0
+CH00875,Ana Lívia Martins,Operações,2026-03-22 08:28:23,2026-03-24 06:04:23,Software/ERP,Acesso negado no sistema,Telefone,Média,Resolvido,Ana Silva,45.6,Não,5.0
+CH00876,Luan Borges,Operações,2026-04-14 07:16:28,2026-04-14 18:52:28,Software/ERP,Instalação de software,WhatsApp,Média,Resolvido,Bruno Costa,11.6,Sim,3.0
+CH00877,Alexia Freitas,Operações,2026-05-10 14:14:53,2026-05-10 20:44:53,Acessos,Reset de senha AD,E-mail,Média,Fechado,Bruno Costa,6.5,Sim,5.0
+CH00878,Kevin Sousa,Logística,2026-04-06 09:02:58,2026-04-07 22:38:58,Acessos,Criar novo usuário,WhatsApp,Crítica,Resolvido,Ana Silva,37.6,Não,5.0
+CH00879,Maria Eduarda Pastor,RH,2026-04-10 10:42:49,2026-04-11 16:42:49,Hardware,Computador não liga,Telefone,Crítica,Fechado,Carlos Souza,30.0,Não,4.0
+CH00880,Yago Teixeira,Operações,2026-05-04 19:03:56,2026-05-05 13:39:56,Hardware,Teclado com defeito,Portal de TI,Alta,Resolvido,Ana Silva,18.6,Não,5.0
+CH00881,André Jesus,Operações,2026-04-10 16:38:20,2026-04-10 20:26:20,Redes,Wi-Fi instável,Portal de TI,Média,Resolvido,Daniela Lima,3.8,Sim,5.0
+CH00882,Vitor Hugo Ferreira,Comercial,2026-03-20 05:10:00,2026-03-21 19:46:00,Software/ERP,Instalação de software,Telefone,Média,Resolvido,Carlos Souza,38.6,Não,3.0
+CH00883,Sr. Marcos Vinicius Sousa,Financeiro,2026-03-18 19:48:34,2026-03-19 12:30:34,Software/ERP,Erro ao emitir nota,WhatsApp,Crítica,Resolvido,Daniela Lima,16.7,Não,5.0
+CH00884,Gustavo Moura,Operações,2026-04-16 18:00:13,,Hardware,Impressora travada,Telefone,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00885,Rebeca Araújo,Logística,2026-04-10 00:25:21,2026-04-11 07:43:21,Redes,Lentidão na VPN,WhatsApp,Média,Resolvido,Carlos Souza,31.3,Não,5.0
+CH00886,Sra. Ayla Aparecida,Logística,2026-03-31 17:12:22,2026-04-01 22:18:22,Redes,Wi-Fi instável,Portal de TI,Baixa,Reaberto,Bruno Costa,29.1,Não,5.0
+CH00887,Maria Sophia Sampaio,RH,2026-04-09 08:49:19,2026-04-09 10:13:19,Software/ERP,Erro ao emitir nota,Portal de TI,Baixa,Resolvido,Bruno Costa,1.4,Sim,5.0
+CH00888,Antonella Pacheco,Financeiro,2026-04-23 01:25:16,2026-04-23 19:07:16,Hardware,Computador não liga,Telefone,Média,Resolvido,Ana Silva,17.7,Sim,5.0
+CH00889,Catarina Porto,Operações,2026-03-27 04:09:45,2026-03-28 04:09:45,Hardware,Computador não liga,E-mail,Média,Fechado,Ana Silva,24.0,Sim,5.0
+CH00890,Bento Lopes,Comercial,2026-04-25 04:21:25,,Hardware,Teclado com defeito,E-mail,Alta,Em andamento,Ana Silva,,Pendente,
+CH00891,João Vitor da Luz,Logística,2026-03-30 14:01:27,2026-03-31 15:49:27,Acessos,Reset de senha AD,WhatsApp,Média,Reaberto,Carlos Souza,25.8,Não,5.0
+CH00892,Lunna Dias,Comercial,2026-04-17 11:28:33,2026-04-18 00:58:33,Acessos,Permissão de pasta em rede,WhatsApp,Crítica,Resolvido,Bruno Costa,13.5,Não,4.0
+CH00893,Igor Barbosa,RH,2026-04-30 20:27:15,,Acessos,Permissão de pasta em rede,Telefone,Alta,Em andamento,Bruno Costa,,Pendente,
+CH00894,Cauê Cassiano,Logística,2026-04-06 13:48:23,2026-04-08 04:42:23,Hardware,Teclado com defeito,WhatsApp,Alta,Resolvido,Bruno Costa,38.9,Não,1.0
+CH00895,Rael Martins,Logística,2026-03-28 03:39:08,2026-03-28 07:09:08,Redes,Cabo de rede desconectado,WhatsApp,Baixa,Resolvido,Carlos Souza,3.5,Sim,4.0
+CH00896,Bárbara Nascimento,Operações,2026-04-17 09:12:09,2026-04-18 08:12:09,Redes,Cabo de rede desconectado,E-mail,Baixa,Fechado,Ana Silva,23.0,Sim,2.0
+CH00897,Rael das Neves,RH,2026-04-21 16:19:19,2026-04-23 05:07:19,Redes,Wi-Fi instável,WhatsApp,Média,Fechado,Daniela Lima,36.8,Não,4.0
+CH00898,Dante Borges,Comercial,2026-05-01 21:07:39,2026-05-02 00:43:39,Acessos,Reset de senha AD,Telefone,Alta,Resolvido,Ana Silva,3.6,Sim,5.0
+CH00899,Liz Santos,Logística,2026-04-02 04:43:20,,Redes,Cabo de rede desconectado,Telefone,Baixa,Em andamento,Ana Silva,,Pendente,
+CH00900,Henrique Duarte,Logística,2026-05-15 11:14:55,2026-05-17 04:50:55,Redes,Cabo de rede desconectado,Telefone,Média,Resolvido,Daniela Lima,41.6,Não,4.0
+CH00901,Josué Fogaça,Operações,2026-04-01 07:04:17,2026-04-01 23:40:17,Redes,Cabo de rede desconectado,Portal de TI,Média,Fechado,Bruno Costa,16.6,Sim,2.0
+CH00902,Ana Julia Rocha,Financeiro,2026-04-25 08:46:06,,Redes,Lentidão na VPN,E-mail,Baixa,Em andamento,Carlos Souza,,Pendente,
+CH00903,Erick Alves,RH,2026-04-15 21:48:04,2026-04-17 03:48:04,Hardware,Computador não liga,E-mail,Média,Resolvido,Carlos Souza,30.0,Não,5.0
+CH00904,Isadora Brito,Logística,2026-04-26 03:45:14,2026-04-27 11:15:14,Hardware,Computador não liga,Portal de TI,Média,Resolvido,Carlos Souza,31.5,Não,5.0
+CH00905,Davi Miguel Campos,Financeiro,2026-05-01 18:05:26,2026-05-02 19:11:26,Hardware,Computador não liga,WhatsApp,Crítica,Resolvido,Daniela Lima,25.1,Não,4.0
+CH00906,Henry Cardoso,Financeiro,2026-03-19 01:18:48,2026-03-20 08:12:48,Redes,Cabo de rede desconectado,Telefone,Crítica,Resolvido,Daniela Lima,30.9,Não,5.0
+CH00907,Maria Fernanda Rodrigues,Comercial,2026-04-06 03:08:07,2026-04-07 07:08:07,Software/ERP,Acesso negado no sistema,E-mail,Baixa,Resolvido,Ana Silva,28.0,Não,2.0
+CH00908,Joana Barbosa,Financeiro,2026-03-26 01:16:40,2026-03-26 03:46:40,Redes,Lentidão na VPN,E-mail,Média,Resolvido,Daniela Lima,2.5,Sim,5.0
+CH00909,Gael Henrique Ramos,Logística,2026-03-20 00:15:00,2026-03-21 11:39:00,Software/ERP,Instalação de software,E-mail,Baixa,Resolvido,Daniela Lima,35.4,Não,2.0
+CH00910,Caleb Farias,RH,2026-04-29 22:43:18,2026-04-30 16:25:18,Redes,Lentidão na VPN,E-mail,Crítica,Resolvido,Carlos Souza,17.7,Não,5.0
+CH00911,Ravi Aragão,Financeiro,2026-03-29 18:57:43,2026-03-31 14:51:43,Redes,Wi-Fi instável,Portal de TI,Média,Resolvido,Bruno Costa,43.9,Não,5.0
+CH00912,Marina Silveira,Financeiro,2026-04-03 04:53:42,2026-04-03 13:41:42,Hardware,Computador não liga,WhatsApp,Baixa,Resolvido,Bruno Costa,8.8,Sim,4.0
+CH00913,Ana Garcia,RH,2026-04-25 05:51:56,2026-04-25 07:21:56,Acessos,Criar novo usuário,Portal de TI,Alta,Fechado,Bruno Costa,1.5,Sim,4.0
+CH00914,Luiz Gustavo Cunha,RH,2026-04-28 07:39:04,2026-04-29 22:39:04,Acessos,Criar novo usuário,WhatsApp,Baixa,Resolvido,Bruno Costa,39.0,Não,4.0
+CH00915,João Lucas Machado,Operações,2026-04-05 01:32:44,2026-04-05 11:02:44,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Fechado,Bruno Costa,9.5,Sim,5.0
+CH00916,Joaquim Ramos,Comercial,2026-04-01 07:47:17,2026-04-02 12:11:17,Software/ERP,Erro ao emitir nota,E-mail,Média,Fechado,Ana Silva,28.4,Não,3.0
+CH00917,Maria Sophia Novaes,RH,2026-04-15 13:05:48,2026-04-15 19:35:48,Acessos,Reset de senha AD,Telefone,Baixa,Resolvido,Ana Silva,6.5,Sim,5.0
+CH00918,Caio da Mota,Operações,2026-05-03 09:40:29,2026-05-05 04:04:29,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Resolvido,Bruno Costa,42.4,Não,4.0
+CH00919,Otto Costa,Comercial,2026-04-24 01:56:32,2026-04-25 11:26:32,Acessos,Permissão de pasta em rede,Telefone,Baixa,Resolvido,Ana Silva,33.5,Não,4.0
+CH00920,Yago Vieira,Logística,2026-05-07 22:41:15,2026-05-08 20:41:15,Hardware,Impressora travada,Telefone,Alta,Resolvido,Bruno Costa,22.0,Não,5.0
+CH00921,Maria Alice Mendes,Logística,2026-03-19 18:57:36,2026-03-20 21:39:36,Redes,Cabo de rede desconectado,Portal de TI,Baixa,Fechado,Bruno Costa,26.7,Não,5.0
+CH00922,Manuella Nunes,Logística,2026-05-09 18:16:13,2026-05-11 00:16:13,Acessos,Permissão de pasta em rede,Portal de TI,Média,Resolvido,Daniela Lima,30.0,Não,5.0
+CH00923,Dr. João Gabriel Cirino,RH,2026-05-05 16:06:47,2026-05-06 01:06:47,Redes,Cabo de rede desconectado,Portal de TI,Baixa,Resolvido,Ana Silva,9.0,Sim,5.0
+CH00924,Sr. Arthur Vasconcelos,Financeiro,2026-03-20 10:10:59,2026-03-20 15:22:59,Redes,Lentidão na VPN,Portal de TI,Alta,Fechado,Bruno Costa,5.2,Não,5.0
+CH00925,Ravy Moura,Operações,2026-04-14 04:04:21,2026-04-15 15:58:21,Software/ERP,Erro ao emitir nota,E-mail,Baixa,Resolvido,Carlos Souza,35.9,Não,4.0
+CH00926,Isabel Castro,Logística,2026-04-21 14:19:51,,Software/ERP,Acesso negado no sistema,WhatsApp,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00927,Isaque da Mata,Financeiro,2026-03-27 14:46:54,2026-03-29 12:28:54,Hardware,Computador não liga,Telefone,Crítica,Resolvido,Bruno Costa,45.7,Não,3.0
+CH00928,Srta. Hellena Oliveira,RH,2026-05-08 17:02:19,2026-05-10 05:32:19,Acessos,Permissão de pasta em rede,Portal de TI,Média,Resolvido,Bruno Costa,36.5,Não,4.0
+CH00929,Sr. Felipe da Costa,Financeiro,2026-04-24 14:32:31,2026-04-25 10:50:31,Redes,Cabo de rede desconectado,E-mail,Alta,Resolvido,Carlos Souza,20.3,Não,5.0
+CH00930,Dr. Arthur Santos,Logística,2026-05-14 10:07:20,2026-05-16 01:07:20,Software/ERP,Erro ao emitir nota,Telefone,Baixa,Fechado,Daniela Lima,39.0,Não,4.0
+CH00931,Cecília Nunes,Financeiro,2026-04-21 00:55:50,2026-04-21 15:37:50,Redes,Wi-Fi instável,Portal de TI,Média,Fechado,Daniela Lima,14.7,Sim,5.0
+CH00932,Ágatha das Neves,RH,2026-04-05 04:04:05,2026-04-05 23:10:05,Hardware,Impressora travada,Portal de TI,Baixa,Reaberto,Daniela Lima,19.1,Sim,5.0
+CH00933,Ana Carolina Borges,Operações,2026-04-03 22:31:43,2026-04-04 07:07:43,Hardware,Computador não liga,Telefone,Baixa,Resolvido,Ana Silva,8.6,Sim,4.0
+CH00934,Henry Almeida,Operações,2026-03-23 08:19:58,2026-03-25 06:31:58,Hardware,Impressora travada,WhatsApp,Baixa,Resolvido,Daniela Lima,46.2,Não,5.0
+CH00935,Agatha Farias,Logística,2026-05-08 00:09:57,,Hardware,Impressora travada,Telefone,Média,Em andamento,Bruno Costa,,Pendente,
+CH00936,Davi Lucca Fernandes,Financeiro,2026-05-16 12:29:22,2026-05-17 08:53:22,Acessos,Reset de senha AD,E-mail,Baixa,Reaberto,Carlos Souza,20.4,Sim,4.0
+CH00937,Sr. Antônio Casa Grande,Financeiro,2026-04-04 02:57:48,2026-04-05 02:03:48,Software/ERP,Instalação de software,Telefone,Média,Resolvido,Carlos Souza,23.1,Sim,4.0
+CH00938,Srta. Brenda Moura,Comercial,2026-05-13 20:21:01,2026-05-14 18:03:01,Hardware,Teclado com defeito,Telefone,Crítica,Resolvido,Daniela Lima,21.7,Não,4.0
+CH00939,Marcelo Santos,Comercial,2026-04-22 07:42:24,2026-04-22 12:30:24,Acessos,Permissão de pasta em rede,Telefone,Baixa,Resolvido,Bruno Costa,4.8,Sim,4.0
+CH00940,Beatriz Fernandes,Financeiro,2026-04-25 07:15:23,2026-04-26 13:03:23,Acessos,Criar novo usuário,WhatsApp,Baixa,Resolvido,Daniela Lima,29.8,Não,5.0
+CH00941,Sr. Emanuel Siqueira,RH,2026-04-16 04:36:56,2026-04-17 23:12:56,Software/ERP,Instalação de software,E-mail,Baixa,Resolvido,Daniela Lima,42.6,Não,5.0
+CH00942,Raquel Rezende,Comercial,2026-04-29 07:25:44,2026-04-29 13:43:44,Redes,Lentidão na VPN,Telefone,Média,Resolvido,Daniela Lima,6.3,Sim,5.0
+CH00943,Luiz Henrique Câmara,Comercial,2026-04-17 16:46:33,2026-04-17 19:22:33,Acessos,Permissão de pasta em rede,Telefone,Baixa,Resolvido,Bruno Costa,2.6,Sim,5.0
+CH00944,Marcos Vinicius das Neves,Logística,2026-05-14 01:48:18,2026-05-14 07:42:18,Software/ERP,Instalação de software,Telefone,Baixa,Resolvido,Daniela Lima,5.9,Sim,3.0
+CH00945,Felipe Siqueira,Logística,2026-04-15 11:43:36,,Hardware,Teclado com defeito,E-mail,Média,Em andamento,Daniela Lima,,Pendente,
+CH00946,Dra. Maria Júlia Vargas,Comercial,2026-03-18 01:38:28,2026-03-18 10:14:28,Redes,Wi-Fi instável,WhatsApp,Alta,Fechado,Daniela Lima,8.6,Não,5.0
+CH00947,Fernando Pereira,Financeiro,2026-05-11 23:46:57,2026-05-12 00:46:57,Acessos,Permissão de pasta em rede,E-mail,Média,Resolvido,Ana Silva,1.0,Sim,5.0
+CH00948,Hellena Porto,Comercial,2026-04-17 18:57:03,2026-04-18 16:27:03,Redes,Cabo de rede desconectado,Telefone,Média,Fechado,Ana Silva,21.5,Sim,5.0
+CH00949,Theo Casa Grande,Financeiro,2026-05-11 19:16:46,2026-05-12 13:40:46,Hardware,Impressora travada,E-mail,Baixa,Resolvido,Ana Silva,18.4,Sim,5.0
+CH00950,Srta. Isabela Ferreira,Financeiro,2026-04-19 01:07:49,,Redes,Cabo de rede desconectado,WhatsApp,Baixa,Em andamento,Bruno Costa,,Pendente,
+CH00951,Caio Santos,Logística,2026-04-17 21:59:03,2026-04-19 14:11:03,Hardware,Computador não liga,WhatsApp,Baixa,Reaberto,Carlos Souza,40.2,Não,4.0
+CH00952,Alexia da Luz,RH,2026-04-19 11:48:17,2026-04-20 18:00:17,Acessos,Permissão de pasta em rede,E-mail,Média,Resolvido,Bruno Costa,30.2,Não,2.0
+CH00953,Bernardo Ferreira,Comercial,2026-04-07 06:03:06,,Redes,Cabo de rede desconectado,WhatsApp,Baixa,Em andamento,Daniela Lima,,Pendente,
+CH00954,Alexandre Aragão,RH,2026-04-11 19:30:29,2026-04-13 03:18:29,Software/ERP,Erro ao emitir nota,E-mail,Baixa,Resolvido,Daniela Lima,31.8,Não,5.0
+CH00955,Mariah Cavalcante,RH,2026-04-24 08:45:02,2026-04-26 07:57:02,Hardware,Impressora travada,Portal de TI,Média,Resolvido,Daniela Lima,47.2,Não,5.0
+CH00956,Maria Flor Ferreira,Logística,2026-04-27 02:11:11,2026-04-28 11:41:11,Software/ERP,Instalação de software,WhatsApp,Crítica,Resolvido,Carlos Souza,33.5,Não,5.0
+CH00957,Beatriz Mendes,Operações,2026-05-09 21:46:48,,Acessos,Permissão de pasta em rede,E-mail,Alta,Em andamento,Ana Silva,,Pendente,
+CH00958,Heloisa Castro,Operações,2026-05-13 00:25:07,2026-05-14 19:31:07,Acessos,Reset de senha AD,WhatsApp,Média,Resolvido,Ana Silva,43.1,Não,5.0
+CH00959,Arthur Gabriel da Rocha,Logística,2026-04-30 17:01:40,,Hardware,Computador não liga,E-mail,Média,Em andamento,Ana Silva,,Pendente,
+CH00960,Dr. Cauã Barbosa,Comercial,2026-03-19 20:14:13,2026-03-21 19:44:13,Software/ERP,Erro ao emitir nota,Portal de TI,Média,Resolvido,Ana Silva,47.5,Não,5.0
+CH00961,Marcos Vinicius Castro,Comercial,2026-04-20 01:55:22,2026-04-21 09:13:22,Redes,Wi-Fi instável,Portal de TI,Crítica,Resolvido,Bruno Costa,31.3,Não,5.0
+CH00962,Ayla Fernandes,Logística,2026-03-25 04:13:12,2026-03-27 00:19:12,Hardware,Teclado com defeito,Portal de TI,Baixa,Resolvido,Bruno Costa,44.1,Não,1.0
+CH00963,Rafaela Santos,Financeiro,2026-05-14 13:38:36,2026-05-16 07:26:36,Hardware,Computador não liga,E-mail,Baixa,Resolvido,Bruno Costa,41.8,Não,5.0
+CH00964,Eloah Pereira,Operações,2026-03-20 21:40:16,,Hardware,Computador não liga,WhatsApp,Média,Em andamento,Daniela Lima,,Pendente,
+CH00965,Benjamim Brito,Financeiro,2026-04-29 01:12:43,2026-04-30 12:00:43,Hardware,Teclado com defeito,Portal de TI,Baixa,Fechado,Carlos Souza,34.8,Não,5.0
+CH00966,Gabriel Jesus,Comercial,2026-04-19 00:57:29,2026-04-19 11:03:29,Acessos,Reset de senha AD,Telefone,Crítica,Resolvido,Daniela Lima,10.1,Não,3.0
+CH00967,Dra. Ágatha da Luz,RH,2026-05-10 16:37:38,2026-05-11 17:07:38,Hardware,Impressora travada,Telefone,Média,Resolvido,Daniela Lima,24.5,Não,4.0
+CH00968,Isaac Brito,Financeiro,2026-04-14 05:26:53,2026-04-16 01:44:53,Hardware,Teclado com defeito,Portal de TI,Média,Fechado,Daniela Lima,44.3,Não,5.0
+CH00969,Rebeca Cassiano,Financeiro,2026-03-22 17:06:39,2026-03-23 11:24:39,Redes,Cabo de rede desconectado,Telefone,Média,Resolvido,Bruno Costa,18.3,Sim,4.0
+CH00970,Sr. Paulo Borges,Logística,2026-03-23 04:27:26,2026-03-23 05:33:26,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Resolvido,Daniela Lima,1.1,Sim,5.0
+CH00971,Pietra Costa,RH,2026-04-15 11:48:06,2026-04-16 11:36:06,Redes,Cabo de rede desconectado,WhatsApp,Baixa,Reaberto,Daniela Lima,23.8,Sim,4.0
+CH00972,Gustavo Cavalcante,Logística,2026-03-27 07:26:52,2026-03-28 20:08:52,Software/ERP,Instalação de software,Portal de TI,Baixa,Fechado,Ana Silva,36.7,Não,2.0
+CH00973,Renan Camargo,RH,2026-04-15 05:25:18,2026-04-16 16:49:18,Redes,Cabo de rede desconectado,E-mail,Alta,Resolvido,Carlos Souza,35.4,Não,5.0
+CH00974,Olivia Mendonça,RH,2026-04-16 19:58:02,2026-04-17 03:28:02,Hardware,Computador não liga,WhatsApp,Alta,Resolvido,Daniela Lima,7.5,Não,5.0
+CH00975,Yago Gomes,Financeiro,2026-04-12 14:57:25,2026-04-14 10:15:25,Hardware,Impressora travada,Telefone,Média,Resolvido,Carlos Souza,43.3,Não,5.0
+CH00976,Dr. Léo Cirino,Logística,2026-04-04 20:15:23,2026-04-05 22:03:23,Software/ERP,Instalação de software,WhatsApp,Média,Resolvido,Ana Silva,25.8,Não,3.0
+CH00977,João Macedo,Logística,2026-04-30 04:11:01,2026-04-30 21:05:01,Hardware,Teclado com defeito,Portal de TI,Média,Resolvido,Ana Silva,16.9,Sim,5.0
+CH00978,Henry Gabriel da Mata,Logística,2026-05-02 01:06:55,2026-05-02 01:42:55,Acessos,Criar novo usuário,Portal de TI,Alta,Reaberto,Daniela Lima,0.6,Sim,5.0
+CH00979,Dom Sá,RH,2026-05-11 16:14:30,2026-05-13 02:08:30,Hardware,Teclado com defeito,Telefone,Baixa,Resolvido,Bruno Costa,33.9,Não,5.0
+CH00980,Luiz Felipe Nogueira,Logística,2026-03-27 06:47:07,2026-03-27 15:59:07,Software/ERP,Acesso negado no sistema,WhatsApp,Baixa,Resolvido,Bruno Costa,9.2,Sim,4.0
+CH00981,Heloísa Novaes,RH,2026-04-27 02:06:38,,Redes,Cabo de rede desconectado,Portal de TI,Baixa,Em andamento,Ana Silva,,Pendente,
+CH00982,Stephany Leão,RH,2026-03-23 19:33:15,2026-03-25 04:03:15,Redes,Cabo de rede desconectado,WhatsApp,Média,Resolvido,Ana Silva,32.5,Não,5.0
+CH00983,Olívia Oliveira,Logística,2026-05-08 21:17:27,2026-05-09 15:35:27,Software/ERP,Acesso negado no sistema,Portal de TI,Média,Resolvido,Daniela Lima,18.3,Sim,5.0
+CH00984,Letícia Barros,Logística,2026-04-09 18:32:15,2026-04-10 11:20:15,Hardware,Impressora travada,Telefone,Média,Resolvido,Ana Silva,16.8,Sim,5.0
+CH00985,Srta. Sarah Oliveira,Financeiro,2026-04-25 05:24:46,2026-04-26 20:12:46,Acessos,Criar novo usuário,WhatsApp,Alta,Reaberto,Ana Silva,38.8,Não,5.0
+CH00986,Clara Campos,Operações,2026-05-07 01:43:25,2026-05-08 11:25:25,Software/ERP,Acesso negado no sistema,Telefone,Baixa,Fechado,Daniela Lima,33.7,Não,4.0
+CH00987,Enzo Cunha,Comercial,2026-04-30 11:47:25,2026-05-01 18:35:25,Software/ERP,Erro ao emitir nota,WhatsApp,Baixa,Resolvido,Carlos Souza,30.8,Não,2.0
+CH00988,Asafe Lima,Logística,2026-04-05 14:32:10,2026-04-06 14:02:10,Redes,Cabo de rede desconectado,Telefone,Baixa,Resolvido,Ana Silva,23.5,Sim,4.0
+CH00989,Maya Costa,Logística,2026-03-25 12:03:49,2026-03-25 21:51:49,Redes,Wi-Fi instável,WhatsApp,Baixa,Fechado,Carlos Souza,9.8,Sim,5.0
+CH00990,Joana Dias,Logística,2026-04-01 06:01:59,2026-04-03 05:25:59,Acessos,Reset de senha AD,E-mail,Crítica,Fechado,Bruno Costa,47.4,Não,5.0
+CH00991,Mathias Novais,RH,2026-03-24 09:36:04,2026-03-25 17:24:04,Acessos,Criar novo usuário,E-mail,Média,Resolvido,Carlos Souza,31.8,Não,5.0
+CH00992,Lunna da Mota,RH,2026-04-25 11:21:22,2026-04-25 22:21:22,Acessos,Criar novo usuário,E-mail,Média,Fechado,Daniela Lima,11.0,Sim,5.0
+CH00993,Alice Viana,Operações,2026-05-07 08:24:47,,Hardware,Teclado com defeito,WhatsApp,Média,Em andamento,Carlos Souza,,Pendente,
+CH00994,Mariah Camargo,Financeiro,2026-05-13 22:36:12,2026-05-15 10:06:12,Acessos,Reset de senha AD,Portal de TI,Média,Resolvido,Ana Silva,35.5,Não,5.0
+CH00995,Diogo Nunes,RH,2026-04-27 03:10:21,2026-04-27 19:52:21,Hardware,Teclado com defeito,Portal de TI,Baixa,Resolvido,Bruno Costa,16.7,Sim,5.0
+CH00996,Beatriz Caldeira,Operações,2026-05-13 23:26:15,2026-05-15 03:20:15,Redes,Lentidão na VPN,E-mail,Crítica,Fechado,Daniela Lima,27.9,Não,5.0
+CH00997,João Pedro Nascimento,Operações,2026-05-11 12:36:00,2026-05-12 06:24:00,Hardware,Teclado com defeito,E-mail,Baixa,Reaberto,Ana Silva,17.8,Sim,4.0
+CH00998,Julia Gomes,Logística,2026-04-20 06:43:30,2026-04-21 05:07:30,Software/ERP,Erro ao emitir nota,Telefone,Média,Resolvido,Bruno Costa,22.4,Sim,5.0
+CH00999,Olívia Andrade,Comercial,2026-05-04 00:56:47,2026-05-05 09:02:47,Redes,Lentidão na VPN,Portal de TI,Baixa,Resolvido,Ana Silva,32.1,Não,4.0
+CH01000,Nathan Casa Grande,Comercial,2026-04-03 14:42:23,2026-04-04 18:30:23,Hardware,Impressora travada,Telefone,Alta,Resolvido,Ana Silva,27.8,Não,4.0
